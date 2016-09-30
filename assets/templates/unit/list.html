@@ -1,0 +1,43 @@
+<div>
+  <div flex layout="row" layout-align="space-around start" layout-padding>
+  <md-whiteframe layout="column" class="md-whiteframe-z2 md-padding" layout-margin flex-gt-sm="70">
+    <div layout="row">
+      <div class="formheader" flex>
+        <md-icon class="material-icons">folder_open</md-icon>
+        <span>Unit List</span>
+      </div>
+      <md-button ng-hide="loading">
+        <md-icon class="material-icons">search</md-icon>
+        <label>Search</label>
+      </md-button>
+      <md-button ng-click="newUnit()" class="md-primary md-hue-2" ng-hide="loading">
+        <md-icon class="material-icons">create_new_folder</md-icon>
+        <label>Create</label>
+      </md-button>
+      <md-progress-circular md-mode="indeterminate" class="md-primary md-hue-2" ng-show="loading"></md-progress-circular>
+    </div>
+    <md-table-pagination md-limit="query.limit" md-limit-options="limitOptions" md-page="query.page" md-total="{{total}}" md-on-paginate="onPagination" md-page-select="true" md-boundary-links="true"></md-table-pagination>
+    <md-table-container>
+      <table class="no-checkbox" md-table md-row-select ng-model="selected">
+        <thead md-head md-order="query.order" md-on-reorder="onReOrder">
+          <tr md-row>
+            <th md-column md-order-by="id"><span>#</span></th>
+            <th md-column md-order-by="name"><span>Unit Code</span></th>
+            <th md-column md-order-by="singular"><span>Singular Unit</span></th>
+            <th md-column md-order-by="plural"><span>Plural Unit</span></th>
+          </tr>
+        </thead>
+        <tbody md-body>
+          <tr md-row md-select="unit.id" md-auto-select md-on-select="showUnit" ng-repeat="unit in units | orderBy: order">
+            <td md-cell>{{unit.id}}</td>
+            <td md-cell>{{unit.name}}</td>
+            <td md-cell>{{unit.singular}}</td>
+            <td md-cell>{{unit.plural}}</td>
+          </tr>
+        </tbody>
+      </table>
+    </md-table-container>
+    <data-md-table-pagination md-limit="query.limit" md-limit-options="limitOptions" md-page="query.page" md-total="{{total}}" md-on-paginate="onPagination" md-page-select="true" md-boundary-links="true"></data-md-table-pagination>
+  </md-whiteframe>
+  </div>
+</div>

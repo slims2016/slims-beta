@@ -1,0 +1,62 @@
+<div>
+  <div flex layout="row" layout-align="space-around start" layout-padding>
+  <md-whiteframe layout="column" class="md-whiteframe-z2 md-padding" layout-margin flex style="max-width:500px; min-width:240px">
+    <md-table-container>
+      <table md-table>
+        <thead md-head>
+          <tr md-row>
+            <th md-column><span>#</span></th>
+            <th md-column><span>Category</span></th>
+            <th md-column><span>Description</span></th>
+          </tr>
+        </thead>
+        <tbody md-body>
+          <tr md-row>
+            <td md-cell>{{category.id}}</td>
+            <td md-cell>{{category.name}}</td>
+            <td md-cell>{{category.remark}}</td>
+          </tr>
+        </tbody>
+      </table>
+    </md-table-container>
+    <div class="formheader">
+      <md-icon class="material-icons">create_new_folder</md-icon>
+      <span>Create New Sub Category</span>
+    </div>
+    <form id="newSubcategoryForm" name="newSubcategoryForm" layout-align="start center" layout="row">
+      <span flex="5" show-gt-xs></span>
+      <div layout="column" flex="85">
+        <md-input-container class="no-margin-bottom md-block">
+          <label>Sub Category</label>
+          <input name="name" ng-model="subcategory.name" required md-maxlength="50" auto-focus-on>
+          <div ng-messages="newSubcategoryForm.name.$error" ng-show="newSubcategoryForm.name.$dirty">
+            <div ng-message="required">This field is required!</div>
+            <div ng-message="md-maxlength">That's too long!</div>
+          </div>
+        </md-input-container>
+        <md-input-container class="md-block">
+          <label>Sub Category Description</label>
+          <input name="remark" ng-model="subcategory.remark" required md-maxlength="50">
+          <div ng-messages="newSubcategoryForm.remark.$error" ng-show="newSubcategoryForm.remark.$dirty">
+            <div ng-message="required">This field is required!</div>
+            <div ng-message="md-maxlength">That's too long!</div>
+            <div ng-message="minlength">That's too short!</div>
+          </div>
+        </md-input-container>
+        <div layout="row" layout-align="start center" layout-align-xs="end center">
+          <span flex show-gt-xs></span>
+          <md-button type="sumbit" ng-click="addSubcategory()" ng-class="{'md-raised md-primary md-hue-2':newSubcategoryForm.$valid}">
+            <md-icon class="material-icons">&#xe145;</md-icon>
+            <label>Create</label>
+          </md-button>
+          <md-button ng-click="clearSubcategory()" ng-class="{'md-primary md-hue-2':newSubcategoryForm.$dirty}">
+            <md-icon class="material-icons">&#xe14c;</md-icon>
+            <label>Cancel</label>
+          </md-button>
+        </div>
+      </div>
+      <span flex show-gt-xs></span>
+    </form>
+  </md-whiteframe>
+  </div>
+</div>

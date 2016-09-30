@@ -1,0 +1,51 @@
+<div>
+  <div flex layout="row" layout-align="space-around start" layout-padding>
+  <md-whiteframe layout="column" class="md-whiteframe-z2 md-padding" layout-margin flex-gt-sm="80">
+    <div layout="row">
+      <div class="formheader" flex>
+        <md-icon class="material-icons">business</md-icon>
+        <span>Entity List</span>
+      </div>
+      <md-button ng-hide="loading">
+        <md-icon class="material-icons">search</md-icon>
+        <label>Search</label>
+      </md-button>
+      <md-button ng-click="newEntity()" class="md-primary md-hue-2" ng-hide="loading">
+        <md-icon class="material-icons">&#xe145;</md-icon>
+        <label>Create</label>
+      </md-button>
+      <md-progress-circular md-mode="indeterminate" class="md-primary md-hue-2" ng-show="loading"></md-progress-circular>
+    </div>
+    <md-table-pagination md-limit="query.limit" md-limit-options="limitOptions" md-page="query.page" md-total="{{total}}" md-on-paginate="onPagination" md-page-select="true" md-boundary-links="true"></md-table-pagination>
+    <md-table-container>
+      <table class="no-checkbox" md-table md-row-select ng-model="selected">
+        <thead md-head md-order="query.order" md-on-reorder="onReOrder">
+          <tr md-row>
+            <th md-column md-order-by="id"><span>#</span></th>
+            <th md-column md-order-by="type"><span>Type</span></th>
+            <th md-column md-order-by="entityid"><span>Entity ID</span></th>
+            <th md-column md-order-by="name"><span>Entity Name</span></th>
+            <th md-column md-order-by="fullname"><span>Entity Full Name</span></th>
+            <th md-column md-order-by="telno"><span>Telephone</span></th>
+            <th md-column md-order-by="email"><span>Email Address</span></th>
+            <th md-column md-order-by="country"><span>Country</span></th>
+          </tr>
+        </thead>
+        <tbody md-body>
+          <tr md-row md-select="entity.id" md-auto-select md-on-select="showEntity" ng-repeat="entity in entities | orderBy: order">
+            <td md-cell>{{entity.id}}</td>
+            <td md-cell>{{entity.type.name}}</td>
+            <td md-cell>{{entity.entityid}}</td>
+            <td md-cell>{{entity.name}}</td>
+            <td md-cell>{{entity.fullname}}</td>
+            <td md-cell>{{entity.telno}}</td>
+            <td md-cell>{{entity.email}}</td>
+            <td md-cell>{{entity.country.code}}</td>
+          </tr>
+        </tbody>
+      </table>
+    </md-table-container>
+    <data-md-table-pagination md-limit="query.limit" md-limit-options="limitOptions" md-page="query.page" md-total="{{total}}" md-on-paginate="onPagination" md-page-select="true" md-boundary-links="true"></data-md-table-pagination>
+  </md-whiteframe>
+  </div>
+</div>

@@ -1,0 +1,84 @@
+<!-- unit info page -->
+<div>
+  <div flex layout="row" layout-align="center start" layout-padding>
+    <!-- Unit Information -->
+    <md-whiteframe layout="column" class="md-whiteframe-z2 md-padding" layout-margin flex style="max-width:500px; min-width:240px">
+      <div layout="row">
+        <div class="formheader" flex>
+          <md-icon class="material-icons">folder_open</md-icon>
+          <span>Unit Information ( {{unit.id}} )</span>
+        </div>
+        <!-- Show Unit -->
+        <md-button ng-click="editUnit()" class="md-primary md-hue-2" ng-hide="editMode">
+          <md-icon class="material-icons">&#xe3c9;</md-icon>
+          <label>Edit</label>
+        </md-button>
+        <md-button ng-click="listUnit()" ng-hide="editMode">
+          <md-icon class="material-icons">&#xe166;</md-icon>
+          <label>Back</label>
+        </md-button>
+        <!-- Edit Unit -->
+        <md-button ng-click="updateUnit()" ng-class="{'md-warn md-hue-2':editUnitForm.$valid}" ng-show="editMode">
+          <md-icon class="material-icons">&#xe161;</md-icon>
+          <label>Save</label>
+        </md-button>
+        <md-button ng-click="showUnit()" ng-show="editMode">
+          <md-icon class="material-icons">&#xe166;</md-icon>
+          <label>Undo</label>
+        </md-button>
+      </div>
+      <!-- Show Unit -->
+      <div layout-align="start center" layout="row" ng-if="!editMode">
+        <span flex="5" show-gt-xs></span>
+        <div layout="column" flex="85">
+          <md-input-container class="no-margin-bottom md-block">
+            <label>Unit Code</label>
+            <input class="disabled-black" name="unitname" ng-model="unit.name" disabled>
+          </md-input-container>
+          <md-input-container class="no-margin-bottom md-block">
+            <label>Singular Unit</label>
+            <input class="disabled-black" name="singular" ng-model="unit.singular" disabled>
+          </md-input-container>
+          <md-input-container class="md-block">
+            <label>Plural Unit</label>
+            <input class="disabled-black" name="plural" ng-model="unit.plural" disabled>
+          </md-input-container>
+        </div>
+        <span flex show-gt-xs></span>
+      </div>
+      <!-- Edit Unit -->
+      <form id="editUnitForm" name="editUnitForm" ng-show="editMode">
+        <div layout-align="start center" layout="row">
+          <span flex="5" show-gt-xs></span>
+          <div layout="column" flex="85">
+            <md-input-container class="no-margin-bottom md-block">
+              <label>Unit Code</label>
+              <input name="unitname" ng-model="unit.name" required md-maxlength="10" focus-on="unitname">
+              <div ng-messages="editUnitForm.unitname.$error" ng-show="editUnitForm.unitname.$dirty">
+                <div ng-message="required">This field is required!</div>
+                <div ng-message="md-maxlength">That's too long!</div>
+              </div>
+            </md-input-container>
+            <md-input-container class="no-margin-bottom md-block">
+              <label>Singular Unit</label>
+              <input name="singular" ng-model="unit.singular" required md-maxlength="20">
+              <div ng-messages="editUnitForm.singular.$error" ng-show="editUnitForm.singular.$dirty">
+                <div ng-message="required">This field is required!</div>
+                <div ng-message="md-maxlength">That's too long!</div>
+              </div>
+            </md-input-container>
+            <md-input-container class="md-block">
+              <label>Plural Unit</label>
+              <input name="plural" ng-model="unit.plural" required md-maxlength="20">
+              <div ng-messages="editUnitForm.plural.$error" ng-show="editUnitForm.plural.$dirty">
+                <div ng-message="required">This field is required!</div>
+                <div ng-message="md-maxlength">That's too long!</div>
+              </div>
+            </md-input-container>
+          </div>
+          <span flex show-gt-xs></span>
+        </div>
+      </form>
+    </md-whiteframe>
+  </div>
+</div>

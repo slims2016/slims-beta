@@ -1,0 +1,30 @@
+<md-dialog layout="column" layout-padding flex style="max-width:400px; min-height:280px;">
+  <form id="loginForm" name="loginForm">
+    <div layout="row">
+      <div class="formheader">
+        <md-icon class="material-icons">lock</md-icon>
+        <span>Login to S.L.I.M.S.</span>
+      </div>
+    </div>
+    <md-dialog-content layout="row">
+      <span flex="5" show-gt-xs></span>
+      <div layout="column" flex="90">
+        <md-input-container class="no-margin-bottom">
+          <input ng-model="user.username" placeholder="User Name" focus-on="username" md-select-on-focus>
+        </md-input-container>
+        <md-input-container class="no-margin-bottom no-margin-top">
+          <input type="password" placeholder="Password" ng-model="user.password" md-select-on-focus>
+        </md-input-container>
+        <div layout="row" layout-align="center center">
+            <span flex show-gt-xs></span>
+            <md-progress-circular md-diameter="30" md-mode="indeterminate" class="md-primary md-hue-2" ng-show="loading"></md-progress-circular>
+            <md-button type="sumbit" ng-click="userLogin()" ng-class="{'md-raised md-primary md-hue-2':loginForm.$valid && !loading,'md-primary md-hue-2':loading}">
+              <md-icon class="material-icons" ng-hide="loading">check</md-icon>
+              <label data-ng-bind="btnLogin"></label>
+            </md-button>
+          </div>
+      </div>    
+      <span flex show-gt-xs></span>
+    </md-dialog-content>
+  </form>
+</md-dialog>

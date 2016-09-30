@@ -1,0 +1,703 @@
+Search results for "S"
+CITY NAME	3-LETTER CITY CODE	AIRPORT NAME	3-LETTER AIRPORT CODE
+Aktau	SCO	Aktau	SCO
+Al Thaurah	SOR	Al Thaurah	SOR
+Alto Boa Vista	SWM	Suia-Missu	SWM
+Bengkalis	SEQ	Sei Pakning	SEQ
+Berlin	BER	Schoenefeld	SXF
+Brunswick	SSI	Golden Isles	BQK
+Brunswick	SSI	Metropolitan Area	SSI
+Brunswick	SSI	Malcolm McKinnon	SSI
+Cerro Sombrero	SMB	Franco Bianco	SMB
+Dipayal Silgadhi	SIH	Doti	SIH
+Evensk	SWV	Severo-Evensk	SWV
+Fairfield	SUU	Travis AFB	SUU
+Fayetteville/Springd.	FYV	Springdale Municipal	SPZ
+Fort Wayne	FWA	Smith Field	SMD
+Gabriola Island	SYF	Silva Bay SPB	SYF
+Giza	SPX	Sphinx International	SPX
+Greenville	SNI	R.E. Murray	SNI
+Greenville/Spartanburg	GSP	Spartanb. Downtown Mem	SPA
+Hailey/Sun Valley	SUN	Friedman Memorial	SUN
+Heviz	SOB	Balaton	SOB
+Ho Chi Minh City	SGN	Tan Son Nhat Intl	SGN
+Houston	HOU	Sugar Land Regional	SGR
+Inda Selassie	SHC	Shire	SHC
+Istanbul	IST	Sabiha Gokcen	SAW
+Jingzhou	SHS	Shashi	SHS
+Kangerlussuaq	SFJ	Kangerlussuaq	SFJ
+Knob Noster	SZL	Whiteman AFB	SZL
+Koundara	SBI	Sambailo	SBI
+Kuala Lumpur	KUL	Sultan Abdul Aziz Shah	SZB
+Kuito	SVP	Kuito	SVP
+La Sarre	SSQ	La Sarre	SSQ
+Lamezia Terme	SUF	Airport	SUF
+London	LON	Southend	SEN
+London	LON	Stansted	STN
+Louisville	SDF	Bowman Field	LOU
+Louisville	SDF	Metropolitan Area	SDF
+Louisville	SDF	Intl-Standiford Fld	SDF
+Lubango	SDD	Mukanka	SDD
+Luganville	SON	Santo-Pekoa Intl	SON
+Mahe Island	SEZ	Seychelles Intl	SEZ
+Malabo	SSG	International	SSG
+Manila	MNL	Danilo Atienza AB	SGL
+Manzini	MTS	King Mswati III Intl	SHO
+M'banza Congo	SSY	M'banza Congo	SSY
+Menongue	SPP	Menongue	SPP
+Milikapiti	SNB	Snake Bay	SNB
+Minneapolis/St Paul	MSP	St Paul Downtown Apt	STP
+Montague/Yreka	SIY	Rohrer Field	ROF
+Montague/Yreka	SIY	Metropolitan Area	SIY
+Montague/Yreka	SIY	Siskiyou County	SIY
+Mont-Dauphin	SCP	St Crepin	SCP
+Moscow	MOW	Sheremetyevo	SVO
+Nakashibetsu	SHB	Nakashibetsu	SHB
+New York	NYC	Stewart International	SWF
+Nunam Iqua	SXP	Sheldon Point	SXP
+Orlando	ORL	Sanford Intl	SFB
+Parapat	SIW	Sibisa	SIW
+Pawtucket	SFZ	North Central State	SFZ
+Phoenix	PHX	Scottsdale Apt	SCF
+Piedras	SQB	Santa Ana	SQB
+Pinehurst/South. Pines	SOP	Moore County	SOP
+Prudhoe Bay/Deadhorse	SCC	Deadhorse	SCC
+Rio de Janeiro	RIO	Santos Dumont	SDU
+Rio de Janeiro	RIO	Santa Cruz AB	SNZ
+Saarbruecken	SCN	Metropolitan Area	SCN
+Saarbruecken	SCN	Saarbruecken Airport	SCN
+Saarbruecken	SCN	Zweibruecken	ZQW
+Saba	SAB	Juancho E. Yrausquin	SAB
+Sabah	SBV	Sabah	SBV
+Sabana de Torres	SNT	Las Cruces	SNT
+Sabang	SBG	Maimun Saleh	SBG
+Sabetta	SBT	International	SBT
+Sacramento	SAC	McClellan	MCC
+Sacramento	SAC	Mather	MHR
+Sacramento	SAC	Metropolitan Area	SAC
+Sacramento	SAC	Executive	SAC
+Sacramento	SAC	Stockton Metropolitan	SCK
+Sacramento	SAC	International	SMF
+Sadah	SYE	Sadah	SYE
+Sado	SDS	Sado	SDS
+Safford	SAD	Regional	SAD
+Safia	SFU	Safia	SFU
+Sagarai	SGJ	Sagarai	SGJ
+Saginaw Bay	SGW	Saginaw SPB	SGW
+Sahabat	SXS	Sahabat	SXS
+Sahiwal	SWN	Sahiwal	SWN
+Saibai Island	SBR	Saibai Island	SBR
+Saidor	SDI	Saidor	SDI
+Saidpur	SPD	Saidpur	SPD
+Saidu Sharif	SDT	Saidu Sharif	SDT
+Sainte-Marie	SMS	Sainte-Marie	SMS
+Saipan	SPN	Francisco C. Ada Intl	SPN
+Sakkyryr	SUK	Sakkyryr	SUK
+Sakon Nakhon	SNO	Sakon Nakhon	SNO
+Sal Island	SID	Amilcar Cabral Intl	SID
+Salalah	SLL	Salalah	SLL
+Salamanca	SLM	Airport	SLM
+Salamo	SAM	Salamo	SAM
+Saldanha Bay	SDB	Langebaanweg AFB	SDB
+Sale	SXE	West Sale	SXE
+Salekhard	SLY	Salekhard	SLY
+Salem	SLE	McNary Field	SLE
+Salem	SLO	Leckrone	SLO
+Salem	SXV	Salem	SXV
+Salida	SLT	Harriet Alexander Fld	SLT
+Salina	SLN	Regional	SLN
+Salina Cruz	SCX	Salina Cruz	SCX
+Salina/Gunnison	SBO	Salina/Gunnison	SBO
+Salinas	SNC	General Ulpiano Paez	SNC
+Salinas	SNS	Municipal	SNS
+Salisbury	SRW	Rowan County	SRW
+Salisbury/Ocean City	SBY	Wicomico Regional	SBY
+Salmon	SMN	Lemhi County	SMN
+Salt Cay	SLX	Salt Cay	SLX
+Salt Lake City	SLC	International	SLC
+Salta	SLA	Martin M. de Guemes	SLA
+Saltillo	SLW	Plan de Guadalupe Intl	SLW
+Salto	STY	Nueva Hesperides	STY
+Salton City	SAS	Salton Sea	SAS
+Salvador	SSA	Luis E. Magalhaes Intl	SSA
+Salzburg	SZG	W.A. Mozart	SZG
+Samarai Island	SQT	China Strait	SQT
+Samarinda	SRI	Temindung	SRI
+Samarkand	SKD	International	SKD
+Sambava	SVB	Sambava	SVB
+Sambu	SAX	Sambu	SAX
+Samos	SMI	Aristarchos of Samos	SMI
+Sampit	SMQ	H.Asan	SMQ
+Samsun	SZF	Carsamba	SZF
+San Andros	SAQ	San Andros	SAQ
+San Angelo	SJT	Regional (Mathis Fld)	SJT
+San Antonio	SAT	Randolph AFB	RND
+San Antonio	SAT	Metropolitan Area	SAT
+San Antonio	SAT	International	SAT
+San Antonio	SAT	Lackland AFB-Kelly Fld	SKF
+San Antonio	SAT	Stinson Municipal	SSF
+San Antonio Tachira	SVZ	Juan V. Gomez Intl	SVZ
+San Bernardino	SBD	International	SBD
+San Borja	SRJ	German Quiroga Guardia	SRJ
+San Carlos	SQL	San Carlos	SQL
+San Cristobal	SCI	Paramillo	SCI
+San Cristobal Island	SCY	San Cristobal	SCY
+San Diego	SAN	McClellan-Palomar	CLD
+San Diego	SAN	Montgomery Field	MYF
+San Diego	SAN	Miramar MCAS	NKX
+San Diego	SAN	North Island NAS	NZY
+San Diego	SAN	Metropolitan Area	SAN
+San Diego	SAN	International	SAN
+San Diego	SAN	Brown Field Municipal	SDM
+San Diego	SAN	Gillespie Field	SEE
+San Felipe	SFH	International	SFH
+San Felipe	SNF	Nestor Arias	SNF
+San Felipe	SSD	San Felipe	SSD
+San Felix	SFX	Macagua	SFX
+San Fernando	SFE	San Fernando	SFE
+San Fernando Apure	SFD	Las Flecheras	SFD
+San Francisco	SFO	International	SFO
+San Ignacio	SGM	San Ignacio	SGM
+San Ignacio	SQS	Town Airstrip	CYD
+San Ignacio	SQS	Matthew Spain	SQS
+San Ignacio de Moxos	SNM	San Ignacio de Moxos	SNM
+San Ignacio de Velasco	SNG	Cap.Juan Cochamanidis	SNG
+San Javier	SJV	San Javier	SJV
+San Joaquin	SJB	San Joaquin	SJB
+San Jose	SJC	Reid-Hillview	RHV
+San Jose	SJC	Metropolitan Area	SJC
+San Jose	SJC	Norman Y. Mineta Intl	SJC
+San Jose	SJI	San Jose	SJI
+San Jose	SJO	Juan Santamaria Intl	SJO
+San Jose	SJO	Tobias Bolanos Intl	SYQ
+San Jose de Chiquitos	SJS	San Jose de Chiquitos	SJS
+San Jose del Cabo	SJD	Los Cabos Intl	SJD
+San Jose del Guaviare	SJE	Jorge E. Gonzalez T.	SJE
+San Jose Island	SIC	San Jose Island	SIC
+San Juan	SJA	San Juan	SJA
+San Juan	SJU	F.L. Ribas Dominicci	SIG
+San Juan	SJU	Metropolitan Area	SJU
+San Juan	SJU	Luis Munoz Marin Intl	SJU
+San Juan de Uraba	SJR	San Juan de Uraba	SJR
+San Juan del Cesar	SJH	San Juan del Cesar	SJH
+San Julian	SNJ	Air Base	SNJ
+San Luis de Palenque	SQE	San Luis de Palenque	SQE
+San Luis Obispo	SBP	San Luis County Rgnl	SBP
+San Luis Potosi	SLP	Ponciano Arriaga Intl	SLP
+San Marcos	SRS	San Marcos	SRS
+San Pedro	SPR	San Pedro	SPR
+San Pedro de Jagua	SJG	San Pedro de Jagua	SJG
+San Pedro Sula	SAP	Ramon V. Morales Intl	SAP
+San Quintin	SNQ	San Quintin	SNQ
+San Rafael	SRF	Airport	SRF
+San Ramon	SRD	San Ramon	SRD
+San Salvador	SAL	El Salvador Intl	SAL
+San Salvador de Paul	SVV	San Salvador de Paul	SVV
+San Tome	SOM	San Tome	SOM
+San Vicente del Caguan	SVI	Eduardo Falla Solano	SVI
+Sana'a	SAH	International	SAH
+Sanana	SQN	Emalamo	SQN
+Sanandaj	SDG	Sanandaj	SDG
+Sand Creek	SDC	Sand Creek	SDC
+Sand Point	SDP	Sand Point	SDP
+Sandakan	SDK	Sandakan	SDK
+Sandane	SDN	Anda	SDN
+Sandnessjoen	SSJ	Stokka	SSJ
+Sandringham Station	SRM	Sandringham Station	SRM
+Sandusky	SKY	Griffing Sandusky	SKY
+Sanford	SFM	Seacoast Regional	SFM
+Sangapi	SGK	Sangapi	SGK
+Sangata	SGQ	Sangkimah	SGQ
+Sanliurfa	SFQ	Guney Anadolu Projesi	GNY
+Sanliurfa	SFQ	Sanliurfa Airport	SFQ
+Sanming	SQJ	Shaxian	SQJ
+San-Pedro	SPY	San-Pedro	SPY
+Santa Ana	SNA	John Wayne	SNA
+Santa Ana del Yacuma	SBL	Santa Ana del Yacuma	SBL
+Santa Barbara	SBA	Municipal	SBA
+Santa Barbara Barinas	SBB	Santa Barbara Barinas	SBB
+Santa Barbara Zulia	STB	Miguel U. Fernandez	STB
+Santa Catalina	SCA	Santa Catalina	SCA
+Santa Clara	SNU	Abel Santamaria	SNU
+Santa Cruz	SRZ	Metropolitan Area	SRZ
+Santa Cruz	SRZ	El Trompillo	SRZ
+Santa Cruz	SRZ	Viru Viru Intl	VVI
+Santa Cruz de la Palma	SPC	La Palma	SPC
+Santa Cruz Island	SCZ	Santa Cruz Island	SCZ
+Santa Cruz Island	SZN	Santa Cruz Island	SZN
+Santa Elena de Uairen	SNV	Santa Elena de Uairen	SNV
+Santa Fe	SAF	Municipal	SAF
+Santa Fe	SFN	Sauce Viejo	SFN
+Santa Fe do Sul	SFV	Fazenda Tres Irmaos	SFV
+Santa Maria	SMC	Santa Maria	SMC
+Santa Maria	SMG	Santa Maria	SMG
+Santa Maria	SMX	Public Apt	SMX
+Santa Maria Island	SMA	Santa Maria Island	SMA
+Santa Marta	SMR	Simon Bolivar Intl	SMR
+Santa Monica	SMO	Municipal	SMO
+Santa Paula	SZP	Santa Paula	SZP
+Santa Rosa	SRA	Luis Alberto Lehr	SRA
+Santa Rosa	SRB	Santa Rosa	SRB
+Santa Rosa	STS	Charles M. Schulz	STS
+Santa Rosa de Copan	SDH	Santa Rosa de Copan	SDH
+Santa Rosalia	SRL	Palo Verde	SRL
+Santa Rosalia	SSL	Santa Rosalia	SSL
+Santa Teresita	SST	Santa Teresita	SST
+Santa Terezinha	STZ	Santa Terezinha	STZ
+Santa Ynez	SQA	Santa Ynez	SQA
+Santana Ramos	SRO	Santana Ramos	SRO
+Santander	SDR	Airport	SDR
+Santarem	STM	Maestro Wilson Fonseca	STM
+Santiago	SCL	Arturo Merino Benitez	SCL
+Santiago	STI	Cibao Intl	STI
+Santiago	SYP	Ruben Cantu	SYP
+Santiago de Compostela	SCQ	Santiago de Compostela	SCQ
+Santiago de Cuba	SCU	Antonio Maceo Intl	SCU
+Santiago del Estero	SDE	A. de la Paz Aragonez	SDE
+Santo Domingo	SDQ	Dr.Joaquin Balaguer	JBQ
+Santo Domingo	SDQ	Metropolitan Area	SDQ
+Santo Domingo	SDQ	Las Americas Intl	SDQ
+Santo Domingo	STD	Buenaventura Vivas	STD
+Santos	SSZ	AFB	SSZ
+Sanya	SYX	Phoenix Intl	SYX
+Sao Felix do Araguaia	SXO	Sao Felix do Araguaia	SXO
+Sao Felix do Xingu	SXX	Sao Felix do Xingu	SXX
+Sao Filipe	SFL	Sao Filipe	SFL
+Sao Gabriel Cachoeira	SJL	Sao Gabriel Cachoeira	SJL
+Sao Jorge Island	SJZ	Sao Jorge Island	SJZ
+Sao Jose do Rio Preto	SJP	Eribelto Manoel Reino	SJP
+Sao Jose dos Campos	SJK	U.E. Stumpf Intl	SJK
+Sao Lourenco	SSO	Sao Lourenco	SSO
+Sao Lourenco do Sul	SQY	Sao Lourenco do Sul	SQY
+Sao Luis	SLZ	Cunha Machado Intl	SLZ
+Sao Mateus	SBJ	Sao Mateus	SBJ
+Sao Miguel do Araguaia	SQM	Sao Miguel do Araguaia	SQM
+Sao Miguel do Oeste	SQX	Helio Wasum	SQX
+Sao Nicolau Island	SNE	Preguica	SNE
+Sao Paulo	SAO	Congonhas	CGH
+Sao Paulo	SAO	Guarulhos Intl	GRU
+Sao Paulo	SAO	Metropolitan Area	SAO
+Sao Paulo	SAO	Viracopos-Campinas Int	VCP
+Sapmanga	SMH	Sapmanga	SMH
+Saposoa	SQU	Saposoa	SQU
+Sapporo	SPK	New Chitose	CTS
+Sapporo	SPK	Okadama	OKD
+Sapporo	SPK	Metropolitan Area	SPK
+Sara	SSR	Sara	SSR
+Sarajevo	SJJ	International	SJJ
+Saranac Lake	SLK	Adirondack Regional	SLK
+Saransk	SKX	Saransk	SKX
+Sarasota/Bradenton	SRQ	International	SRQ
+Saratoga	SAA	Shively Field	SAA
+Sardeh Band	SBF	Sardeh Band	SBF
+Sargodha	SGI	Bhagatanwala	BHW
+Sargodha	SGI	Metropolitan Area	SGI
+Sargodha	SGI	Mushaf AB	SGI
+Sarh	SRH	Sarh	SRH
+Sari	SRY	Dasht-e-Naz	SRY
+Sarteneja	SJX	Sarteneja	SJX
+Saskylakh	SYS	Saskylakh	SYS
+Sasstown	SAZ	Sasstown	SAZ
+Satu Mare	SUJ	Satu Mare	SUJ
+Satwag	SWG	Satwag	SWG
+Saudarkrokur	SAK	Alexander	SAK
+Sault Ste Marie	SSM	Chippewa County Intl	CIU
+Sault Ste Marie	SSM	Metropolitan Area	SSM
+Sault Ste Marie	SSM	Municipal	SSM
+Saumlaki	SXK	Olilit	SXK
+Sauren	SXW	Sauren	SXW
+Savannah	SAV	Metropolitan Area	SAV
+Savannah	SAV	Hilton Head	SAV
+Savannah	SAV	Hunter AAF	SVN
+Save	SVF	Save	SVF
+Savo Island	SVY	Savo Island	SVY
+Savonlinna	SVL	Savonlinna	SVL
+Savoonga	SVA	Savoonga	SVA
+Savusavu	SVU	Savusavu	SVU
+Savuti	SVT	Savuti	SVT
+Sawu	SAU	Tardamu	SAU
+Scammon Bay	SCM	Scammon Bay	SCM
+Scampton	SQZ	RAF Station	SQZ
+Schenectady	SCH	County	SCH
+Schwerin	SZW	Parchim	SZW
+Scribner	SCB	State	SCB
+Seal Bay	SYB	Sea Plane Base	SYB
+Searcy	SRC	Municipal	SRC
+Seattle	SEA	Boeing Fld-King Co Int	BFI
+Seattle	SEA	Lake Union SPB	LKE
+Seattle	SEA	Metropolitan Area	SEA
+Seattle	SEA	Seattle-Tacoma Intl	SEA
+Sebha	SEB	Sebha	SEB
+Sebring	SEF	Regional	SEF
+Sedom	SED	Min'hat Hashnayim	SED
+Sedona	SDX	Sedona	SDX
+Segou	SZU	Segou	SZU
+Seguela	SEO	Seguela	SEO
+Sehonghong	SHK	Sehonghong	SHK
+Sehulea	SXH	Sehulea	SXH
+Sehwan	SYW	Sehwan Sharif	SYW
+Seinajoki	SJY	Seinajoki	SJY
+Sekake	SKQ	Sekake	SKQ
+Selbang	SBC	Selbang	SBC
+Seldovia	SOV	Seldovia	SOV
+Selibabi	SEY	Selibabi	SEY
+Selinsgrove	SEG	Penn Valley	SEG
+Selma	SEM	Craig Field	SEM
+Semarang	SRG	Ahmad Yani	SRG
+Semera	SZE	Semera	SZE
+Semongkong	SOK	Semongkong	SOK
+Semporna	SMM	Semporna	SMM
+Senanga	SXG	Senanga	SXG
+Sendai	SDJ	Sendai	SDJ
+Senggeh	SEH	Senggeh	SEH
+Seoul	SEL	Gimpo International	GMP
+Seoul	SEL	Incheon International	ICN
+Seoul	SEL	Metropolitan Area	SEL
+Seoul	SEL	Air Base	SSN
+Sepik Plains	SPV	Sepik Plains	SPV
+Sepulot	SPE	Sepulot	SPE
+Sequim	SQV	Sequim Valley	SQV
+Seronera	SEU	Seronera	SEU
+Sesheke	SJQ	Sesheke	SJQ
+Seshote	SHZ	Seshote	SHZ
+Sesriem	SZM	Sesriem	SZM
+Severodonetsk	SEV	Severodonetsk	SEV
+Sevilla	SVQ	Airport	SVQ
+Seward	SWD	Seward	SWD
+Seymour	SER	Freeman Municipal	SER
+Sfax	SFA	Thyna	SFA
+Shageluk	SHX	Shageluk	SHX
+Shakawe	SWX	Shakawe	SWX
+Shakiso	SKR	Shakiso	SKR
+Shaktoolik	SKK	Shaktoolik	SKK
+Shanghai	SHA	Pudong Intl	PVG
+Shanghai	SHA	Metropolitan Area	SHA
+Shanghai	SHA	Hongqiao Intl	SHA
+Shangrao	SQD	Sanqingshan	SQD
+Shannon	SNN	International	SNN
+Shanshan	SXJ	Shanshan	SXJ
+Shantou	SWA	Jieyang Chaoshan	SWA
+Sharjah	SHJ	Sharjah	SHJ
+Sharm el-Sheikh	SSH	International	SSH
+Sharurah	SHW	Sharurah	SHW
+Shaw River	SWB	Shaw River	SWB
+Shawnee	SNL	Regional	SNL
+Shay Gap	SGP	Shay Gap	SGP
+Sheboygan	SBM	Sheboygan County Mem.	SBM
+Sheep Mountain	SMU	Sheep Mountain	SMU
+Sheghnan	SGA	Sheghnan	SGA
+Shelby	SBX	Shelby	SBX
+Shelbyville	SYI	Municipal-Bomar Field	SYI
+Shelton	SHN	Sanderson Field	SHN
+Shemya	SYA	Eareckson Air Station	SYA
+Shenyang	SHE	Taoxian Intl	SHE
+Shenzhen	SZX	Bao'an Intl	SZX
+Shepparton	SHT	Shepparton	SHT
+Sheridan	SHR	Sheridan County	SHR
+Shetland Islands	SDZ	Sumburgh	LSI
+Shetland Islands	SDZ	Lerwick/Tingwall	LWK
+Shetland Islands	SDZ	Scatsta	SCS
+Shetland Islands	SDZ	Metropolitan Area	SDZ
+Shihezi	SHF	Huayuan	SHF
+Shijiazhuang	SJW	Zhengding Intl	SJW
+Shillong	SHL	Barapani	SHL
+Shimla	SLV	Shimla	SLV
+Shimojishima	SHI	Shimojishima	SHI
+Shinyanga	SHY	Ibadakuli	SHY
+Shirahama	SHM	Nanki-Shirahama	SHM
+Shiraz	SYZ	Shahid Dastghaib Intl	SYZ
+Shiringayoc	SYC	Shiringayoc	SYC
+Shishmaref	SHH	Shishmaref	SHH
+Shonai	SYO	Shonai	SYO
+Show Low	SOW	Regional	SOW
+Shreveport	SHV	Barksdale AFB	BAD
+Shreveport	SHV	Downtown Apt	DTN
+Shreveport	SHV	Metropolitan Area	SHV
+Shreveport	SHV	Regional	SHV
+Shungnak	SHG	Shungnak	SHG
+Sialkot	SKT	International	SKT
+Sialum	SXA	Sialum	SXA
+Siasi	SSV	Siasi	SSV
+Siassi	SSS	Siassi	SSS
+Siauliai	SQQ	International	SQQ
+Sibi	SBQ	Sibi	SBQ
+Sibiti	SIB	Sibiti	SIB
+Sibiu	SBZ	Sibiu	SBZ
+Sibu	SBW	Sibu	SBW
+Sidi Barrani	SQK	Sidi Barrani	SQK
+Sidi Ifni	SII	Sania Ramel	SII
+Sidney	SDY	Richland Municipal	SDY
+Sidney	SNY	Municipal	SNY
+Sidney	SXY	Municipal	SXY
+Siegen	SGE	Siegerland	SGE
+Siena	SAY	Ampugnano	SAY
+Sierra Grande	SGV	Sierra Grande	SGV
+Siglufjordur	SIJ	Siglufjordur	SIJ
+Siguanea	SZJ	Siguanea	SZJ
+Siirt	SXZ	Siirt	SXZ
+Sikeston	SIK	Memorial Municipal	SIK
+Sila	SIL	Sila	SIL
+Silistra	SLS	Polkovnik-Lambrinovo	SLS
+Siloam Springs	SLG	Smith Field	SLG
+Silur	SWR	Silur	SWR
+Silver City	SVC	Grant County	SVC
+Silver Creek	SVK	Silver Creek	SVK
+Silver Plains	SSP	Silver Plains	SSP
+Sim	SMJ	Sim	SMJ
+Simao	SYM	Simao	SYM
+Simara	SIF	Simara	SIF
+Simbai	SIM	Simbai	SIM
+Simenti	SMY	Simenti	SMY
+Simferopol	SIP	International	SIP
+Sines	SIE	Sines	SIE
+Singapore	SIN	Paya Lebar	QPG
+Singapore	SIN	Metropolitan Area	SIN
+Singapore	SIN	Changi	SIN
+Singapore	SIN	Tengah	TGA
+Singapore	SIN	Seletar	XSP
+Singaua	SGB	Singaua	SGB
+Singita Safari Lodge	SSX	Singita Safari Lodge	SSX
+Singkep	SIQ	Dabo	SIQ
+Singleton	SIX	Singleton	SIX
+Sintang	SQG	Susilo	SQG
+Sion	SIR	Sion	SIR
+Sioux City	SUX	Sioux Gateway	SUX
+Sipitang	SPT	Sipitang	SPT
+Sirjan	SYJ	Sirjan	SYJ
+Sirri Island	SXI	Sirri Island	SXI
+Sirte	SRX	Gardabya	SRX
+Sishen	SIS	Sishen	SIS
+Sissano	SIZ	Sissano	SIZ
+Sitiawan	SWY	Sitiawan	SWY
+Sitka	SIT	Rocky Gutierrez	SIT
+Siuna	SIU	Siuna	SIU
+Siwa Oasis	SEW	North	SEW
+Siwea	SWE	Siwea	SWE
+Skagway	SGY	Skagway	SGY
+Skeldon	SKM	Skeldon	SKM
+Skelleftea	SFT	Skelleftea	SFT
+Skien	SKE	Geiteryggen	SKE
+Skikda	SKI	Skikda	SKI
+Skive	SQW	Airport	SQW
+Skopje	SKP	Alexander the Great	SKP
+Skukuza	SZK	Skukuza	SZK
+Skwentna	SKW	Skwentna	SKW
+Skye	SKL	Broadford	SKL
+Skyros	SKU	Skyros	SKU
+Sleetmute	SLQ	Sleetmute	SLQ
+Sliac	SLD	Sliac	SLD
+Sligo	SXL	Airport	SXL
+Smara	SMW	Smara	SMW
+Smith Point	SHU	Smith Point	SHU
+Smithton	SIO	Smithton	SIO
+Snyder	SNK	Winston Field	SNK
+Soc Trang	SOA	Soc Trang	SOA
+Socotra	SCT	Socotra	SCT
+Sodankyla	SOT	Sodankyla	SOT
+Soderhamn	SOO	Soderhamn	SOO
+Sodo	SXU	Sodo	SXU
+Sofia	SOF	Sofia	SOF
+Sogamoso	SOX	Alberto Lleras Camargo	SOX
+Sogndal	SOG	Haukasen	SOG
+Sokhumi	SUI	Dranda	SUI
+Sokoto	SKO	Sadiq Abubakar III Int	SKO
+Sola	SLH	Vanua Lava	SLH
+Solano	SQF	Solano	SQF
+Solapur	SSE	Solapur	SSE
+Soldotna	SXQ	Soldotna	SXQ
+Solenzara	SOZ	Solenzara	SOZ
+Solita	SOH	Solita	SOH
+Solomon	SLJ	Solomon	SLJ
+Solomon	SOL	State Field	SOL
+Solwezi	SLI	Solwezi	SLI
+Somerset	SME	Lake Cumberland Rgnl	SME
+Son La	SQH	Na San	SQH
+Sonderborg	SGD	Airport	SGD
+Songea	SGX	Songea	SGX
+Songkhla	SGZ	Songkhla	SGZ
+Sopu	SPH	Sopu	SPH
+Sorkjosen	SOJ	Sorkjosen	SOJ
+Soroako	SQR	Soroako	SQR
+Sorocaba	SOD	Bertram Luiz Leupolz	SOD
+Sorong	SOQ	Domine Eduard Osok	SOQ
+Soroti	SRT	Soroti	SRT
+Sorriso	SMT	Sorriso	SMT
+Souanke	SOE	Souanke	SOE
+Soure	SFK	Soure	SFK
+South Bend	SBN	International	SBN
+South West Bay	SWJ	South West Bay	SWJ
+Southampton	SOU	Southampton	SOU
+Southern Cross	SQC	Southern Cross	SQC
+Southport	SHQ	Southport	SHQ
+Soyo	SZA	Soyo	SZA
+Spangdahlem	SPM	Air Base	SPM
+Sparrevohn	SVW	Sparrevohn	SVW
+Sparta	SAR	Sparta Community	SAR
+Sparta	SPJ	Sparta	SPJ
+Spearfish	SPF	Black Hills	SPF
+Spencer	SPW	Municipal	SPW
+Split	SPU	Split	SPU
+Spokane	GEG	Felts Field	SFF
+Spokane	GEG	Fairchild AFB	SKA
+Spring Creek	SCG	Spring Creek	SCG
+Springbok	SBU	Springbok	SBU
+Springfield	SFY	Bradley International	BDL
+Springfield	SFY	Westover Metropolitan	CEF
+Springfield	SFY	Metropolitan Area	SFY
+Springfield	SGF	Springfld-Branson Natl	SGF
+Springfield	SGH	Beckley Municipal	SGH
+Springfield	SPI	A.Lincoln Capital	SPI
+Srednekolymsk	SEK	Srednekolymsk	SEK
+Srinagar	SXR	Sheikh ul Alam	SXR
+St Barthelemy	SBH	Gustaf III	SBH
+St Catherine	SKV	International	SKV
+St Cloud	STC	Regional	STC
+St Croix Island	STX	Christiansted SPB	SSB
+St Croix Island	STX	Metropolitan Area	STX
+St Croix Island	STX	Henry E. Rohlsen	STX
+St George	SGO	St George	SGO
+St George	SGU	Municipal	SGU
+St George Island	STG	St George Island	STG
+St John Island	SJF	Cruz Bay SPB	SJF
+St Johns	SJN	Industrial Air Park	SJN
+St Joseph	STJ	Rosecrans Memorial	STJ
+St Kitts	SKB	Robert L. Bradshaw Int	SKB
+St Louis	STL	Downtown Airport	CPS
+St Louis	STL	Metropolitan Area	STL
+St Louis	STL	Lambert-St Louis Intl	STL
+St Louis	STL	Spirit Of St Louis	SUS
+St Lucia	SLU	Metropolitan Area	SLU
+St Lucia	SLU	George F.L. Charles	SLU
+St Lucia	SLU	Hewanorra Intl	UVF
+St Maarten	SXM	Princess Juliana Intl	SXM
+St Martin	SFG	Grand-Case L'Esperance	SFG
+St Marys	STQ	Municipal	STQ
+St Michael	SMK	St Michael	SMK
+St Moritz	SMV	Engadin	SMV
+St Paul Island	SNP	St Paul Island	SNP
+St Pauls	SVM	St Pauls	SVM
+St Thomas Island	STT	Charlotte Amalie SPB	SPB
+St Thomas Island	STT	Metropolitan Area	STT
+St Thomas Island	STT	Cyril E. King	STT
+St Vincent	SVD	E.T. Joshua	SVD
+Stanthorpe	SNH	Stanthorpe	SNH
+Stanton	SYN	Stanton	SYN
+Stara Zagora	SZR	Kolyu Ganchevo	SZR
+State College	SCE	University Park	SCE
+Statesville	SVH	Municipal	SVH
+Stauning	STA	Stauning	STA
+Staunton/Waynesboro	SHD	Shenandoah Valley Rgnl	SHD
+Stavanger	SVG	Sola	SVG
+Stavropol	STW	Shpakovskoye	STW
+Stawell	SWC	Stawell	SWC
+St-Brieuc	SBK	Armor	SBK
+Steamboat Springs	SBS	Bob Adams Field	SBS
+Stella Maris	SML	Stella Maris	SML
+Stephens Island	STF	Stephens Island	STF
+Stephenville	SEP	Clark Field Regional	SEP
+Sterling	STK	Municipal	STK
+Sterling/Rock Falls	SQI	Whiteside County	SQI
+Stevens Point	STE	Municipal	STE
+Stevens Village	SVS	Stevens Village	SVS
+Stewart Island	SZS	Ryan's Creek	SZS
+St-Francois	SFC	St-Francois	SFC
+Stillwater	SWO	Regional	SWO
+St-Nazaire	SNR	Montoir	SNR
+Stockholm	SMP	Stockholm	SMP
+Stockholm	STO	Arlanda	ARN
+Stockholm	STO	Bromma	BMA
+Stockholm	STO	Skavsta	NYO
+Stockholm	STO	Metropolitan Area	STO
+Stockholm	STO	Vasteras	VST
+Stoelmanseiland	SMZ	Stoelmanseiland	SMZ
+Stokmarknes	SKN	Skagen	SKN
+Stony River	SRV	Stony River	SRV
+Stord	SRP	Sorstokken	SRP
+Storm Lake	SLB	Municipal	SLB
+Stornoway	SYY	Stornoway	SYY
+Storuman	SQO	Storuman	SQO
+Stradbroke Island	SRR	Dunwich	SRR
+Strahan	SRN	Strahan	SRN
+Strasbourg	SXB	Entzheim	SXB
+Strathmore	STH	Strathmore	STH
+Strezhevoy	SWT	Strezhevoy	SWT
+Stronsay	SOY	Stronsay	SOY
+Stroud	SUD	Municipal	SUD
+Stuart	SUA	Witham Field	SUA
+Stuart Island	SSW	Airpark	SSW
+Sturgeon Bay	SUE	Door County Cherryland	SUE
+Sturt Creek	SSK	Sturt Creek	SSK
+Stuttgart	SGT	Municipal	SGT
+Stuttgart	STR	Airport	STR
+St-Yan	SYT	St-Yan	SYT
+Stykkisholmur	SYK	Stykkisholmur	SYK
+Sua Pan	SXN	Sua Pan	SXN
+Suabi	SBE	Suabi	SBE
+Subic Bay	SFS	International	SFS
+Suceava	SCV	Stefan cel Mare	SCV
+Sucre	SRE	Alcantari	SRE
+Sucua	SUQ	Sucua	SUQ
+Sui	SUL	Sui	SUL
+Suki	SKC	Suki	SKC
+Sukkur	SKZ	Sukkur	SKZ
+Sulaco	SCD	Sulaco	SCD
+Sulayel	SLF	Sulayel	SLF
+Sullivan	SIV	Sullivan County	SIV
+Sulphur Springs	SLR	Municipal	SLR
+Sumbawa	SWQ	Lunyuk	LYK
+Sumbawa	SWQ	Brangbiji	SWQ
+Sumbawanga	SUT	Sumbawanga	SUT
+Sumenep	SUP	Trunojoyo	SUP
+Summer Beaver	SUR	Summer Beaver	SUR
+Sumter	SSC	Metropolitan Area	SSC
+Sumter	SSC	Shaw AFB	SSC
+Sumter	SSC	Sumter Apt	SUM
+Sundsvall/Harnosand	SDL	Sundsvall-Timra	SDL
+Sunriver	SUO	Sunriver	SUO
+Suntar	SUY	Suntar	SUY
+Superior	SUW	Richard I Bong	SUW
+Sur	SUH	Sur	SUH
+Surabaya	SUB	Juanda	SUB
+Surakarta (Solo)	SOC	Adi Sumarmo	SOC
+Surat	STV	Surat	STV
+Surgut	SGC	Surgut	SGC
+Suria	SUZ	Suria	SUZ
+Surigao	SUG	Surigao	SUG
+Surkhet	SKH	Surkhet	SKH
+Susanville	SVE	Municipal	SVE
+Suva	SUV	Nausori Intl	SUV
+Suwon	SWU	Air Base	SWU
+Suzhou	SZV	Guangfu	SZV
+Svolvaer	SVJ	Helle	SVJ
+Swakopmund	SWP	Airport	SWP
+Swan Hill	SWH	Swan Hill	SWH
+Swansea	SWS	Swansea	SWS
+Sweetwater	SWW	Avenger Field	SWW
+Syangboche	SYH	Syangboche	SYH
+Sydney	SYD	Bankstown	BWU
+Sydney	SYD	Palm Beach SPB	LBH
+Sydney	SYD	Rose Bay SPB	RSE
+Sydney	SYD	Metropolitan Area	SYD
+Sydney	SYD	Kingsford Smith	SYD
+Syktyvkar	SCW	Syktyvkar	SCW
+Sylvester	SYV	Sylvester	SYV
+Syracuse	SYR	Hancock Intl	SYR
+Szczecin	SZZ	Goleniow	SZZ
+Szczytno	SZY	Olsztyn-Mazury	SZY
+Taman Negara	SXT	Sungai Tiang	SXT
+Tampa	TPA	St Pete-Albert Whitted	SPG
+Tel Aviv-Yafo	TLV	Sde Dov	SDV
+Thandwe	SNW	Thandwe	SNW
+Thessaloniki	SKG	Makedonia	SKG
+Vojens	SKS	Skrydstrup	SKS
+Warraber Island	SYU	Warraber Island	SYU
+Wichita Falls	SPS	Kickapoo Downtown Apt	KIP
+Wichita Falls	SPS	Metropolitan Area	SPS
+Wichita Falls	SPS	Municipal/Sheppard AFB	SPS
+Xi'an	SIA	Metropolitan Area	SIA
+Xi'an	SIA	Xiguan	SIA
+Xi'an	SIA	Xianyang Intl	XIY
+Yekaterinburg	SVX	Koltsovo	SVX
+Zaysan	SZI	Zaysan	SZI
+
+Displaying 699 result(s)

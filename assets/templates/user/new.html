@@ -1,0 +1,73 @@
+<div>
+  <div flex layout="row" layout-align="space-around start" layout-padding>
+  <md-whiteframe layout="column" class="md-whiteframe-z2 md-padding" layout-margin flex style="max-width:500px; min-width:240px">
+    <div class="formheader">
+      <md-icon class="material-icons">person_add</md-icon>
+      <span>Create New User</span>
+    </div>
+    <form id="newUserForm" name="newUserForm" layout-align="start center" layout="row">
+      <span flex="5" show-gt-xs></span>
+      <div layout="column" flex="85">
+        <md-input-container class="no-margin-bottom md-block">
+          <label>User Name</label>
+          <input name="username" ng-model="user.username" required md-maxlength="50" minlength="5" auto-focus-on>
+          <div ng-messages="newUserForm.username.$error" ng-show="newUserForm.username.$dirty">
+            <div ng-message="required">This field is required!</div>
+            <div ng-message="md-maxlength">That's too long!</div>
+            <div ng-message="minlength">That's too short!</div>
+          </div>
+        </md-input-container>
+        <md-input-container class="no-margin-bottom">
+          <label>Full User Name</label>
+          <input name="fullname" ng-model="user.fullname" required md-maxlength="50">
+          <div ng-messages="newUserForm.fullname.$error" ng-show="newUserForm.fullname.$dirty">
+            <div ng-message="required">This field is required!</div>
+            <div ng-message="md-maxlength">That's too long!</div>
+            <div ng-message="minlength">That's too short!</div>
+          </div>
+        </md-input-container>
+        <md-input-container class="no-margin-bottom md-block">
+          <label>Email Address</label>
+          <input name="email" ng-model="user.email" required 
+               md-maxlength="50" ng-pattern="/^.+@.+\..+$/">
+            <div ng-messages="newUserForm.email.$error" ng-show="newUserForm.email.$dirty">
+              <div ng-message="required">This field is required!</div>
+              <div ng-message="md-maxlength">That's too long!</div>
+              <div ng-message="pattern">You must a valid e-mail address!</div>
+            </div>
+        </md-input-container>
+        <md-input-container class="no-margin-bottom md-block">
+            <label>Password</label>
+            <input required type="password" id="password" name="password" ng-model="user.password"
+                     minlength="6" />
+              <div ng-messages="newUserForm.password.$error" ng-show="newUserForm.password.$dirty">
+                <div ng-message="required">This field is required!</div>
+                <div ng-message="minlength">Password at least 6 charactors!</div>
+              </div>
+        </md-input-container>
+        <md-input-container class="md-block">
+            <label>Password Confirmation</label>
+            <input required type="password" id="confirmation" name="confirmation" ng-model="user.confirmation"
+                      minlength="6" pw-check="password" />
+              <div ng-messages="newUserForm.confirmation.$error" ng-show="newUserForm.confirmation.$dirty">
+                <div ng-message="required">This field is required!</div>
+                <div ng-message="pwmatch">Password is not match!</div>
+              </div>
+        </md-input-container>
+        <div layout="row" layout-align="start center" layout-align-xs="end center">
+          <span flex show-gt-xs></span>
+          <md-button type="sumbit" ng-click="addUser()" ng-class="{'md-raised md-primary md-hue-2':newUserForm.$valid}">
+            <md-icon class="material-icons">&#xe145;</md-icon>
+            <label>Create</label>
+          </md-button>
+          <md-button ng-click="clearUser()" ng-class="{'md-primary md-hue-2':newUserForm.$dirty}">
+            <md-icon class="material-icons">&#xe14c;</md-icon>
+            <label>Cancel</label>
+          </md-button>
+        </div>
+      </div>
+      <span flex show-gt-xs></span>
+    </form>
+  </md-whiteframe>
+  </div>
+</div>

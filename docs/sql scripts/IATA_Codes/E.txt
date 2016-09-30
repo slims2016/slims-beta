@@ -1,0 +1,272 @@
+Search results for "E"
+CITY NAME	3-LETTER CITY CODE	AIRPORT NAME	3-LETTER AIRPORT CODE
+Abbs	EAB	Abbs	EAB
+Alexandria	AEX	Esler Regional	ESF
+Anchorage	ANC	Elmendorf AFB	EDF
+Ankara	ANK	Esenboga	ESB
+Antique	EUQ	Evelio Javier	EUQ
+Arcata/Eureka	ACV	Murray Field	EKA
+Barrancabermeja	EJA	Yariguies	EJA
+Basel/Mulhouse	EAP	EuroAirport Swiss	BSL
+Basel/Mulhouse	EAP	Metropolitan Area	EAP
+Basel/Mulhouse	EAP	EuroAirport French FR	MLH
+Belgorod	EGO	Belgorod	EGO
+Beloyarsky	EYK	Beloyarsky	EYK
+Berdiansk	ERD	Berdiansk	ERD
+Berezovo	EZV	Berezovo	EZV
+Bergerac	EGC	Roumaniere	EGC
+Brattleboro	EEN	Dillant-Hopkins	EEN
+Buenos Aires	BUE	Ministro Pistarini	EZE
+Cape Newenham	EHM	Cape Newenham	EHM
+Centralia	ENL	Municipal	ENL
+Crestview	CEW	Duke Field	EGI
+Eagle	EAA	Eagle	EAA
+Eagle Lake	ELA	Eagle Lake	ELA
+Eagle Pass	EGP	Maverick Co. Mem. Intl	EGP
+Eagle River	EGV	Union	EGV
+East London	ELS	East London	ELS
+East Stroudsburg	ESP	Stroudsburg-Pocono	ESP
+East Tawas	ECA	Iosco County	ECA
+Eastland	ETN	Municipal	ETN
+Easton	ESN	Newnam Field	ESN
+Easton	ESW	State	ESW
+Eastsound	ESD	Orcas Island	ESD
+Eau Claire	EAU	Chippewa Valley Rgnl	EAU
+Ebadon Island	EBN	Ebadon Island	EBN
+Ebolowa	EBW	Ebolowa	EBW
+Ebon Island	EBO	Ebon Island	EBO
+Echuca	ECH	Echuca	ECH
+Eday	EOI	Eday	EOI
+Edenton	EDE	Northeastern Regional	EDE
+Edinburgh	EDI	Airport	EDI
+Edna Bay	EDA	Sea Plane Base	EDA
+Edremit	EDO	Koca Seyit	EDO
+Edwards	EDW	Edwards AFB	EDW
+Eek	EEK	Eek	EEK
+Efogi	EFG	Efogi	EFG
+Egegik	EGX	Egegik	EGX
+Egilsstadir	EGS	Egilsstadir	EGS
+Eia	EIA	Popondetta	EIA
+Eilat	ETH	Eilat	ETH
+Ein Yahav	EIY	Ein Yahav	EIY
+Einasleigh	EIH	Einasleigh	EIH
+Eindhoven	EIN	Airport	EIN
+Eirunepe	ERN	Amaury Feitosa Tomaz	ERN
+Eisenach	EIB	Kindel	EIB
+Ejina Banner	EJN	Taolai	EJN
+Ekereku	EKE	Ekereku	EKE
+Ekibastuz	EKB	Ekibastuz	EKB
+El Bagre	EBG	El Bagre	EBG
+El Banco	ELB	Las Flores	ELB
+El Bayadh	EBH	El Bayadh	EBH
+El Bolson	EHL	El Bolson	EHL
+El Borma	EBM	El Borma	EBM
+El Charco	ECR	El Charco	ECR
+El Debba	EDB	El Debba	EDB
+El Dorado	EDK	Capt. Jack Thomas Mem.	EDK
+El Dorado	ELD	South Arkansas Rgnl	ELD
+El Dorado	EOR	El Dorado	EOR
+El Encanto	ECO	El Encanto	ECO
+El Fasher	ELF	El Fasher	ELF
+El Golea	ELG	El Golea	ELG
+El Maiten	EMX	El Maiten	EMX
+El Monte	EMT	San Gabriel Valley	EMT
+El Naranjo	ENJ	El Naranjo	ENJ
+El Nido	ENI	El Nido	ENI
+El Obeid	EBD	El Obeid	EBD
+El Oued	ELU	Guemar	ELU
+El Palomar	EPA	El Palomar	EPA
+El Paso	ELP	Biggs AAF	BIF
+El Paso	ELP	Metropolitan Area	ELP
+El Paso	ELP	International	ELP
+El Real	ELE	El Real	ELE
+El Recreo	ELJ	El Recreo	ELJ
+El Salvador	ESR	Ricardo Garcia Posada	ESR
+El Tigre	ELX	El Tigre	ELX
+Elazig	EZS	Elazig	EZS
+Elba Island	EBA	Marina di Campo	EBA
+Elcho Island	ELC	Elcho Island	ELC
+Eldorado	ELO	Eldorado	ELO
+Eldoret	EDL	International	EDL
+Elelim	ELR	Elelim	ELR
+Elenak	EAL	Elenak	EAL
+Elfin Cove	ELV	Sea Plane Base	ELV
+Elim	ELI	Elim	ELI
+Eliptamin	EPT	Eliptamin	EPT
+Elista	ESL	Elista	ESL
+Eliye Springs	EYS	Eliye Springs	EYS
+Elizabeth City	ECG	Regional	ECG
+Elizabethtown	EKX	Elizabethtown	EKX
+Elk City	ELK	Regional Business	ELK
+Elkedra	EKD	Elkedra	EKD
+Elkhart	EKI	Municipal	EKI
+Elkins	EKN	Randolph County	EKN
+Elko	EKO	Regional	EKO
+Ellamar	ELW	Sea Plane Base	ELW
+Ellensburg	ELN	Bowers Field	ELN
+Ellisras	ELL	Matimba	ELL
+El-Minya	EMY	El-Minya	EMY
+Elmira/Corning	ELM	Regional	ELM
+Elorza	EOZ	Elorza	EOZ
+Elrose Mine	ERQ	Elrose Mine	ERQ
+El-Tor	ELT	El-Tor	ELT
+Ely	ELY	Yelland Field	ELY
+Emae Island	EAE	Siwo	EAE
+Embessa	EMS	Embessa	EMS
+Emden	EME	Emden	EME
+Emerald	EMD	Emerald	EMD
+Emirau Island	EMI	Emirau Island	EMI
+Emmen	EML	Emmen	EML
+Emmonak	EMK	Emmonak	EMK
+Emo	EMO	Emo	EMO
+Empangeni	EMG	Empangeni	EMG
+Emporia	EMP	Municipal	EMP
+Enarotali	EWI	Enarotali	EWI
+Encarnacion	ENO	R.Amin Ayub Gonzalez	ENO
+Ende	ENE	H.Hasan Aroeboesman	ENE
+Eneabba	ENB	Eneabba	ENB
+Enejet Island	EJT	Enejet Island	EJT
+Enewetak Island	ENT	Enewetak Island	ENT
+Engati	EGA	Engati	EGA
+Enid	WDG	Vance AFB	END
+Enniskillen	ENK	St Angelo	ENK
+Enontekio	ENF	Enontekio	ENF
+Enschede	ENS	Twenthe	ENS
+Ensenada	ESE	Ensenada	ESE
+Enshi	ENH	Xujiaping	ENH
+Entebbe	EBB	International	EBB
+Enterprise	ETS	Municipal	ETS
+Enugu	ENU	Akanu Ibiam Intl	ENU
+Epena	EPN	Epena	EPN
+Ephrata	EPH	Municipal	EPH
+Epinal	EPL	Mirecourt	EPL
+Erandique	EDQ	Erandique	EDQ
+Erave	ERE	Erave	ERE
+Erbil	EBL	International	EBL
+Ercan	ECN	Ercan	ECN
+Erdenet	ERT	Erdenet	ERT
+Erechim	ERM	Erechim	ERM
+Erenhot	ERL	Saiwusu Intl	ERL
+Erfurt	ERF	Erfurt-Weimar	ERF
+Erie	ERI	International	ERI
+Erigavo	ERA	Erigavo	ERA
+Erldunda	EDD	Erldunda	EDD
+Ernabella	ERB	Ernabella	ERB
+Errachidia	ERH	Moulay Ali Cherif	ERH
+Errol	ERR	Errol	ERR
+Erume	ERU	Erume	ERU
+Erzincan	ERC	Erzincan	ERC
+Erzurum	ERZ	Erzurum	ERZ
+Esa'ala	ESA	Esa'ala	ESA
+Esbjerg	EBJ	Airport	EBJ
+Escanaba	ESC	Delta County	ESC
+Eskilstuna	EKT	Eskilstuna	EKT
+Eskisehir	ESK	Anadolu	AOE
+Eskisehir	ESK	Eskisehir Airport	ESK
+Esmeraldas	ESM	C.Concha Torres Intl	ESM
+Espanola	ESO	Ohkay Owingeh	ESO
+Esperance	EPR	Esperance	EPR
+Espinosa	ESI	Espinosa	ESI
+Esquel	EQS	Esquel	EQS
+Essaouira	ESU	Mogador	ESU
+Essen	ESS	Muelheim	ESS
+Estherville	EST	Municipal	EST
+Etadunna	ETD	Etadunna	ETD
+Eua	EUA	Kaufana	EUA
+Eucla	EUC	Eucla	EUC
+Eufaula	EUF	Weedon Field	EUF
+Eugene	EUG	Mahlon Sweet Field	EUG
+Eureka	EUE	Eureka	EUE
+Eva Downs	EVD	Eva Downs	EVD
+Evadale	EVA	Ben Bruce Mem. Airpark	EVA
+Evans Head	EVH	Evans Head	EVH
+Evanston	EVW	Uinta County	EVW
+Evansville	EVV	Regional	EVV
+Eveleth	EVM	Eveleth-Virginia Muni	EVM
+Evreux	EVX	Fauville	EVX
+Ewer	EWE	Ewer	EWE
+Ewo	EWO	Ewo	EWO
+Excursion Inlet	EXI	Sea Plane Base	EXI
+Exeter	EXT	Exeter	EXT
+Exmouth	EXM	Exmouth	EXM
+Fairbanks	FAI	Eielson AFB	EIL
+Fall River	EWB	New Bedford Regional	EWB
+Gassim	ELQ	Gassim	ELQ
+Geneina	EGN	Geneina	EGN
+Harstad-Narvik	EVE	Evenes	EVE
+Houston	HOU	Ellington	EFD
+Jefferson	EFW	Municipal	EFW
+Kearney	EAR	Regional	EAR
+Keene	EEN	Dillant-Hopkins	EEN
+Kefallinia	EFL	Kefallinia	EFL
+Kemmerer	EMM	Municipal	EMM
+Kenai	ENA	Municipal	ENA
+Kenosha	ENW	Regional	ENW
+Keokuk	EOK	Municipal	EOK
+Kerrville	ERV	Municipal	ERV
+Key West	EYW	Metropolitan Area	EYW
+Key West	EYW	International	EYW
+Key West	EYW	NAS (Boca Chica Field)	NQX
+La Roche-sur-Yon	EDM	Les Ajoncs	EDM
+Laayoune	EUN	Hassan I	EUN
+Mariscal Estigarribia	ESG	Luis Maria Argana Intl	ESG
+Medellin	MDE	Enrique Olaya Herrera	EOH
+Metema	ETE	Genda Wuha	ETE
+Metz/Nancy	ETZ	Nancy-Essey	ENC
+Metz/Nancy	ETZ	Lorraine	ETZ
+Metz/Nancy	ETZ	Metz-Frescaty	MZM
+Mulhouse/Basel	EAP	EuroAirport Swiss	BSL
+Mulhouse/Basel	EAP	Metropolitan Area	EAP
+Mulhouse/Basel	EAP	EuroAirport French FR	MLH
+Needles	EED	Needles	EED
+Negele	EGL	Negele	EGL
+Nejran	EAM	Nejran	EAM
+Nema	EMN	Nema	EMN
+Nenana	ENN	Municipal	ENN
+Neosho	EOS	Hugh Robinson	EOS
+Neumuenster	EUM	Neumuenster	EUM
+New Bedford/Fall River	EWB	New Bedford Regional	EWB
+New Bern	EWN	Coastal Carolina Rgnl	EWN
+New York	NYC	Newark Liberty Intl	EWR
+Newcastle	ECS	Mondell Field	ECS
+Newport	EFK	State	EFK
+Newton	EWK	City-County	EWK
+North Eleuthera	ELH	North Eleuthera	ELH
+Nottingham	NQT	East Midlands	EMA
+Panama City	ECP	Metropolitan Area	ECP
+Panama City	ECP	NW Florida Beaches Int	ECP
+Panama City	ECP	Tyndall AFB	PAM
+Paratebueno	EUO	Paratebueno	EUO
+Parnu	EPU	Parnu	EPU
+Pormpuraaw	EDR	Pormpuraaw	EDR
+Rivas	ECI	Costa Esmeralda	ECI
+Samana	AZS	El Portillo	EPS
+San Sebastian	EAS	Airport	EAS
+Santa Rosa	ETR	International	ETR
+Seghe	EGM	Seghe	EGM
+Shakhtersk	EKS	Shakhtersk	EKS
+Shoreham-by-sea	ESH	Shoreham-by-sea	ESH
+St Eustatius	EUX	F.D. Roosevelt	EUX
+St-Etienne	EBU	Boutheon	EBU
+Sveg	EVG	Sveg	EVG
+Tortola	TOV	Terrance B. Lettsome	EIS
+Vail/Eagle	EGE	Eagle County Regional	EGE
+Webster City	EBS	Municipal	EBS
+Wedjh	EJH	Wedjh	EJH
+Weeping Water	EPG	Browns	EPG
+Wellsville	ELZ	Municipal	ELZ
+Wenatchee	EAT	Pangborn Memorial	EAT
+Wendover	ENV	Wendover	ENV
+West Bend	ETB	Municipal	ETB
+Wheatland	EAN	Phifer Airfield	EAN
+Windhoek	WDH	Eros	ERS
+Yan'an	ENY	Ershilipu	ENY
+Yelimane	EYL	Yelimane	EYL
+Yeniseysk	EIE	Yeniseysk	EIE
+Yerbogachen	ERG	Yerbogachen	ERG
+Yerevan	EVN	Zvartnots Intl	EVN
+Yerington	EYR	Yerington	EYR
+Yeysk	EIK	Yeysk	EIK
+Yopal	EYP	El Alcaravan	EYP
+
+Displaying 268 result(s)

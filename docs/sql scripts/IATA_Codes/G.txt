@@ -1,0 +1,386 @@
+Search results for "G"
+CITY NAME	3-LETTER CITY CODE	AIRPORT NAME	3-LETTER AIRPORT CODE
+Alotau	GUR	Gurney	GUR
+Argyle	GYL	Argyle	GYL
+Atyrau	GUW	Atyrau	GUW
+Baku	BAK	Heydar Aliyev Intl	GYD
+Baltra Island	GPS	Seymour	GPS
+Bartica	GFO	Bartica	GFO
+Ben Slimane	GMD	Ben Slimane	GMD
+Boigu Island	GIC	Boigu Island	GIC
+Breda	GLZ	Gilze-Rijen AB	GLZ
+Centerville	GHM	Municipal	GHM
+Chicago	CHI	Gary/Chicago Intl	GYY
+Columbus	UBS	Golden Triangle Rgnl	GTR
+Coyhaique	GXQ	Teniente Vidal	GXQ
+Electric City	GCD	Grand Coulee Dam	GCD
+Gabala	GBB	International	GBB
+Gabbs	GAB	Gabbs	GAB
+Gabes	GAE	Matmata	GAE
+Gaborone	GBE	Sir Seretse Khama Intl	GBE
+Gachsaran	GCH	Gachsaran	GCH
+Gadsden	GAD	Northeast Alabama Rgnl	GAD
+Gafsa	GAF	Ksar	GAF
+Gag Island	GAV	Gag Island	GAV
+Gage	GAG	Gage	GAG
+Gagnoa	GGN	Gagnoa	GGN
+Gainesville	GLE	Municipal	GLE
+Gainesville	GNV	Regional	GNV
+Gainesville	GVL	Lee Gilmer Memorial	GVL
+Gaithersburg	GAI	Montgomery Co Airpark	GAI
+Galbraith Lake	GBH	Galbraith Lake	GBH
+Galcaio	GLK	Galcaio	GLK
+Galela	GLX	Gamarmalamo	GLX
+Galena	GAL	Edward G. Pitka Sr.	GAL
+Galesburg	GBG	Municipal	GBG
+Galion	GQQ	Municipal	GQQ
+Gallivare	GEV	Gallivare	GEV
+Gallup	GUP	Municipal	GUP
+Galveston	GLS	Sholes Intl	GLS
+Galway	GWY	Galway	GWY
+Gamarra	GRA	Gamarra	GRA
+Gamba	GAX	Yenzi	GAX
+Gambela	GMB	Gambela	GMB
+Gambell	GAM	Gambell	GAM
+Gamboma	GMM	Gamboma	GMM
+Gamboola	GBP	Gamboola	GBP
+Gan Island	GAN	International	GAN
+Gandajika	GDJ	Gandajika	GDJ
+Gangaw	GAW	Gangaw	GAW
+Gao	GAQ	Korogoussou	GAQ
+Gap	GAT	Tallard	GAT
+Garachine	GHE	Garachine	GHE
+Garaina	GAR	Garaina	GAR
+Garasa	GRL	Garasa	GRL
+Garbaharey	GBM	Garbaharey	GBM
+Garden City	GCK	Regional	GCK
+Garden Point	GPN	Garden Point	GPN
+Gardez	GRG	Gardez	GRG
+Gardner	GDM	Municipal	GDM
+Gardo	GSR	Gardo	GSR
+Garissa	GAS	Garissa	GAS
+Garoua	GOU	International	GOU
+Garowe	GGR	Garowe	GGR
+Garuahi	GRH	Garuahi	GRH
+Gascoyne Junction	GSC	Gascoyne Junction	GSC
+Gasmata	GMI	Gasmata	GMI
+Gasuke	GBC	Gasuke	GBC
+Gatokae	GTA	Gatokae	GTA
+Gavle	GVX	Sandviken	GVX
+Gaya	GAY	Gaya	GAY
+Gaylord	GLR	Regional	GLR
+Gayndah	GAH	Gayndah	GAH
+Gaza	GZA	Yasser Arafat Intl	GZA
+Gaziantep	GZT	Oguzeli	GZT
+Gazipasa	GZP	Gazipasa	GZP
+Gbangbatok	GBK	Gbangbatok	GBK
+Gdansk	GDN	Lech Walesa	GDN
+Gebe	GEB	Gebe	GEB
+Gecitkale	GEC	Gecitkale	GEC
+Gedaref	GSU	Gedaref	GSU
+Geelong	GEX	Geelong	GEX
+Geilenkirchen	GKE	Air Base	GKE
+Geita	GIT	Geita	GIT
+Geladi	GLC	Geladi	GLC
+Gelendzhik	GDZ	Gelendzhik	GDZ
+Gelephu	GLU	Gelephu	GLU
+Gemena	GMA	Gemena	GMA
+General Pico	GPO	General Pico	GPO
+General Roca	GNR	Dr. Arturo U. Illia	GNR
+General Santos	GES	International	GES
+Geneva	GVA	International	GVA
+Genoa	GOA	Cristoforo Colombo	GOA
+George	GRJ	George	GRJ
+George Town	GEE	George Town	GEE
+George Town	GGT	Exuma International	GGT
+Georgetown	GED	Sussex County	GED
+Georgetown	GEO	Cheddi Jagan Intl	GEO
+Georgetown	GEO	Ogle	OGL
+Georgetown	GGE	Georgetown County	GGE
+Georgetown	GTT	Georgetown	GTT
+Geraldton	GET	Geraldton	GET
+Gettysburg	GTY	Regional	GTY
+Geva	GEF	Geva	GEF
+Gewoia	GEW	Gewoia	GEW
+Ghanzi	GNZ	Ghanzi	GNZ
+Ghardaia	GHA	Noumerat	GHA
+Ghat	GHT	Ghat	GHT
+Ghazni	GZI	Ghazni	GZI
+Ghazvin	GZW	Ghazvin	GZW
+Gheshm Island	GSM	Dayrestan	GSM
+Gibb River	GBV	Gibb River	GBV
+Gibraltar	GIB	Gibraltar	GIB
+Giebelstadt	GHF	Giebelstadt	GHF
+Gilgal	GGL	Gilgal	GGL
+Gilgit	GIL	Gilgit	GIL
+Gillette	GCC	Campbell County	GCC
+Ginbata	GBW	Ginbata	GBW
+Ginir	GNN	Ginir	GNN
+Girardot	GIR	Santiago Vila	GIR
+Girona	GRO	Costa Brava	GRO
+Gisborne	GIS	Gisborne	GIS
+Gisenyi	GYI	Gisenyi	GYI
+Gitega	GID	Gitega	GID
+Giyani	GIY	Giyani	GIY
+Gizan	GIZ	Gizan	GIZ
+Gizo	GZO	Nusatupe	GZO
+Gjogur	GJR	Gjogur	GJR
+Gladstone	GLT	Gladstone	GLT
+Gladwin	GDW	Zettel Memorial	GDW
+Glasgow	GGW	International	GGW
+Glasgow	GLA	Metropolitan Area	GLA
+Glasgow	GLA	International	GLA
+Glasgow	GLA	Prestwick	PIK
+Glasgow	GLW	Municipal	GLW
+Glen Innes	GLI	Glen Innes	GLI
+Glendale	GWV	Fokker Field	GWV
+Glendive	GDV	Dawson Community	GDV
+Glengyle	GLG	Glengyle	GLG
+Glenormiston	GLM	Glenormiston	GLM
+Glens Falls	GFL	Floyd Bennett Memorial	GFL
+Glenwood Springs	GWS	Municipal	GWS
+Globe	GLB	San Carlos Apache	GLB
+Gloucester/Cheltenham	GLO	Gloucestershire	GLO
+Gnarowein	GWN	Gnarowein	GWN
+Goa	GOI	Dabolim	GOI
+Goba	GOB	Robe	GOB
+Gobabis	GOG	Gobabis	GOG
+Gobernador Gregores	GGS	Gobernador Gregores	GGS
+Gode	GDE	Gode	GDE
+Goiania	GYN	Santa Genoveva	GYN
+Gokceada	GKD	Gokceada	GKD
+Gol	GLL	Klanten	GLL
+Gold Beach	GOL	Municipal	GOL
+Golden Horn	GDH	Golden Horn Lodge SPB	GDH
+Goldsboro	GSB	Seymour Johnson AFB	GSB
+Golfito	GLF	Golfito	GLF
+Golmud	GOQ	Golmud	GOQ
+Golog	GMQ	Maqin	GMQ
+Golovin	GLV	Golovin	GLV
+Goma	GOM	International	GOM
+Gombe	GMO	Lawanti	GMO
+Gomel	GME	Gomel	GME
+Gonaili	GOE	Gonaili	GOE
+Gonder	GDQ	Azezo	GDQ
+Gooding	GNG	Municipal	GNG
+Goodland	GLD	Renner Field	GLD
+Goodnews Bay	GNU	Goodnews Bay	GNU
+Goodyear	GYR	Phoenix Goodyear	GYR
+Goondiwindi	GOO	Goondiwindi	GOO
+Gora	GOC	Gora	GOC
+Gorakhpur	GOP	Gorakhpur	GOP
+Gordon	GRN	Municipal	GRN
+Gordon Downs	GDD	Gordon Downs	GDD
+Gordonsville	GVE	Municipal	GVE
+Gore	GOR	Gore	GOR
+Gorgan	GBT	Gorgan	GBT
+Gorkha	GKH	Palungtar	GKH
+Gorna Oryahovitsa	GOZ	Gorna Oryahovitsa	GOZ
+Goroka	GKA	Goroka	GKA
+Gorontalo	GTO	Djalaluddin	GTO
+Gosford	GOS	Gosford	GOS
+Goshen	GSH	Municipal	GSH
+Goteborg	GOT	Metropolitan Area	GOT
+Goteborg	GOT	Landvetter	GOT
+Goteborg	GOT	City Airport	GSE
+Goulburn	GUL	Goulburn	GUL
+Gounda	GDA	Gounda	GDA
+Goundam	GUD	Goundam	GUD
+Governador Valadares	GVR	A.Machado Oliveira	GVR
+Governor's Harbour	GHB	Governor's Harbour	GHB
+Gracias	GAC	Gracias	GAC
+Graciosa Island	GRW	Graciosa Island	GRW
+Grafton	GFN	Clarence Valley	GFN
+Granada	GRX	Federico Garcia Lorca	GRX
+Grand Canyon	GCN	Flagstaff Pulliam	FLG
+Grand Canyon	GCN	Metropolitan Area	GCN
+Grand Canyon	GCN	National Park	GCN
+Grand Canyon	GCN	Valle	VLE
+Grand Canyon West	GCW	Grand Canyon West	GCW
+Grand Cayman	GCM	Owen Roberts Intl	GCM
+Grand Cess	GRC	Grand Cess	GRC
+Grand Forks	GFK	International	GFK
+Grand Forks	GFK	AFB	RDR
+Grand Island	GRI	Central Nebraska Rgnl	GRI
+Grand Junction	GJT	Regional	GJT
+Grand Marais	GRM	Cook County	GRM
+Grand Rapids	GPZ	Itasca County	GPZ
+Grand Rapids	GRR	Gerald R. Ford Intl	GRR
+Grand Turk	GDT	J.A.G.S. McCartney Int	GDT
+Grand-Santi	GSI	Grand-Santi	GSI
+Granite Mountain	GMT	Air Station	GMT
+Grants	GNT	Grants-Milan Municipal	GNT
+Grants Pass	GTP	Grants Pass	GTP
+Grantsburg	GTG	Municipal	GTG
+Granville	GFR	Granville	GFR
+Graz	GRZ	Airport	GRZ
+Great Barrier Island	GBZ	Great Barrier Island	GBZ
+Great Barrington	GBR	Walter J. Koladza	GBR
+Great Bend	GBD	Municipal	GBD
+Great Falls	GTF	Metropolitan Area	GTF
+Great Falls	GTF	International	GTF
+Great Harbour Cay	GHC	Great Harbour Cay	GHC
+Great Keppel Island	GKL	Great Keppel Island	GKL
+Greeley	GXY	Weld County	GXY
+Green Bay	GRB	Austin-Straubel Intl	GRB
+Green River	GVI	Green River	GVI
+Greeneville	GCY	Greene County Muni	GCY
+Greenfield	GFD	Pope Field	GFD
+Greensboro/High Point	GSO	Piedmont Triad Intl	GSO
+Greenvale	GVP	Greenvale	GVP
+Greenville	GLH	Mid-Delta	GLH
+Greenville	GRE	Greenville	GRE
+Greenville	GVT	Majors	GVT
+Greenville/Spartanburg	GSP	Donaldson Field	GDC
+Greenville/Spartanburg	GSP	Greenville Downtown Ap	GMU
+Greenville/Spartanburg	GSP	Metropolitan Area	GSP
+Greenville/Spartanburg	GSP	International	GSP
+Greenville/Spartanburg	GSP	Spartanb. Downtown Mem	SPA
+Greenwood	GRD	Greenwood County	GRD
+Greenwood	GWO	Leflore	GWO
+Gregory Downs	GGD	Gregory Downs	GGD
+Grenada	GND	Maurice Bishop Intl	GND
+Grenfell	GFE	Grenfell	GFE
+Greybull	GEY	South Big Horn County	GEY
+Greymouth	GMN	Greymouth	GMN
+Griffith	GFF	Griffith	GFF
+Grimsey	GRY	Grimsey	GRY
+Grodno	GNA	Grodno	GNA
+Groningen	GRQ	Eelde	GRQ
+Groote Eylandt	GTE	Groote Eylandt	GTE
+Grootfontein	GFY	Grootfontein	GFY
+Grosseto	GRS	Corrado Baccarini	GRS
+Groton/New London	GON	Airport	GON
+Grozny	GRV	Grozny	GRV
+Grumeti	GTZ	Kirawira B	GTZ
+Grundarfjordur	GUU	Grundarfjordur	GUU
+Guacamayas	GCA	Guacamayas	GCA
+Guadalajara	GDL	Miguel Hidalgo Intl	GDL
+Guadalupe	GDP	Guadalupe	GDP
+Guajara-Mirim	GJM	Guajara-Mirim	GJM
+Gualeguaychu	GHU	Gualeguaychu	GHU
+Guam	GUM	Metropolitan Area	GUM
+Guam	GUM	A.B. Won Pat Intl	GUM
+Guam	GUM	Andersen AFB	UAM
+Guamal	GAA	Guamal	GAA
+Guanaja	GJA	Guanaja	GJA
+Guanambi	GNM	Guanambi	GNM
+Guanare	GUQ	Guanare	GUQ
+Guanghan	GHN	Guanghan	GHN
+Guangyuan	GYS	Panlong	GYS
+Guantanamo	GAO	Guantanamo Bay NS	GAO
+Guantanamo	GAO	Mariana Grajales	NBW
+Guapi	GPI	Juan Casiano	GPI
+Guapiles	GPL	Guapiles	GPL
+Guarapari	GUZ	Guarapari	GUZ
+Guarapuava	GPB	T.Thomas de Faria	GPB
+Guaratingueta	GUJ	Guaratingueta	GUJ
+Guari	GUG	Guari	GUG
+Guasdualito	GDO	Guasdualito	GDO
+Guasopa	GAZ	Guasopa	GAZ
+Guatemala City	GUA	La Aurora Intl	GUA
+Guayaquil	GYE	Jose Joaquin de Olmedo	GYE
+Guayaramerin	GYA	Guayaramerin	GYA
+Guaymas	GYM	Jose Maria Yanez Intl	GYM
+Guelmime	GLN	Guelmime	GLN
+Guerima	GMC	Guerima	GMC
+Guernsey	GCI	Guernsey	GCI
+Guerrero Negro	GUB	Guerrero Negro	GUB
+Guetersloh	GUT	Airport	GUT
+Guettin	GTI	Guettin	GTI
+Guiglo	GGO	Guiglo	GGO
+Guimaraes	GMS	Antonio Guerreiro	GMS
+Guiria	GUI	Guiria	GUI
+Gujrat	GRT	Gujrat	GRT
+Gulf Shores	GUF	Jack Edwards	GUF
+Gulfport/Biloxi	GPT	Keesler AFB	BIX
+Gulfport/Biloxi	GPT	International	GPT
+Gulgubip	GLP	Gulgubip	GLP
+Gulkana	GKN	Gulkana	GKN
+Guna	GUX	Guna	GUX
+Gunnedah	GUH	Gunnedah	GUH
+Gunnison	GUC	Gunnison-Crested Butte	GUC
+Gunung Sitoli	GNS	Binaka	GNS
+Guriaso	GUE	Guriaso	GUE
+Gurupi	GRP	Gurupi	GRP
+Gusap	GAP	Gusap	GAP
+Gustavus	GST	Bartlett Cove SPB	BQV
+Gustavus	GST	Metropolitan Area	GST
+Gustavus	GST	Airport	GST
+Guthrie	GOK	Guthrie-Edmond Rgnl	GOK
+Guwahati	GAU	Gopinath Bordoloi Intl	GAU
+Guymon	GUY	Municipal	GUY
+Guyuan	GYU	Liupanshan	GYU
+Gwa	GWA	Gwa	GWA
+Gwadar	GWD	International	GWD
+Gwalior	GWL	Gwalior	GWL
+Gweru	GWE	Gweru	GWE
+Gympie	GYP	Gympie	GYP
+Jijel	GJL	Ferhat Abbas	GJL
+Johannesburg	JNB	Grand Central	GCJ
+Kakamega	GGM	Kakamega	GGM
+Kemble	GBA	Cotswold	GBA
+Kennedy Lake	GHK	Gahcho Kue	GHK
+Khashm el Girba	GBU	Khashm el Girba	GBU
+Killeen/Fort Hood	ILE	Regional/R.Gray AAF	GRK
+Kongo Boumba	GKO	Kongo Boumba	GKO
+Kooddoo Island	GKK	Kooddoo Island	GKK
+Long Pasia	GSA	Long Pasia	GSA
+Longview	GGG	East Texas Regional	GGG
+Lumbala N' guimbo	GGC	Lumbala N'guimbo	GGC
+Lyon	LYS	Grenoble-St Geoirs	GNB
+Lyudao (Green Island)	GNI	Lyudao (Green Island)	GNI
+Magadan	GDX	Sokol	GDX
+Magan	GYG	Magan	GYG
+Magdagachi	GDG	Magdagachi	GDG
+Marie-Galante	GBJ	Marie-Galante	GBJ
+Melle	GDI	Gordil	GDI
+Miele Mimbale	GIM	Miele Mimbale	GIM
+Mongomo	GEM	Mongomeyen	GEM
+Monument Valley	GMV	Monument Valley	GMV
+Mougulu	GUV	Mougulu	GUV
+Mount Cook	MON	Glentanner	GTN
+Mount Goldsworthy	GLY	Mount Goldsworthy	GLY
+Mount Gordon Mine	GPD	Mount Gordon Mine	GPD
+Mount Gunson	GSN	Mount Gunson	GSN
+Negage	GXG	Negage	GXG
+Negarbo	GBF	Negarbo	GBF
+Nhulunbuy	GOV	Gove	GOV
+Nizhny Novgorod	GOJ	Strigino	GOJ
+Noumea	NOU	Magenta	GEA
+Nueva Gerona	GER	Rafael Cabrera	GER
+Nuuk	GOH	Nuuk	GOH
+Patrai	GPA	Araxos	GPA
+Peru	GUS	Grissom ARB	GUS
+Puerto San Jose	GSJ	Puerto San Jose	GSJ
+Quincy	GNF	Gansner Field	GNF
+Rio de Janeiro	RIO	Galeao-A.C.Jobim Intl	GIG
+Sabie	GSS	Sabi Sabi	GSS
+San Sebastian/Gomera	GMZ	La Gomera	GMZ
+Sanliurfa	SFQ	Guney Anadolu Projesi	GNY
+Santo Angelo	GEL	Sepe Tiaraju	GEL
+Sao Paulo	SAO	Guarulhos Intl	GRU
+Sayun	GXF	Sayun	GXF
+Seoul	SEL	Gimpo International	GMP
+Sevierville	GKT	Gatlinburg	GKT
+Shark el-Owainat	GSQ	International	GSQ
+Sigiriya	GIU	Sigiriya	GIU
+Siguiri	GII	Siguiri	GII
+South Goulburn Island	GBL	South Goulburn Island	GBL
+Sovetskaya Gavan	GVN	May-Gatka	GVN
+Spokane	GEG	Metropolitan Area	GEG
+Spokane	GEG	International	GEG
+Spokane	GEG	Felts Field	SFF
+Spokane	GEG	Fairchild AFB	SKA
+Tacoma	TIW	Gray AAF	GRF
+Taltheilei Narrows	GSL	Taltheilei Narrows	GSL
+The Granites	GTS	The Granites	GTS
+Totegegie	GMR	Totegegie	GMR
+Westerland	GWT	Sylt	GWT
+Winter Haven	GIF	Winter Haven's Gilbert	GIF
+Xiahe	GXH	Gannan Xiahe	GXH
+Yagoua	GXX	Yagoua	GXX
+Yamagata	GAJ	Yamagata	GAJ
+Zlin	GTW	Holesov	GTW
+
+Displaying 382 result(s)

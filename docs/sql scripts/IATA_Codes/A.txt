@@ -1,0 +1,571 @@
+Search results for "A"
+CITY NAME	3-LETTER CITY CODE	AIRPORT NAME	3-LETTER AIRPORT CODE
+Aachen	AAH	Merzbrueck	AAH
+Aalborg	AAL	Airport	AAL
+Aarhus	AAR	Airport	AAR
+Aba/Hongyuan	AHJ	Aba/Hongyuan	AHJ
+Abadan	ABD	Abadan	ABD
+Abaiang	ABF	Abaiang	ABF
+Abakan	ABA	Abakan	ABA
+Abau	ABW	Abau	ABW
+Abeche	AEH	Abeche	AEH
+Abemama	AEA	Abemama	AEA
+Aberdeen	ABR	Regional	ABR
+Aberdeen	ABZ	Dyce	ABZ
+Aberdeen	APG	Phillips AAF	APG
+Abha	AHB	Abha	AHB
+Abidjan	ABJ	Felix Houphouet-Boigny	ABJ
+Abilene	ABI	Metropolitan Area	ABI
+Abilene	ABI	Regional	ABI
+Abilene	ABI	Dyess AFB	DYS
+Abingdon Downs	ABG	Abingdon Downs	ABG
+Aboisso	ABO	Aboisso	ABO
+Abou Deia	AOD	Abou Deia	AOD
+Abu Dhabi	AUH	Metropolitan Area	AUH
+Abu Dhabi	AUH	International	AUH
+Abu Dhabi	AUH	Yas Island SPB	AYM
+Abu Dhabi	AUH	Bateen	AZI
+Abu Dhabi	AUH	Al Dhafra AB	DHF
+Abu Musa Island	AEU	Abu Musa Island	AEU
+Abu Rudeis	AUE	Abu Rudeis	AUE
+Abu Simbel	ABS	Abu Simbel	ABS
+Abuja	ABV	Nnamdi Azikiwe Intl	ABV
+Acandi	ACD	Alcides Fernandez	ACD
+Acapulco	ACA	Juan N. Alvarez Intl	ACA
+Acaricuara	ARF	Acaricuara	ARF
+Acarigua	AGV	Oswaldo Guevara Mujica	AGV
+Accra	ACC	Kotoka Intl	ACC
+Achinsk	ACS	Achinsk	ACS
+Achutupo	ACU	Achutupo	ACU
+Ada	ADT	Municipal	ADT
+Adak Island	ADK	Adak Island	ADK
+Adam	AOM	Adam	AOM
+Adana	ADA	Sakirpasa	ADA
+Adana	ADA	Incirlik AB	UAB
+Adareil	AEE	Adareil	AEE
+Addeain	ADV	Addeain	ADV
+Addis Ababa	ADD	Bole Intl	ADD
+Adelaide	ADL	International	ADL
+Aden	ADE	International	ADE
+Adiyaman	ADF	Adiyaman	ADF
+Adrar	AZR	Touat	AZR
+Adrian	ADG	Lenawee County	ADG
+Afore	AFR	Afore	AFR
+Afton	AFO	Municipal	AFO
+Afutara	AFT	Afutara	AFT
+Afyon	AFY	Afyon	AFY
+Agadez	AJY	Manu Dayak Intl	AJY
+Agadir	AGA	Al Massira	AGA
+Agatti Island	AGX	Agatti Island	AGX
+Agaun	AUP	Agaun	AUP
+Agen	AGF	La Garenne	AGF
+Aggeneys	AGZ	Aggeneys	AGZ
+Aghajari	AKW	Aghajari	AKW
+Agnew	AGW	Agnew	AGW
+Agra	AGR	Agra	AGR
+Agri	AJI	Agri	AJI
+Agrinion	AGQ	G.Karaiskakis	AGQ
+Aguaclara	ACL	Aguaclara	ACL
+Aguascalientes	AGU	Jesus Teran Peredo Int	AGU
+Aguni	AGJ	Aguni	AGJ
+Ahe	AHE	Ahe	AHE
+Ahmedabad	AMD	S.VallabhBhai Patel	AMD
+Ahuas	AHS	Ahuas	AHS
+Ahwaz	AWZ	Ahwaz	AWZ
+Ai-Ais	AIW	Ai-Ais	AIW
+Aiambak	AIH	Aiambak	AIH
+Aiken	AIK	Municipal	AIK
+Ailigandi	AIL	Ailigandi	AIL
+Ailuk Island	AIM	Ailuk Island	AIM
+Ainsworth	ANW	Regional	ANW
+Aiome	AIE	Aiome	AIE
+Aioun el Atrouss	AEO	Aioun El Atrouss	AEO
+Airok	AIC	Ailinglapalap	AIC
+Aishalton	AHL	Aishalton	AHL
+Aitape	ATP	Metropolitan Area	ATP
+Aitape	ATP	Aitape Airstrip	ATP
+Aitape	ATP	Tadji	TAJ
+Aitutaki Island	AIT	Aitutaki Island	AIT
+Aiyura	AYU	Aiyura	AYU
+Aizawl	AJL	Lengpui	AJL
+Ajaccio	AJA	Napoleon Bonaparte	AJA
+Akhiok	AKK	Akhiok	AKK
+Akiak	AKI	Akiak	AKI
+Akieni	AKE	Akieni	AKE
+Akita	AXT	Akita	AXT
+Akjoujt	AJJ	Akjoujt	AJJ
+Akola	AKD	Akola	AKD
+Akron	AKO	Colorado Plains Rgnl	AKO
+Akron/Canton	CAK	Akron Fulton Intl	AKC
+Akrotiri	AKT	RAF Station	AKT
+Aksu	AKU	Aksu	AKU
+Aktobe	AKX	Aktobe	AKX
+Akulivik	AKV	Akulivik	AKV
+Akure	AKR	Akure	AKR
+Akureyri	AEY	Akureyri	AEY
+Al Ain	AAN	International	AAN
+Al Baha	ABT	Al-Aqiq	ABT
+Al Ghaydah	AAY	Al Ghaydah	AAY
+Al Hoceima	AHU	Cherif El Idrissi	AHU
+Al Kharj	AKH	Prince Sultan AB	AKH
+Alakanuk	AUK	Alakanuk	AUK
+Alamogordo	ALM	Metropolitan Area	ALM
+Alamogordo	ALM	White Sands Regional	ALM
+Alamogordo	ALM	Holloman AFB	HMN
+Alamosa	ALS	San Luis Valley Rgnl	ALS
+Albacete	ABC	Airport	ABC
+Albany	ABY	Southwest Georgia Rgnl	ABY
+Albany	ALB	International	ALB
+Albany	ALH	Albany	ALH
+Albenga	ALL	Albenga	ALL
+Albert Lea	AEL	Municipal	AEL
+Albina	ABN	Albina	ABN
+Albuquerque	ABQ	International Sunport	ABQ
+Albury	ABX	Albury	ABX
+Aldan	ADH	Aldan	ADH
+Alderney	ACI	Alderney	ACI
+Alegrete	ALQ	G.Machado Ramos	ALQ
+Alenquer	ALT	Alenquer	ALT
+Aleppo	ALP	International	ALP
+Alerta	ALD	Alerta	ALD
+Alesund	AES	Vigra	AES
+Alexander Bay	ALJ	Alexander Bay	ALJ
+Alexander City	ALX	Thomas C Russell Field	ALX
+Alexandra	ALR	Alexandra	ALR
+Alexandria	AEX	Metropolitan Area	AEX
+Alexandria	AEX	International	AEX
+Alexandria	AEX	Esler Regional	ESF
+Alexandria	ALY	Metropolitan Area	ALY
+Alexandria	ALY	El Nouzha	ALY
+Alexandria	ALY	Borg el Arab	HBE
+Alexandria	AXN	Chandler Field	AXN
+Alexandria Bay	AXB	Maxson Airfield	AXB
+Alexandria Station	AXL	Alexandria Station	AXL
+Alexandroupolis	AXD	Dimokritos	AXD
+Alghero	AHO	Fertilia	AHO
+Algiers	ALG	Houari Boumediene	ALG
+Algona	AXG	Municipal	AXG
+Ali Sabieh	AII	Ali Sabieh	AII
+Alicante	ALC	Airport	ALC
+Alice	ALI	International	ALI
+Alice Springs	ASP	Airport	ASP
+Aliceville	AIV	George Downer	AIV
+Alitak	ALZ	Sea Plane Base	ALZ
+Allakaket	AET	Allakaket	AET
+Alldays	ADY	Alldays	ADY
+Allentown	ABE	Lehigh Valley Intl	ABE
+Alliance	AIA	Municipal	AIA
+Alma	AMN	Gratiot Community	AMN
+Almaty	ALA	International	ALA
+Almaty	ALA	Borolday	BXJ
+Almenara	AMJ	Cirilo Queiroz	AMJ
+Alor	ARD	Mali	ARD
+Alor Setar	AOR	Sultan Abdul Halim	AOR
+Alowe	AWE	Alowe	AWE
+Alpena	APN	Alpena County Regional	APN
+Alpha	ABH	Alpha	ABH
+Alpine	ALE	Casparis Municipal	ALE
+Alroy Downs	AYD	Alroy Downs	AYD
+Alta	ALF	Alta	ALF
+Alta Floresta	AFL	Oswaldo Marques Dias	AFL
+Altamira	ATM	Altamira	ATM
+Altay	AAT	Altay	AAT
+Altenburg	AOC	Nobitz	AOC
+Altenrhein	ACH	St Gallen-Altenrhein	ACH
+Alto Molocue	AME	Alto Molocue	AME
+Alto Parnaiba	APY	Alto Parnaiba	APY
+Alto Rio Senguer	ARR	Alto Rio Senguer	ARR
+Alton	ALN	St Louis Regional	ALN
+Alton Downs	AWN	Alton Downs	AWN
+Altoona	AOO	Altoona	AOO
+Altus	LTS	Quartz Moutain Rgnl	AXS
+Alula	ALU	Alula	ALU
+Alverca	AVR	Alverca	AVR
+Alxa Left Banner	AXF	Alxa Left Banner	AXF
+Am Timan	AMC	Am Timan	AMC
+Ama	AMF	Ama	AMF
+Amahai	AHI	Amahai	AHI
+Amakusa	AXJ	Amakusa	AXJ
+Amalfi	AFI	Amalfi	AFI
+Amami	ASJ	Amami	ASJ
+Amanab	AMU	Amanab	AMU
+Amarillo	AMA	Metropolitan Area	AMA
+Amarillo	AMA	Rick Husband Intl	AMA
+Amarillo	AMA	Tradewind	TDW
+Amata	AMT	Amata	AMT
+Amazon Bay	AZB	Amazon Bay	AZB
+Ambato	ATF	Chachoan	ATF
+Ambatolahy	AHY	Ambatolahy	AHY
+Ambatomainty	AMY	Ambatomainty	AMY
+Ambilobe	AMB	Ambilobe	AMB
+Ambler	ABL	Ambler	ABL
+Amboin	AMG	Amboin	AMG
+Ambon	AMQ	Pattimura	AMQ
+Amboseli	ASV	Amboseli	ASV
+Ambriz	AZZ	Ambriz	AZZ
+Ambunti	AUJ	Ambunti	AUJ
+Amderma	AMV	Amderma	AMV
+Amery	AHH	Municipal	AHH
+Ames	AMW	Municipal	AMW
+Amman	AMM	Marka Intl	ADJ
+Amman	AMM	Metropolitan Area	AMM
+Amman	AMM	Queen Alia Intl	AMM
+Ammaroo	AMX	Ammaroo	AMX
+Amook Bay	AOS	Sea Plane Base	AOS
+Ampanihy	AMP	Ampanihy	AMP
+Ampara	ADP	Gal Oya	ADP
+Ampara	ADP	Kondavattavan Tank SPB	AFK
+Amritsar	ATQ	Sri Guru Ram Dass Jee	ATQ
+Amsterdam	AMS	Schiphol Airport	AMS
+Anaa	AAA	Anaa	AAA
+Anaco	AAO	Anaco	AAO
+Anaktuvuk Pass	AKP	Anaktuvuk Pass	AKP
+Anapa	AAQ	Vityazevo	AAQ
+Anapolis	APS	Anapolis	APS
+Anatom Island	AUY	Anatom Island	AUY
+Anchorage	ANC	Metropolitan Area	ANC
+Anchorage	ANC	Ted Stevens Intl	ANC
+Anchorage	ANC	Elmendorf AFB	EDF
+Anchorage	ANC	Bryant AAF	FRN
+Anchorage	ANC	Merrill Field	MRI
+Ancona	AOI	Falconara	AOI
+Andahuaylas	ANS	Andahuaylas	ANS
+Andakombe	ADC	Andakombe	ADC
+Andamooka	ADO	Andamooka	ADO
+Andenes	ANX	Andoya	ANX
+Anderson	AID	Municipal	AID
+Anderson	AND	Regional	AND
+Andes	ADN	Andes	ADN
+Andizhan	AZN	Andizhan	AZN
+Andoas	AOP	Alfredo V. Sara Bauer	AOP
+Andrews	ADR	Robert F. Swinnie	ADR
+Andros Town	ASD	International	ASD
+Andulo	ANL	Andulo	ANL
+Angama Mara	ANA	Angama Mara	ANA
+Angel Fire	AXX	Angel Fire	AXX
+Angelholm/Helsingborg	AGH	Metropolitan Area	AGH
+Angelholm/Helsingborg	AGH	Airport	AGH
+Angers	ANE	Marce	ANE
+Anggi	AGD	Anggi	AGD
+Angoche	ANO	Angoche	ANO
+Angola	ANQ	Tri-State Steuben Co.	ANQ
+Angoon	AGN	Sea Plane Base	AGN
+Angoram	AGG	Angoram	AGG
+Angouleme	ANG	Brie-Champniers	ANG
+Anguganak	AKG	Anguganak	AKG
+Anguilla	AXA	Clayton J. Lloyd Intl	AXA
+Angus Downs Station	ANZ	Angus Downs Station	ANZ
+Aniak	ANI	Aniak	ANI
+Aniwa Island	AWD	Aniwa Island	AWD
+Anjouan	AJN	Ouani	AJN
+Ankang	AKA	Wulipu	AKA
+Ankara	ANK	Metropolitan Area	ANK
+Ankara	ANK	Etimesgut	ANK
+Ankara	ANK	Esenboga	ESB
+Ann Arbor	ARB	Municipal	ARB
+Annaba	AAE	Rabah Bitat	AAE
+Annanberg	AOB	Annanberg	AOB
+Annapolis	ANP	Lee	ANP
+Annette Island	ANN	Annette Island	ANN
+Anniston	ANB	Regional	ANB
+Anqing	AQG	Tianzhushan	AQG
+Anshan	AOG	Teng'ao	AOG
+Anshun	AVA	Huangguoshu	AVA
+Antalaha	ANM	Antsirabato	ANM
+Antalya	AYT	Antalya	AYT
+Anthony	ANY	Municipal	ANY
+Anthony Lagoon	AYL	Anthony Lagoon	AYL
+Antigua	ANU	V.C. Bird Intl	ANU
+Antlers	ATE	Municipal	ATE
+Antofagasta	ANF	Cerro Moreno	ANF
+Antsirabe	ATJ	Antsirabe	ATJ
+Antwerp	ANR	International	ANR
+Anuradhapura	ACJ	Anuradhapura	ACJ
+Anvik	ANV	Anvik	ANV
+Anyang	AYN	Anyang	AYN
+Aomori	AOJ	Aomori	AOJ
+Aosta	AOT	Corrado Gex	AOT
+Apalachicola	AAF	Regional	AAF
+Apalapsili	AAS	Apalapsili	AAS
+Apartado	APO	Carepa-A.R. Betancourt	APO
+Apataki	APK	Apataki	APK
+Apatzingan	AZG	Pablo L. Sidar	AZG
+Apia	APW	Metropolitan Area	APW
+Apia	APW	Faleolo Intl	APW
+Apia	APW	Fagali'i	FGI
+Apiay	API	Luis F. Gomez Nino AB	API
+Apolo	APB	Apolo	APB
+Apple Valley	APV	Apple Valley	APV
+Appleton	ATW	Outagamie County Rgnl	ATW
+April River	APR	April River	APR
+Apucarana	APU	Captain Joao Busse	APU
+Aqaba	AQJ	King Hussein Intl	AQJ
+Aracaju	AJU	Santa Maria	AJU
+Aracatuba	ARU	Dario Guarita	ARU
+Arad	ARW	Arad	ARW
+Aragarcas	ARS	Aragarcas	ARS
+Aragip	ARP	Aragip	ARP
+Araguaina	AUX	Araguaina	AUX
+Arak	AJK	Araak	AJK
+Aramac	AXC	Aramac	AXC
+Arandis	ADI	Arandis	ADI
+Aranuka	AAK	Aranuka	AAK
+Arapahoe	AHF	Municipal	AHF
+Arapiraca	APQ	Arapiraca	APQ
+Arapongas	APX	Alberto Bertelli	APX
+Arapoti	AAG	Avelino Vieira	AAG
+Araracuara	ACR	Araracuara	ACR
+Araraquara	AQA	Bartolomeu de Gusmao	AQA
+Ararat	ARY	Ararat	ARY
+Arathusa Safari Lodge	ASS	Arathusa Safari Lodge	ASS
+Arauca	AUC	Santiago Perez Quiroz	AUC
+Arauquita	ARQ	El Troncal	ARQ
+Araxa	AAX	Araxa	AAX
+Arba Minch	AMH	Arba Minch	AMH
+Arboletes	ARO	Arboletes	ARO
+Arcata/Eureka	ACV	Arcata Apt	ACV
+Arcata/Eureka	ACV	Murray Field	EKA
+Arcata/Eureka	ACV	Kneeland	NLN
+Arctic Village	ARC	Arctic Village	ARC
+Ardabil	ADU	Ardabil	ADU
+Ardmore	ADM	Metropolitan Area	ADM
+Ardmore	ADM	Municipal	ADM
+Ardmore	ADM	Downtown Executive	AHD
+Ardmore	AMZ	Ardmore	AMZ
+Arecibo	ARE	Antonio Juarbe Pol	ARE
+Arequipa	AQP	Rodriguez Ballon Intl	AQP
+Arica	ACM	Arica	ACM
+Arica	ARI	Chacalluta	ARI
+Aripuana	AIR	Aripuana	AIR
+Ariquemes	AQM	Ariquemes	AQM
+Arkalyk	AYK	Arkalyk	AYK
+Arkhangelsk	ARH	Talagi	ARH
+Arly	ARL	Arly	ARL
+Armenia	AXM	El Eden Intl	AXM
+Armidale	ARM	Armidale	ARM
+Aroa	AOA	Aroa	AOA
+Arona	AON	Arona	AON
+Arorae	AIS	Arorae	AIS
+Arrabury	AAB	Arrabury	AAB
+Arraias	AAI	Arraias	AAI
+Arso	ARJ	Arso	ARJ
+Artesia	ATS	Municipal	ATS
+Arthur's Town	ATC	Arthur's Town	ATC
+Artigas	ATI	Artigas	ATI
+Aruba	AUA	Reina Beatrix	AUA
+Arusha	ARK	Arusha	ARK
+Arutua	AXR	Arutua	AXR
+Arvaikheer	AVK	Arvaikheer	AVK
+Arvidsjaur	AJR	Arvidsjaur	AJR
+Asaba	ABB	International	ABB
+Asahikawa	AKJ	Asahikawa	AKJ
+Asapa	APP	Asapa	APP
+Asau	AAU	Asau	AAU
+Ascension	ASC	Ascension	ASC
+Ascension Island	ASI	RAF Station	ASI
+Aseki	AEK	Aseki	AEK
+Asela	ALK	Asela	ALK
+Ashburton	ASG	Ashburton	ASG
+Asheville/Hendersonv.	AVL	Asheville Regional	AVL
+Ashgabat	ASB	International	ASB
+Ashland	AHM	Municipal	AHM
+Ashland	ASX	John F. Kennedy Mem.	ASX
+Ashley	ASY	Municipal	ASY
+Asirim	ASZ	Asirim	ASZ
+Asmara	ASM	International	ASM
+Asosa	ASO	Asosa	ASO
+Aspen	ASE	Pitkin County	ASE
+Assab	ASA	International	ASA
+Assis	AIF	Marcelo P. Halzhausen	AIF
+Astoria	AST	Regional	AST
+Astrakhan	ASF	Astrakhan	ASF
+Asuncion	ASU	Silvio Pettirossi Intl	ASU
+Aswan	ASW	International	ASW
+Asyut	ATZ	Asyut	ATZ
+Atambua	ABU	Haliwen	ABU
+Ataq	AXK	Ataq	AXK
+Atar	ATR	International	ATR
+Atauro	AUT	Atauro	AUT
+Atbara	ATB	Atbara	ATB
+Atbasar	ATX	Atbasar	ATX
+Athens	AHN	Ben Epps	AHN
+Athens	ATH	Eleftherios Venizelos	ATH
+Athens	ATO	Ohio University	ATO
+Ati	ATV	Ati	ATV
+Atiu Island	AIU	Atiu Island	AIU
+Atka	AKB	Atka	AKB
+Atkamba	ABP	Atkamba	ABP
+Atlanta	ATL	Metropolitan Area	ATL
+Atlanta	ATL	Hartsfield-Jackson Int	ATL
+Atlanta	ATL	Fulton County	FTY
+Atlanta	ATL	DeKalb-Peachtree	PDK
+Atlantic	AIO	Municipal	AIO
+Atlantic City	ACY	International	ACY
+Atmautluak	ATT	Atmautluak	ATT
+Atoifi	ATD	Atoifi	ATD
+Atqasuk	ATK	E.Burnell Sr Memorial	ATK
+Attapeu	AOU	Attapeu	AOU
+Attock	ATG	Minhas	ATG
+Attu Island	ATU	Casco Cove CGS	ATU
+Aua Island	AUI	Aua Island	AUI
+Auburn	AUN	Municipal	AUN
+Auburn	AUO	Auburn University Rgnl	AUO
+Auckland	AKL	Metropolitan Area	AKL
+Auckland	AKL	International	AKL
+Augusta	AGS	Metropolitan Area	AGS
+Augusta	AGS	Regional (Bush Field)	AGS
+Augusta	AGS	Daniel Field	DNL
+Augusta	AUG	State	AUG
+Augustus Downs	AUD	Augustus Downs	AUD
+Auki	AKS	Gwaunaru'u	AKS
+Aumo	AUV	Aumo	AUV
+Aur Island	AUL	Aur Island	AUL
+Aurillac	AUR	Aurillac	AUR
+Aurora	AUZ	Municipal	AUZ
+Aurukun	AUU	Aurukun	AUU
+Austin	ASQ	Austin	ASQ
+Austin	AUM	Municipal	AUM
+Austin	AUS	Metropolitan Area	AUS
+Austin	AUS	Austin-Bergstrom Intl	AUS
+Austral Downs Station	AWP	Austral Downs Station	AWP
+Auvergne Station	AVG	Auvergne Station	AVG
+Auxerre	AUF	Branches	AUF
+Avalon	AVX	Catalina	AVX
+Aviano	AVB	Air Base	AVB
+Avignon	AVN	Caumont	AVN
+Avon Park	AVO	Executive	AVO
+Avu Avu	AVU	Avu Avu	AVU
+Awaba	AWB	Awaba	AWB
+Awar	AWR	Awar	AWR
+Awaradam	AAJ	Cajana	AAJ
+Awasa	AWA	Awasa	AWA
+Axum	AXU	Axum	AXU
+Ayacucho	AYC	La Gloria	AYC
+Ayacucho	AYP	Alfredo M. Duarte	AYP
+Ayapel	AYA	El Cebruno	AYA
+Ayawasi	AYW	Ayawasi	AYW
+Ayers Rock	AYQ	Connellan	AYQ
+Ayolas	AYO	Juan de Ayolas	AYO
+Ayr	AYR	Ayr	AYR
+Baise	AEB	Youjiang	AEB
+Bamaga	ABM	Northern Peninsula	ABM
+Bellaire	ACB	Antrim County	ACB
+Bowling Green	APH	A.P. Hill AAF	APH
+Buenos Aires	BUE	Jorge Newbery	AEP
+Camp Springs	ADW	Joint Base Andrews	ADW
+Ciego de Avila	AVI	Maximo Gomez	AVI
+Ciudad Acuna	ACN	International	ACN
+Ciudad del Este	AGT	Guarani Intl	AGT
+Colorado Springs	COS	USAF Academy Airfield	AFF
+Dallas	DFW	Addison	ADS
+Denver	DEN	Centennial	APA
+Durango	DRO	Animas Air Park	AMK
+El Arish	AAC	International	AAC
+Eskisehir	ESK	Anadolu	AOE
+Fort Worth	FTW	Fort Worth Alliance	AFW
+Girdwood	AQY	Girdwood	AQY
+Herlong	AHC	Amedee AAF	AHC
+Hiva Oa	AUQ	Atuona	AUQ
+Huaraz	ATA	German Arias Graziani	ATA
+Izmir	IZM	Adnan Menderes	ADB
+Jaffrey	AFN	Silver Ranch	AFN
+Jasper	APT	Marion County	APT
+Jouf	AJF	Jouf	AJF
+Kagua	AGK	Kagua	AGK
+Kaiser/Lake Ozark	AIZ	Lee C Fine Memorial	AIZ
+Kalamazoo/Battle Creek	AZO	International	AZO
+Kalamazoo/Battle Creek	AZO	W.K. Kellogg Regional	BTL
+Karpathos	AOK	Karpathos	AOK
+Kayseri	ASR	Erkilet	ASR
+Kebri Dehar	ABK	Kebri Dehar	ABK
+King Salmon	AKN	King Salmon	AKN
+Kodiak	ADQ	Metropolitan Area	ADQ
+Kodiak	ADQ	Kodiak Airport	ADQ
+Kodiak	ADQ	Municipal	KDK
+Kufra	AKF	Kufra	AKF
+L'Alpe-d'Huez	AHZ	L'Alpe-d'Huez	AHZ
+Lanzarote	ACE	Lanzarote	ACE
+Lima	AOH	Allen County	AOH
+Magnolia	AGO	Municipal	AGO
+Mala Mala	AAM	Mala Mala	AAM
+Malaga	AGP	Airport	AGP
+Mao	AMO	Mao	AMO
+Maragheh	ACP	Sahand	ACP
+Marshall	ASL	Harrison County	ASL
+Mataram	AMI	Selaparang	AMI
+Melbourne	MEL	Avalon	AVV
+Menggala	AKQ	Astra Ksetra	AKQ
+Mexico City	MEX	Atizapan-Jimenez Cantu	AZP
+Minocqua/Woodruff	ARV	Lakeland	ARV
+Munich	MUC	Augsburg Airport	AGB
+Namatanai	ATN	Namatanai	ATN
+Nampula	APL	Nampula	APL
+Nantucket	ACK	Memorial	ACK
+Napa	APC	Napa County	APC
+Naples	APF	Municipal	APF
+Nashua	ASH	Boire Field	ASH
+New Iberia	ARA	Acadiana Regional	ARA
+N'zeto	ARZ	N'zeto	ARZ
+Padangsidempuan	AEG	Aekgodang	AEG
+Paso de los Libres	AOL	Paso de los Libres	AOL
+Phoenix	PHX	Mesa Gateway	AZA
+Pittsburgh	PIT	Allegheny County	AGC
+Port Alfred	AFD	Port Alfred	AFD
+Pottuvil	AYY	Arugam Bay SPB	AYY
+Puerto Armuelles	AML	Puerto Armuelles	AML
+Punta Abreojos	AJS	Punta Abreojos	AJS
+Qaisumah	AQI	Hafar al Batin	AQI
+Quetzaltenango	AAZ	Quetzaltenango	AAZ
+Quiche	AQB	Quiche	AQB
+Sabzevar	AFZ	Sabzevar	AFZ
+Saih Rawl	AHW	Saih Rawl	AHW
+Samana	AZS	El Catey Intl	AZS
+Samana	AZS	El Portillo	EPS
+San Andres Island	ADZ	Gustavo R. Pinilla Int	ADZ
+San Rafael	AFA	San Rafael	AFA
+Sapezal	AZL	Fazenda Tucunare	AZL
+Saqani	AQS	Saqani	AQS
+Sittwe	AKY	Sittwe	AKY
+Sochi	AER	International	AER
+Spring Point	AXP	Spring Point	AXP
+St Andrews	ADX	Leuchars RAF	ADX
+Stockholm	STO	Arlanda	ARN
+Surallah	AAV	Allah Valley	AAV
+Talladega	ASN	Municipal	ASN
+Tucson	TUS	Marana Regional	AVW
+Waco	ACT	Metropolitan Area	ACT
+Waco	ACT	Regional	ACT
+Waco	ACT	TSTC Waco	CNW
+Wageningen	AGI	Wageningen	AGI
+Wainwright	AIN	Wainwright	AIN
+Wake Island	AWK	Wake Island	AWK
+Walla Walla	ALW	Regional	ALW
+Walnut Ridge	ARG	Regional	ARG
+Wangerooge	AGE	Wangerooge	AGE
+Wanigela	AGL	Wanigela	AGL
+Wapakoneta	AXV	Neil Armstrong	AXV
+Waterloo	ALO	Regional	ALO
+Watertown	ART	International	ART
+Watertown	ATY	Regional	ATY
+Wausau	AUW	Metropolitan Area	AUW
+Wausau	AUW	Downtown Apt	AUW
+Wausau	AUW	Central Wisconsin	CWA
+Waycross	AYS	Ware County	AYS
+West Memphis	AWM	Municipal	AWM
+Wilkes-Barre	AVP	International	AVP
+Wilkes-Barre	AVP	Wyoming Valley	WBW
+Xanxere	AXE	Joao Winckler	AXE
+Xingyi	ACX	Xingyi	ACX
+Yaguara II	AYG	Yaguara II	AYG
+Yalinga	AIG	Yalinga	AIG
+Yamoussoukro	ASK	Yamoussoukro	ASK
+Yari	AYI	Yari	AYI
+Yazd	AZD	Shahid Sadooghi	AZD
+Zabol	ACZ	Zabol	ACZ
+Zakouma	AKM	Zakouma	AKM
+Zanaga	ANJ	Zanaga	ANJ
+Zapala	APZ	Zapala	APZ
+Zapatoca	AZT	Zapatoca	AZT
+Zarafshan	AFS	Zarafshan	AFS
+
+Displaying 567 result(s)

@@ -1,0 +1,95 @@
+Search results for "X"
+CITY NAME	3-LETTER CITY CODE	AIRPORT NAME	3-LETTER AIRPORT CODE
+Ahmed al Jaber	XIJ	Air Base	XIJ
+Al Udeid	XJD	Air Base	XJD
+Alamos	XAL	Alamos	XAL
+Aribinda	XAR	Aribinda	XAR
+Bearskin Lake	XBE	Bearskin Lake	XBE
+Bedele	XBL	Buno Bedele	XBL
+Biniguni	XBN	Biniguni	XBN
+Birjand	XBJ	Birjand	XBJ
+Blubber Bay	XBB	SPB	XBB
+Bogande	XBG	Bogande	XBG
+Boulsa	XBO	Boulsa	XBO
+Brockville	XBR	Regional Tackaberry	XBR
+Chapeco	XAP	Serafin Enoss Bertaso	XAP
+Chatham	XCM	Chatham-Kent	XCM
+Christmas Island	XCH	Christmas Island	XCH
+Cluff Lake	XCL	Cluff Lake	XCL
+Colac	XCO	Colac	XCO
+Comayagua	XPL	Enrique Soto Cano	XPL
+Coron	XCN	Coron	XCN
+Diebougou	XDE	Diebougou	XDE
+Djibo	XDJ	Djibo	XDJ
+Fayetteville/Springd.	FYV	Northwest Arkansas Rgn	XNA
+Gaoua	XGA	Amilcar Cabral	XGA
+Gorom-Gorom	XGG	Gorom-Gorom	XGG
+Granville Lake	XGL	Granville Lake	XGL
+Hamburg	HAM	Finkenwerder	XFW
+Hulunbuir	XRQ	Xinbarag youqi Baogede	XRQ
+Jerez	XRY	Airport	XRY
+Kangiqsualujjuaq	XGR	Georges River	XGR
+Kantchari	XKA	Kantchari	XKA
+Kasabonika	XKS	Kasabonika	XKS
+Kaya	XKY	Kaya	XKY
+Lac Brochet	XLB	Lac Brochet	XLB
+Lake Geneva	XES	Grand Geneva Resort	XES
+Lemwerder	XLW	Lemwerder	XLW
+Leo	XLU	Leo	XLU
+Long Xuyen	XLO	Long Xuyen	XLO
+Macas	XMS	Edmundo Carvajal	XMS
+Macmillan Pass	XMP	Macmillan Pass	XMP
+Madison	XMD	Municipal	XMD
+Mahendranagar	XMG	Mahendranagar	XMG
+Mallacoota	XMC	Mallacoota	XMC
+Mangla	XJM	Mangla	XJM
+Manihi	XMH	Manihi	XMH
+Maramag	XMA	Maramag	XMA
+Masasi	XMI	Masasi	XMI
+Minlaton	XML	Minlaton	XML
+Nouna	XNU	Nouna	XNU
+Pama	XPA	Pama	XPA
+Paris	PAR	Chalons-Vatry	XCR
+Phonsavan	XKH	Xieng Khouang	XKH
+Pine Ridge	XPR	Pine Ridge	XPR
+Poplar River	XPP	Poplar River	XPP
+Pukatawagan	XPK	Pukatawagan	XPK
+Qualicum Beach	XQU	Qualicum Beach	XQU
+Quang Ngai	XNG	Quang Ngai	XNG
+Quepos	XQP	La Managua	XQP
+Richmond	XRH	RAAF Base	XRH
+Ross River	XRR	Ross River	XRR
+Saul	XAU	Saul	XAU
+Sebba	XSE	Sebba	XSE
+Singapore	SIN	Seletar	XSP
+Siocon	XSO	Siocon	XSO
+Sir Bani Yas Island	XSB	Sir Bani Yas Island	XSB
+South Caicos	XSC	International	XSC
+South Indian Lake	XSI	South Indian Lake	XSI
+St-Louis	XLS	St-Louis	XLS
+Tadoule Lake	XTL	Tadoule Lake	XTL
+Tara	XTR	Tara	XTR
+Taroom	XTO	Taroom	XTO
+Thargomindah	XTG	Thargomindah	XTG
+Tonopah	TPH	Test Range	XSD
+Vinh Long	XVL	Vinh Long	XVL
+Xangongo	XGN	Xangongo	XGN
+Xiamen	XMN	Gaoqi Intl	XMN
+Xi'an	SIA	Xianyang Intl	XIY
+Xiangyang	XFN	Liuji	XFN
+Xichang	XIC	Qingshan	XIC
+Xienglom	XIE	Xienglom	XIE
+Xilinhot	XIL	Xilinhot	XIL
+Xingcheng	XEN	Xingcheng	XEN
+Xingning	XIN	Xingning	XIN
+Xingtai	XNT	Dalian	XNT
+Xinguara	XIG	Xinguara	XIG
+Xining	XNN	Caojiabao	XNN
+Xuzhou	XUZ	Guanyin	XUZ
+Yam Island	XMY	Yam Island	XMY
+Yandina	XYA	Yandina	XYA
+Ye	XYE	Ye	XYE
+Yellow River	XYR	Edwaki	XYR
+Zabre	XZA	Zabre	XZA
+
+Displaying 91 result(s)

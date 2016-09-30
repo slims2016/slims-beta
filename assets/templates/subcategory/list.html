@@ -1,0 +1,63 @@
+<div>
+  <div flex layout="row" layout-align="space-around start" layout-padding>
+  <md-whiteframe layout="column" class="md-whiteframe-z2 md-padding" layout-margin flex-gt-sm="70">
+    <md-table-container style="max-width:500px; min-width:240px">
+      <table md-table>
+        <thead md-head>
+          <tr md-row>
+            <th md-column><span>#</span></th>
+            <th md-column><span>Category</span></th>
+            <th md-column><span>Description</span></th>
+          </tr>
+        </thead>
+        <tbody md-body>
+          <tr md-row>
+            <td md-cell>{{category.id}}</td>
+            <td md-cell>{{category.name}}</td>
+            <td md-cell>{{category.remark}}</td>
+          </tr>
+        </tbody>
+      </table>
+    </md-table-container>
+    <div layout="row">
+      <div class="formheader" flex>
+        <md-icon class="material-icons">folder_open</md-icon>
+        <span>Sub Category List</span>
+      </div>
+      <md-button ng-click="listCategory()" ng-hide="loading">
+        <md-icon class="material-icons">&#xe166;</md-icon>
+        <label>Back</label>
+      </md-button>
+      <md-button ng-hide="loading">
+        <md-icon class="material-icons">search</md-icon>
+        <label>Search</label>
+      </md-button>
+      <md-button ng-click="newSubcategory()" class="md-primary md-hue-2" ng-hide="loading">
+        <md-icon class="material-icons">create_new_folder</md-icon>
+        <label>Create</label>
+      </md-button>
+      <md-progress-circular md-mode="indeterminate" class="md-primary md-hue-2" ng-show="loading"></md-progress-circular>
+    </div>
+    <md-table-pagination md-limit="query.limit" md-limit-options="limitOptions" md-page="query.page" md-total="{{total}}" md-on-paginate="onPagination" md-page-select="true" md-boundary-links="true"></md-table-pagination>
+    <md-table-container>
+      <table class="no-checkbox" md-table md-row-select ng-model="selected">
+        <thead md-head md-order="query.order" md-on-reorder="onReOrder">
+          <tr md-row>
+            <th md-column md-order-by="id"><span>#</span></th>
+            <th md-column md-order-by="name"><span>Sub Category</span></th>
+            <th md-column md-order-by="remark"><span>Description</span></th>
+          </tr>
+        </thead>
+        <tbody md-body>
+          <tr md-row md-select="subcategory.id" md-auto-select md-on-select="showSubcategory" ng-repeat="subcategory in subcategories | orderBy: order">
+            <td md-cell>{{subcategory.id}}</td>
+            <td md-cell>{{subcategory.name}}</td>
+            <td md-cell>{{subcategory.remark}}</td>
+          </tr>
+        </tbody>
+      </table>
+    </md-table-container>
+    <data-md-table-pagination md-limit="query.limit" md-limit-options="limitOptions" md-page="query.page" md-total="{{total}}" md-on-paginate="onPagination" md-page-select="true" md-boundary-links="true"></data-md-table-pagination>
+  </md-whiteframe>
+  </div>
+</div>

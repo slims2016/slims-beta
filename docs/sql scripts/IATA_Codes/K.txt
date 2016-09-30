@@ -1,0 +1,513 @@
+Search results for "K"
+CITY NAME	3-LETTER CITY CODE	AIRPORT NAME	3-LETTER AIRPORT CODE
+Akiachak	KKI	Akiachak	KKI
+Akutan	KQA	Akutan	KQA
+Ayamaru	KBX	Kambuaya	KBX
+Bell Island	KBE	Hot Springs SPB	KBE
+Birch Creek	KBC	Birch Creek	KBC
+Bo	KBS	Bo	KBS
+Brevig Mission	KTS	Brevig Mission	KTS
+Burqin	KJI	Kanas	KJI
+Capanda	KNP	Capanda	KNP
+Chernofski Harbor	KCN	Sea Plane Base	KCN
+Chignik	KCL	Chignik Bay SPB	KBW
+Chignik	KCL	Chignik Airport	KCG
+Chignik	KCL	Metropolitan Area	KCL
+Chignik	KCL	Chignik Lagoon	KCL
+Chignik	KCL	Chignik Lake	KCQ
+Chisinau	KIV	International	KIV
+Cloudbreak	KFE	Fortescue Dave Forrest	KFE
+Coffman Cove	KCC	Sea Plane Base	KCC
+Collinsville	KCE	Collinsville	KCE
+Colombo	CMB	Kelani-Peliyagoda SPB	KEZ
+Colorado Creek	KCR	Colorado Creek	KCR
+Cyangugu	KME	Kamembe	KME
+Ekuk	KKU	Ekuk	KKU
+Ekwok	KEK	Ekwok	KEK
+False Pass	KFP	False Pass	KFP
+Gangneung	KAG	Air Base	KAG
+Ganja	KVD	Ganja	KVD
+Ganzhou	KOW	Huangjin	KOW
+Glacier Creek	KGZ	Glacier Creek	KGZ
+Grayling	KGX	Grayling	KGX
+Guilin	KWL	Liangjiang Intl	KWL
+Guiyang	KWE	Longdongbao Intl	KWE
+Gunsan	KUV	Gunsan	KUV
+Gwangju	KWJ	Gwangju	KWJ
+Halli	KEV	Halli	KEV
+Huang Ping	KJH	Kai Li	KJH
+Ivanof Bay	KIB	Sea Plane Base	KIB
+Jackpot	KPT	Hayden Field	KPT
+Kaadedhdhoo Island	KDM	Kaadedhdhoo Island	KDM
+Kabala	KBA	Kabala	KBA
+Kabalega Falls	KBG	Kabalega Falls	KBG
+Kabalo	KBO	Kabalo	KBO
+Kaben Island	KBT	Kaben Island	KBT
+Kabinda	KBN	Tunta	KBN
+Kabul	KBL	International	KBL
+Kabwum	KBM	Kabwum	KBM
+Kadanwari	KCF	Thar	KCF
+Kadavu Island	KDV	Vunisea	KDV
+Kadhdhoo Island	KDO	Kadhdhoo Island	KDO
+Kadugli	KDX	Kadugli	KDX
+Kaduna	KAD	Kaduna	KAD
+Kaedi	KED	Kaedi	KED
+Kaele	KLE	Kaele	KLE
+Kaghau Island	KGE	Kaghau Island	KGE
+Kagi	KGW	Kagi	KGW
+Kagoshima	KOJ	Kagoshima	KOJ
+Kahramanmaras	KCM	Kahramanmaras	KCM
+Kaiapit	KIA	Kaiapit	KIA
+Kaieteur	KAI	Kaieteur	KAI
+Kaikohe	KKO	Kaikohe	KKO
+Kaikoura	KBZ	Kaikoura	KBZ
+Kaintiba	KZF	Kaintiba	KZF
+Kaitaia	KAT	Kaitaia	KAT
+Kajaani	KAJ	Kajaani	KAJ
+Kake	KAE	Sea Plane Base	KAE
+Kakoro	KOR	Kakoro	KOR
+Kalabo	KLB	Kalabo	KLB
+Kalakaket Creek	KKK	Air Station	KKK
+Kalaleh	KLM	Kalaleh	KLM
+Kalamata	KLX	Kalamata	KLX
+Kalbarri	KAX	Kalbarri	KAX
+Kalemyo	KMV	Kalemyo	KMV
+Kalgoorlie-Boulder	KGI	Kalgoorlie-Boulder	KGI
+Kalibo	KLO	International	KLO
+Kalima	KLY	Kalima	KLY
+Kaliningrad	KGD	Khrabrovo	KGD
+Kalkgurung	KFG	Kalkgurung	KFG
+Kalmar	KLR	Kalmar	KLR
+Kalokol	KLK	Fergusons Gulf	KLK
+Kalpowar	KPP	Kalpowar	KPP
+Kalskag	KLG	Kalskag	KLG
+Kaltag	KAL	Kaltag	KAL
+Kaluga	KLF	Grabtsevo	KLF
+Kamaran Downs	KDS	Kamaran Downs	KDS
+Kamaran Island	KAM	Kamaran Island	KAM
+Kamarang	KAR	Kamarang	KAR
+Kamarata	KTV	Kamarata	KTV
+Kambalda	KDB	Kambalda	KDB
+Kamberatoro	KDQ	Kamberatoro	KDQ
+Kamianets-Podilskiy	KCP	Kamianets-Podilskiy	KCP
+Kamileroi	KML	Kamileroi	KML
+Kamina	KMF	Kamina	KMF
+Kamina	KMN	Kamina-Ville	KMN
+Kamiraba	KJU	Kamiraba	KJU
+Kamishly	KAC	Kamishly	KAC
+Kamphaeng Saen	KDT	Kamphaeng Saen	KDT
+Kampong Chhnang	KZC	Kampong Chhnang	KZC
+Kampot	KMT	Kampot	KMT
+Kamulai	KAQ	Kamulai	KAQ
+Kamur	KCD	Kamur	KCD
+Kamusi	KUY	Kamusi	KUY
+Kanab	KNB	Municipal	KNB
+Kanabea	KEX	Kanabea	KEX
+Kanainj	KNE	Kanainj	KNE
+Kananga	KGA	Kananga	KGA
+Kanavayen	KAV	Kanavayen	KAV
+Kandahar	KDH	International	KDH
+Kandep	KDP	Kandep	KDP
+Kandi	KDC	Kandi	KDC
+Kandrian	KDR	Kandrian	KDR
+Kandy	KDW	Victoria Reservoir SPB	KDW
+Kandy	KDW	Polgolla Reservoir SPB	KDZ
+Kangan	KNR	Jam	KNR
+Kangding	KGT	Kangding	KGT
+Kaniama	KNM	Kaniama	KNM
+Kankan	KNN	Diankana	KNN
+Kano	KAN	Mallam Aminu Kano Intl	KAN
+Kanpur	KNU	Kanpur	KNU
+Kaohsiung	KHH	International	KHH
+Kaolack	KLC	Kaolack	KLC
+Kaoma	KMZ	Kaoma	KMZ
+Kapal	KPL	Kapal	KPL
+Kapanga	KAP	Kapanga	KAP
+Kapit	KPI	Kapit	KPI
+Kar	KAK	Kar	KAK
+Karachi	KHI	Jinnah Intl	KHI
+Karaganda	KGF	Sary-Arka	KGF
+Karamay	KRY	Airport	KRY
+Karanambo	KRM	Karanambo	KRM
+Kararra	KQR	Kararra	KQR
+Karasabai	KRG	Karasabai	KRG
+Karasburg	KAS	Karasburg	KAS
+Karato	KAF	Karato	KAF
+Karawari	KRJ	Karawari	KRJ
+Kardla	KDL	Kardla	KDL
+Kariba	KAB	Kariba	KAB
+Karimui	KMR	Karimui	KMR
+Karimunjawa	KWB	Dewadaru	KWB
+Karkar Island	KRX	Karkar Island	KRX
+Karlovy Vary	KLV	International	KLV
+Karlskoga	KSK	Karlskoga	KSK
+Karlstad	KSD	Karlstad	KSD
+Karluk	KYK	Karluk	KYK
+Karluk Lake	KKL	Sea Plane Base	KKL
+Karonga	KGJ	Karonga	KGJ
+Karoola	KXR	Karoola	KXR
+Karratha	KTA	Karratha	KTA
+Kars	KSY	Kars	KSY
+Karshi	KSQ	Khanabad	KSQ
+Karubaga	KBF	Karubaga	KBF
+Karumba	KRB	Karumba	KRB
+Karup	KRP	Karup	KRP
+Kasaan	KXA	Sea Plane Base	KXA
+Kasama	KAA	Kasama	KAA
+Kasanombe	KSB	Kasanombe	KSB
+Kasenga	KEC	Kasenga	KEC
+Kasese	KSE	Kasese	KSE
+Kashi	KHG	Kashi	KHG
+Kasigluk	KUK	Kasigluk	KUK
+Kasikasima	KCB	Tepoe	KCB
+Kasongo-Lunda	KGN	Kasongo-Lunda	KGN
+Kasos Island	KSJ	Kasos Island	KSJ
+Kassala	KSL	Kassala	KSL
+Kassel	KSF	Calden	KSF
+Kastamonu	KFS	Kastamonu	KFS
+Kastoria	KSO	Aristotelis	KSO
+Kasungu	KBQ	Kasungu	KBQ
+Katanning	KNI	Katanning	KNI
+Katherine	KTR	RAAF Tindal	KTR
+Kathmandu	KTM	Tribhuvan Intl	KTM
+Katiola	KTC	Katiola	KTC
+Katiu	KXU	Katiu	KXU
+Kato	KTO	Kato	KTO
+Katowice	KTW	Pyrzowice	KTW
+Katukurunda	KTY	Katukurunda	KTY
+Kau	KAZ	Kaubang	KAZ
+Kauehi	KHZ	Kauehi	KHZ
+Kauhajoki	KHJ	Kauhajoki	KHJ
+Kauhava	KAU	Kauhava	KAU
+Kaukura	KKR	Kaukura	KKR
+Kaunas	KUN	International	KUN
+Kavadja	KWD	Kavadja	KWD
+Kavala	KVA	Megas Alexandros	KVA
+Kavalerovo	KVR	Kavalerovo	KVR
+Kavieng	KVG	Kavieng	KVG
+Kawito	KWO	Kawito	KWO
+Kawthaung	KAW	Kawthaung	KAW
+Kayes	KYS	Dag-Dag	KYS
+Kazan	KZN	International	KZN
+Kebar	KEQ	Kebar	KEQ
+Kedougou	KGG	Kedougou	KGG
+Keekorok	KEU	Keekorok	KEU
+Keetmanshoop	KMP	Keetmanshoop	KMP
+Keewaywin	KEW	Keewaywin	KEW
+Keglsugl	KEG	Keglsugl	KEG
+Kelanoa	KNL	Kelanoa	KNL
+Kelle	KEE	Kelle	KEE
+Kelsey	KES	Kelsey	KES
+Kelso	KLS	SW Washington Regional	KLS
+Keluang	KLQ	Keluang	KLQ
+Kemerovo	KEJ	Kemerovo	KEJ
+Kemi/Tornio	KEM	Kemi/Tornio	KEM
+Kempsey	KPS	Kempsey	KPS
+Kendari	KDI	Halu Oleo	KDI
+Kenema	KEN	Kenema	KEN
+Kengtung	KET	Kengtung	KET
+Kenieba	KNZ	Kenieba	KNZ
+Keningau	KGU	Keningau	KGU
+Kenmore	KEH	Kenmore Air Harbor SPB	KEH
+Kennett	KNT	Memorial	KNT
+Kentland	KKT	Municipal	KKT
+Keperveyem	KPW	Keperveyem	KPW
+Kepi	KEI	Kepi	KEI
+Kerama	KJP	Kerama	KJP
+Kerang	KRA	Kerang	KRA
+Kerau	KRU	Kerau	KRU
+Kerch	KHC	International	KHC
+Kerema	KMA	Kerema	KMA
+Kericho	KEY	Kericho	KEY
+Kerikeri	KKE	Bay of Islands	KKE
+Kerinci	KRC	Depati Parbo	KRC
+Kerman	KER	Kerman	KER
+Kermanshah	KSH	Shahid AshrafiEsfahani	KSH
+Kerry	KIR	Kerry	KIR
+Kerteh	KTE	Kerteh	KTE
+Ketapang	KTG	Rahadi Osman	KTG
+Ketchikan	KTN	Metropolitan Area	KTN
+Ketchikan	KTN	International	KTN
+Ketchikan	KTN	Harbor SPB	WFB
+Khabarovsk	KHV	Novy	KHV
+Khamis Mushait	KMX	King Khalid AB	KMX
+Khamti	KHM	Khamti	KHM
+Khandyga	KDY	Teply Klyuch	KDY
+Khaneh	KHA	Khaneh	KHA
+Khark Island	KHK	Khark Island	KHK
+Kharkhorin	KHR	Kharkhorin	KHR
+Khartoum	KRT	International	KRT
+Khasab	KHS	Khasab	KHS
+Kherson	KHE	Kherson	KHE
+Khon Kaen	KKC	Khon Kaen	KKC
+Khong	KOG	Khong	KOG
+Khorramabad	KHD	Khorramabad	KHD
+Khost	KHT	Chapman	KHT
+Khoy	KHY	Khoy	KHY
+Khuzdar	KDD	Khuzdar	KDD
+Khwahan	KWH	Khwahan	KWH
+Khwai River Lodge	KHW	Khwai River Lodge	KHW
+Kibuli	KII	Kibuli	KII
+Kichwa Tembo	KTJ	Kichwa Tembo	KTJ
+Kiel	KEL	Holtenau	KEL
+Kieta	KIE	Aropa	KIE
+Kiev	IEV	Boryspil Intl	KBP
+Kiffa	KFA	Kiffa	KFA
+Kigali	KGL	International	KGL
+Kihihi	KHX	Kihihi	KHX
+Kikai	KKX	Kikai	KKX
+Kikinonda	KIZ	Kikinonda	KIZ
+Kikori	KRI	Kikori	KRI
+Kikwit	KKW	Kikwit	KKW
+Kili Island	KIO	Kili Island	KIO
+Kilkenny	KKY	Kilkenny	KKY
+Kilwa	KIL	Kilwa	KIL
+Kilwa Masoko	KIY	Kilwa Masoko	KIY
+Kimam	KMM	Kimam	KMM
+Kimberley	KIM	Kimberley	KIM
+Kimberley Downs Stn	KBD	Kimberley Downs Stn	KBD
+Kimwarer	KRV	Kerio Valley	KRV
+Kindamba	KNJ	Kindamba	KNJ
+Kindu	KND	Kindu	KND
+King City	KIC	Mesa Del Rey	KIC
+King Cove	KVC	King Cove	KVC
+King Island	KNS	King Island	KNS
+King Khalid Mil. City	KMC	King Khalid Mil. City	KMC
+Kingaroy	KGY	Kingaroy	KGY
+Kingfisher Lake	KIF	Kingfisher Lake	KIF
+Kings Canyon	KBJ	Kings Canyon	KBJ
+Kings Creek Station	KCS	Kings Creek Station	KCS
+King's Lynn	KNF	Marham RAF	KNF
+Kingscote	KGC	Kingscote	KGC
+Kingston	KIN	Metropolitan Area	KIN
+Kingston	KIN	Norman Manley Intl	KIN
+Kingston	KIN	Tinson Pen	KTP
+Kinmen	KNH	Shangyi	KNH
+Kipnuk	KPN	Kipnuk	KPN
+Kira	KIQ	Kira	KIQ
+Kiran wa Munjan	KUR	Razer	KUR
+Kirensk	KCK	Kirensk	KCK
+Kiri	KRZ	Kiri	KRZ
+Kirkenes	KKN	Hoybuktmoen	KKN
+Kirkimbie Station	KBB	Kirkimbie Station	KBB
+Kirkuk	KIK	Air Base	KIK
+Kirkwall	KOI	Kirkwall	KOI
+Kirov	KVX	Pobedilovo	KVX
+Kirovohrad	KGO	Kirovohrad	KGO
+Kirovsk/Apatity	KVK	Khibiny	KVK
+Kiruna	KRN	Kiruna	KRN
+Kirundo	KRE	Kirundo	KRE
+Kiryat Shmona	KSW	Kiryat Shmona	KSW
+Kisengam	KSG	Kisengam	KSG
+Kish Island	KIH	Kish Island	KIH
+Kisimayu	KMU	Kisimayu	KMU
+Kissidougou	KSI	Kissidougou	KSI
+Kisumu	KIS	Kisumu	KIS
+Kitadaito	KTD	Kitadaito	KTD
+Kitakyushu	KKJ	Kitakyushu	KKJ
+Kitale	KTL	Kitale	KTL
+Kitava Island	KVE	Kitava Island	KVE
+Kitee	KTQ	Kitee	KTQ
+Kitoi Bay	KKB	Sea Plane Base	KKB
+Kittila	KTT	Kittila	KTT
+Kitwe	KIW	Southdowns	KIW
+Kitzingen	KZG	Kitzingen	KZG
+Kiunga	KIU	Kiunga	KIU
+Kivalina	KVL	Kivalina	KVL
+Kiwai Island	KWX	Kiwai Island	KWX
+Kiwayu	KWY	Kiwayu	KWY
+Klagenfurt	KLU	Klagenfurt	KLU
+Klawock	KLW	Klawock	KLW
+Kleinsee	KLZ	Kleinsee	KLZ
+Klerksdorp	KXE	P.C. Pelser	KXE
+Kocaeli	KCO	Cengiz Topel	KCO
+Kochi	KCZ	Kochi	KCZ
+Kodiak	ADQ	Municipal	KDK
+Koethen	KOQ	Koethen	KOQ
+Kogalym	KGP	Kogalym	KGP
+Koggala	KCT	Koggala	KCT
+Koh Kong	KKZ	Koh Kong	KKZ
+Koinambe	KMB	Koinambe	KMB
+Koingnaas	KIG	Koingnaas	KIG
+Kokhanok	KNK	Kokhanok	KNK
+Kokkola/Pietarsaari	KOK	Kruunupyy	KOK
+Kokoda	KKD	Kokoda	KKD
+Kokonao	KOX	Kokonao	KOX
+Kokshetau	KOV	Kokshetau	KOV
+Kol	KQL	Kol	KQL
+Kolda	KDA	Kolda	KDA
+Kolhapur	KLH	Kolhapur	KLH
+Koliganek	KGK	Koliganek	KGK
+Kolwezi	KWZ	Kolwezi	KWZ
+Komaio	KCJ	Komaio	KCJ
+Komatipoort	KOF	Komatipoort	KOF
+Komatsu	KMQ	Komatsu	KMQ
+Komo	KOM	Komo	KOM
+Kompiam	KPM	Kompiam	KPM
+Komsomolsk-na-Amure	KXK	Khurba	KXK
+Kon Tum	KON	Kon Tum	KON
+Kona	KOA	Keahole	KOA
+Konawaruk	KKG	Konawaruk	KKG
+Kondinskoye	KXD	Kondinskoye	KXD
+Kondubol	KPF	Kondubol	KPF
+Kone	KNQ	Kone	KNQ
+Konge	KGB	Konge	KGB
+Kongiganak	KKH	Kongiganak	KKH
+Kongolo	KOO	Kongolo	KOO
+Konya	KYA	Konya	KYA
+Koolatah	KOH	Koolatah	KOH
+Koolburra	KKP	Koolburra	KKP
+Kopiago	KPA	Kopiago	KPA
+Korla	KRL	Korla	KRL
+Koro Island	KXF	Koro Island	KXF
+Koroba	KDE	Koroba	KDE
+Korolevu	KVU	SPB	KVU
+Kortrijk	KJK	Wevelgem	KJK
+Kos	KGS	Ippokratis	KGS
+Kosice	KSC	Kosice	KSC
+Kosipe	KSP	Kosipe	KSP
+Kosrae	KSA	International	KSA
+Kostanay	KSN	Kostanay	KSN
+Kosti	KST	Rabak	KST
+Kostroma	KMW	Kostroma	KMW
+Kota	KTU	Kota	KTU
+Kota Bharu	KBR	Sultan Ismail Petra	KBR
+Kotabangun	KOD	Kotabangun	KOD
+Kotabaru	KBU	Gusti Sjamsir Alam	KBU
+Kotakoli	KLI	Kotakoli	KLI
+Kotlas	KSZ	Kotlas	KSZ
+Kotlik	KOT	Kotlik	KOT
+Koulamoutou	KOU	Koulamoutou	KOU
+Koumac	KOC	Koumac	KOC
+Koumala	KOL	Koumala	KOL
+Koutiala	KTX	Koutiala	KTX
+Kowanyama	KWM	Kowanyama	KWM
+Koyuk	KKA	Alfred Adams	KKA
+Koyukuk	KYU	Koyukuk	KYU
+Kozani	KZI	Filippos	KZI
+Krabi	KBV	Krabi	KBV
+Krakor	KZD	Krakor	KZD
+Krakow	KRK	John Paul II - Balice	KRK
+Kramatorsk	KRQ	Kramatorsk	KRQ
+Kramfors/Solleftea	KRF	Kramfors/Solleftea	KRF
+Krasnodar	KRR	Pashkovsky	KRR
+Krasnoselkup	KKQ	Krasnoselkup	KKQ
+Krasnoyarsk	KJA	Yemelyanovo	KJA
+Kratie	KTI	Kratie	KTI
+Kremenchuk	KHU	Kremenchuk	KHU
+Kribi	KBI	Kribi	KBI
+Kristiansand	KRS	Kjevik	KRS
+Kristianstad	KID	Kristianstad	KID
+Kristiansund	KSU	Kvernberget	KSU
+Krivyi Rih	KWG	Lozuvatka Intl	KWG
+Kuala Lumpur	KUL	Metropolitan Area	KUL
+Kuala Lumpur	KUL	International	KUL
+Kuala Lumpur	KUL	Sultan Abdul Aziz Shah	SZB
+Kuantan	KUA	Sultan Haji Ahmad Shah	KUA
+Kubin	KUG	Kubin	KUG
+Kuching	KCH	International	KCH
+Kudat	KUD	Kudat	KUD
+Kukundu	KUE	Kukundu	KUE
+Kulgera	KGR	Kulgera Roadhouse	KGR
+Kullu	KUU	Bhuntar	KUU
+Kulusuk	KUS	Kulusuk	KUS
+Kumamoto	KMJ	Kumamoto	KMJ
+Kumasi	KMS	Kumasi	KMS
+Kungim	KGM	Kungim	KGM
+Kunming	KMG	Changshui Intl	KMG
+Kunua	KTK	Kunua	KTK
+Kununurra	KNX	Kununurra	KNX
+Kuopio	KUO	Kuopio	KUO
+Kupang	KOE	El Tari	KOE
+Kupiano	KUP	Kupiano	KUP
+Kuqa	KCA	Quici	KCA
+Kurgan	KRO	Kurgan	KRO
+Kuri	KUQ	Kuri	KUQ
+Kuria	KUC	Kuria	KUC
+Kuruman	KMH	Johan Pienaar	KMH
+Kurundi Station	KRD	Kurundi Station	KRD
+Kurupung	KPG	Kurupung	KPG
+Kurwina	KWV	Kurwina	KWV
+Kushiro	KUH	Kushiro	KUH
+Kutahya	KZR	Zafer	KZR
+Kutaisi	KUT	Kopitnari	KUT
+Kuusamo	KAO	Kuusamo	KAO
+Kuwait	KWI	International	KWI
+Kuyol	KUX	Kuyol	KUX
+Kwai Harbour	KWR	Kwai Harbour	KWR
+Kwailibesi	KWS	Kwailibesi	KWS
+Kwajalein Island	KWA	Bucholz AAF	KWA
+Kwethluk	KWT	Kwethluk	KWT
+Kwigillingok	KWK	Kwigillingok	KWK
+Kyaukpyu	KYP	Kyaukpyu	KYP
+Kyauktu	KYT	Kyauktu	KYT
+Kythira	KIT	Alexandros A. Onassis	KIT
+Kyzyl	KYZ	Kyzyl	KYZ
+Kyzylorda	KZO	Kyzylorda	KZO
+Lanyu (Orchid Island)	KYD	Lanyu (Orchid Island)	KYD
+Larsen Bay	KLN	Larsen Bay	KLN
+Levelock	KLL	Levelock	KLL
+Lop Buri	KKM	Khok Kathiam	KKM
+Makabana	KMK	Makabana	KMK
+Manokotak	KMO	Manokotak	KMO
+Manyeleti	KHO	Khoka Moya	KHO
+Markovo	KVM	Markovo	KVM
+Masindi	KCU	Masindi	KCU
+Medan	MES	Kuala Namu	KNO
+Megisti	KZS	Megisti	KZS
+Miyazaki	KMI	Miyazaki	KMI
+Moser Bay	KMY	Sea Plane Base	KMY
+Nakhon Phanom	KOP	Nakhon Phanom	KOP
+Nanchang	KHN	Changbei Intl	KHN
+Nanwalek	KEB	Nanwalek	KEB
+Ndende	KDN	Ndende	KDN
+Ndjole	KDJ	Ndjole-Ville	KDJ
+Nepalganj	KEP	Nepalganj	KEP
+New Stuyahok	KNW	New Stuyahok	KNW
+Niigata	KIJ	Niigata	KIJ
+Odienne	KEO	Odienne	KEO
+Olga Bay	KOY	Sea Plane Base	KOY
+Osaka	OSA	Kansai International	KIX
+Ouzinkie	KOZ	Ouzinkie	KOZ
+Perryville	KPV	Perryville	KPV
+Pohang	KPO	Pohang	KPO
+Point Baker	KPB	Sea Plane Base	KPB
+Port Bailey	KPY	Sea Plane Base	KPY
+Port Clarence	KPC	Coast Guard Station	KPC
+Port Williams	KPR	Sea Plane Base	KPR
+Quinhagak	KWN	Quinhagak	KWN
+Qurghonteppa	KQT	International	KQT
+Reykjavik	REK	Keflavik International	KEF
+Samara	KUF	Kurumoch Int'l PSC	KUF
+Selayar Islands	KSR	H. Aroeppala	KSR
+Seruyan	KLP	Kuala Pembuang	KLP
+Sihanoukville	KOS	International	KOS
+Sikasso	KSS	Dignangan	KSS
+Skardu	KDU	Skardu	KDU
+Skovde	KVB	Skovde	KVB
+Springvale	KSV	Springvale	KSV
+St Mary's	KSM	St Mary's	KSM
+Streaky Bay	KBY	Streaky Bay	KBY
+Takaka	KTF	Takaka	KTF
+Tampa	TPA	North Aero Park	KYO
+Thorne Bay	KTB	Sea Plane Base	KTB
+Tikchik	KTH	Tikchik Lodge SPB	KTH
+Tripoli	KYE	Rene Mouawad AB	KYE
+Turkmenbashi	KRW	Turkmenbashi	KRW
+Tver	KLD	Migalovo	KLD
+Utarom	KNG	Kaimana	KNG
+Vina del Mar	KNA	Vina del Mar	KNA
+Wakaya Island	KAY	Wakaya Island	KAY
+Waterfall	KWF	Sea Plane Base	KWF
+West Point	KWP	West Point Village SPB	KWP
+Wichita Falls	SPS	Kickapoo Downtown Apt	KIP
+Yakushima	KUM	Yakushima	KUM
+Yalata Mission	KYI	Yalata Mission	KYI
+Yalumet	KYX	Yalumet	KYX
+Yapsiei	KPE	Yapsiei	KPE
+Yasuru	KSX	Yasuru	KSX
+Yeelirrie	KYF	Yeelirrie	KYF
+Yongai	KGH	Yongai	KGH
+Zachar Bay	KZB	Sea Plane Base	KZB
+
+Displaying 509 result(s)

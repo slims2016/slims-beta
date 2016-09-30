@@ -1,0 +1,236 @@
+Search results for "F"
+CITY NAME	3-LETTER CITY CODE	AIRPORT NAME	3-LETTER AIRPORT CODE
+Anchorage	ANC	Bryant AAF	FRN
+Apia	APW	Fagali'i	FGI
+Atlanta	ATL	Fulton County	FTY
+Bandundu	FDU	Bandundu	FDU
+Bishkek	FRU	Manas Intl	FRU
+Colorado Springs	COS	Fort Carson/Butts AAF	FCS
+Cuamba	FXO	Cuamba	FXO
+Cuxhaven	FCN	Nordholz	FCN
+Dayton	DAY	Wright-Patterson AFB	FFO
+El Calafate	FTE	Comandante A. Tola	FTE
+Faaite	FAC	Faaite	FAC
+Fada N'Gourma	FNG	Fada N'Gourma	FNG
+Fagurholsmyri	FAG	Fagurholsmyri	FAG
+Fahud	FAU	Fahud	FAU
+Fair Isle	FIE	Fair Isle	FIE
+Fairbanks	FAI	Eielson AFB	EIL
+Fairbanks	FAI	Metropolitan Area	FAI
+Fairbanks	FAI	International	FAI
+Fairbanks	FAI	Ladd AAF	FBK
+Fairbanks	FAI	Metro Field	MTX
+Fairbury	FBY	Municipal	FBY
+Fairfield	FFL	Municipal	FFL
+Fairford	FFD	RAF Station	FFD
+Fairmont	FRM	Municipal	FRM
+Faizabad	FBD	Faizabad	FBD
+Fajardo	FAJ	Diego Jimenez Torres	FAJ
+Fak Fak	FKQ	Torea	FKQ
+Fakahina	FHZ	Fakahina	FHZ
+Fakarava	FAV	Fakarava	FAV
+Fallon	NFL	Municipal	FLX
+Falmouth	FMH	Cape Cod Coast Guard	FMH
+False Island	FAK	Sea Plane Base	FAK
+Fane	FNE	Fane	FNE
+Fangatau	FGU	Fangatau	FGU
+Farah	FAH	Farah	FAH
+Faranah	FAA	Badala	FAA
+Farewell	FWL	Farewell	FWL
+Fargo	FAR	Hector Intl	FAR
+Faribault	FBL	Municipal	FBL
+Farmingdale	FRG	Republic	FRG
+Farmington	FAM	Regional	FAM
+Farmington	FMN	Four Corners Regional	FMN
+Farnborough	FAB	Farnborough	FAB
+Faro	FAO	Airport	FAO
+Faroe Islands	FAE	Vagar	FAE
+Fasa	FAZ	Fasa	FAZ
+Faskrudsfjordur	FAS	Faskrudsfjordur	FAS
+Faya-Largeau	FYT	Faya-Largeau	FYT
+Fayetteville	FAY	Regional (Grannis Fld)	FAY
+Fayetteville	FYM	Municipal	FYM
+Fayetteville/Springd.	FYV	Metropolitan Area	FYV
+Fayetteville/Springd.	FYV	Drake Field	FYV
+Fayetteville/Springd.	FYV	Springdale Municipal	SPZ
+Fayetteville/Springd.	FYV	Northwest Arkansas Rgn	XNA
+Fderik	FGD	Fderik	FGD
+Feijo	FEJ	Feijo	FEJ
+Feira de Santana	FEC	Joao Durval Carneiro	FEC
+Fera Island	FRE	Fera Island	FRE
+Feramin	FRQ	Feramin	FRQ
+Fergana	FEG	International	FEG
+Fergus Falls	FFM	Municipal	FFM
+Ferkessedougou	FEK	Ferkessedougou	FEK
+Fernando de Noronha	FEN	Fernando de Noronha	FEN
+Fes	FEZ	Saiss	FEZ
+Fetlar	FEA	Fetlar	FEA
+Ficksburg	FCB	Ficksburg	FCB
+Figari	FSC	Sud-Corse	FSC
+Filadelfia	FLM	Filadelfia	FLM
+Fillmore	FIL	Municipal	FIL
+Filton	FZO	Filton	FZO
+Fincha'a	FNH	Fincha'a	FNH
+Findlay	FDY	Findlay	FDY
+Finke	FIK	Finke	FIK
+Finley	FLY	Finley	FLY
+Finschhafen	FIN	Finschhafen	FIN
+Fishers Island	FID	Elizabeth Field	FID
+Fitiuta	FTI	Fitiuta	FTI
+Fitzroy Crossing	FIZ	Fitzroy Crossing	FIZ
+Flat	FLT	Flat	FLT
+Flateyri	FLI	Holt	FLI
+Flensburg	FLF	Schaeferhaus	FLF
+Flinders Island	FLS	Flinders Island	FLS
+Flint	FNT	Bishop Intl	FNT
+Flippin	FLP	Marion County Regional	FLP
+Flora Valley	FVL	Flora Valley	FVL
+Florence	FLO	Dillon County	FLO
+Florence	FLR	Peretola	FLR
+Florence	FMU	Municipal	FMU
+Florencia	FLA	Gustavo A. Paredes	FLA
+Flores	FRS	Mundo Maya Intl	FRS
+Flores Island	FLW	Flores Island	FLW
+Floriano	FLB	Cangapara	FLB
+Florianopolis	FLN	Hercilio Luz Intl	FLN
+Floro	FRO	Floro	FRO
+Flotta	FLH	Flotta	FLH
+Foggia	FOG	Gino Lisa	FOG
+Fond du Lac	FLD	Fond du Lac County	FLD
+Fonte Boa	FBA	Fonte Boa	FBA
+Forbes	FRB	Forbes	FRB
+Forde	FDE	Bringeland	FDE
+Forest City	FXY	Municipal	FXY
+Forli	FRL	Luigi Ridolfi	FRL
+Formosa	FMA	Formosa	FMA
+Forres	FSS	Kinloss RAF	FSS
+Forrest	FOS	Forrest	FOS
+Forrest City	FCY	Municipal	FCY
+Forrest River Mission	FVR	Forrest River Mission	FVR
+Forster	FOT	Forster	FOT
+Fort Bragg	FBG	Simmons AAF	FBG
+Fort Bragg	FBG	Pope Field	POB
+Fort Bragg	FOB	Fort Bragg	FOB
+Fort Bridger	FBR	Fort Bridger	FBR
+Fort Collins/Loveland	FNL	Municipal	FNL
+Fort Dodge	FOD	Regional	FOD
+Fort Eustis	FAF	Felker AAF	FAF
+Fort Knox	FTK	Godman AAF	FTK
+Fort Lauderdale	FLL	Metropolitan Area	FLL
+Fort Lauderdale	FLL	International	FLL
+Fort Lauderdale	FLL	Executive	FXE
+Fort Leavenworth	FLV	Sherman AAF	FLV
+Fort Madison	FMS	Municipal	FMS
+Fort Meade/Odenton	FME	Tipton	FME
+Fort Myers	FMY	Metropolitan Area	FMY
+Fort Myers	FMY	Page Field	FMY
+Fort Myers	FMY	Southwest Florida Intl	RSW
+Fort Pierce	FPR	St Lucie County Intl	FPR
+Fort Riley	FRI	Marshall AAF	FRI
+Fort Scott	FSK	Municipal	FSK
+Fort Smith	FSM	Regional	FSM
+Fort Stockton	FST	Pecos County	FST
+Fort Sumner	FSU	Municipal	FSU
+Fort Wayne	FWA	Metropolitan Area	FWA
+Fort Wayne	FWA	International	FWA
+Fort Wayne	FWA	Smith Field	SMD
+Fort Worth	FTW	Fort Worth Alliance	AFW
+Fort Worth	FTW	Dallas/FT Worth Intl	DFW
+Fort Worth	FTW	Meachem International	FTW
+Fort Worth	FTW	NAS JRB	FWH
+Fort Yukon	FYU	Fort Yukon	FYU
+Fortaleza	FOR	Pinto Martins Intl	FOR
+Fort-de-France	FDF	Martinique A. Cesaire	FDF
+Fortuna	FON	Arenal	FON
+Foshan	FUO	Shadi	FUO
+Fossil Downs Station	FSL	Fossil Downs Station	FSL
+Fougamou	FOU	Fougamou	FOU
+Foula	FOA	Foula	FOA
+Foumban	FOM	Nkounja	FOM
+Foya	FOY	Foya	FOY
+Franca	FRC	Tenente Lund Presetto	FRC
+Francisco Beltrao	FBE	Paulo Abdala	FBE
+Francistown	FRW	Francistown	FRW
+Frankfort	FFT	Capital City	FFT
+Frankfurt	FRA	Metropolitan Area	FRA
+Frankfurt	FRA	International	FRA
+Frankfurt	FRA	Hahn	HHN
+Franklin	FKL	Venango Regional	FKL
+Franklin	FKN	Municipal-John B. Rose	FKN
+Frederick	FDK	Municipal	FDK
+Frederick	FDR	Regional	FDR
+Freeport	FEP	Albertus	FEP
+Freeport	FPO	Grand Bahama Intl	FPO
+Freetown	FNA	Metropolitan Area	FNA
+Freetown	FNA	Lungi International	FNA
+Freetown	FNA	Hastings	HGS
+Fregate Island	FRK	Fregate Island	FRK
+Freida River	FAQ	Freida River	FAQ
+Fremont	FET	Municipal	FET
+French Lick	FRH	Municipal	FRH
+Fresno	FAT	Metropolitan Area	FAT
+Fresno	FAT	Yosemite Intl	FAT
+Fresno	FAT	Chandler Executive	FCH
+Fria	FIG	Katourou	FIG
+Friday Harbor	FRD	Sea Plane Base	FBS
+Friday Harbor	FRD	Metropolitan Area	FRD
+Friday Harbor	FRD	Airport	FRD
+Friedrichshafen	FDH	Friedrichshafen	FDH
+Fritzlar	FRZ	Fritzlar	FRZ
+Front Royal	FRR	Warren County	FRR
+Frutillar	FRT	Frutillar	FRT
+Fryeburg	FRY	Eastern Slopes Rgnl	FRY
+Fuerstenfeldbruck	FEL	Fuerstenfeldbruck	FEL
+Fuerteventura	FUE	Fuerteventura	FUE
+Fujairah	FJR	International	FJR
+Fukue	FUJ	Goto-Fukue	FUJ
+Fukui	FKJ	Fukui	FKJ
+Fukuoka	FUK	Fukuoka	FUK
+Fukushima	FKS	Fukushima	FKS
+Fulleborn	FUB	Fulleborn	FUB
+Fullerton	FUL	Municipal	FUL
+Fuma	FUM	Fuma	FUM
+Funafuti	FUN	International	FUN
+Funchal	FNC	Madeira	FNC
+Funter Bay	FNR	Sea Plane Base	FNR
+Futaleufu	FFU	Futaleufu	FFU
+Futuna Island	FTA	Futuna Island	FTA
+Futuna Island	FUT	Pointe Vele	FUT
+Fuvahmulak Island	FVM	Fuvahmulak Island	FVM
+Fuyang	FUG	Xiguan	FUG
+Fuyuan	FYJ	Fuyuan	FYJ
+Fuyun	FYN	Fuyun	FYN
+Fuzhou	FOC	Changle Intl	FOC
+Grand Canyon	GCN	Flagstaff Pulliam	FLG
+Kalemie	FMI	Kalemie	FMI
+Kalispell	FCA	Glacier Park Intl	FCA
+Karlsruhe/Baden-Baden	FKB	Baden Airpark	FKB
+Kill Devil Hills	FFA	First Flight	FFA
+Kinshasa	FIH	Metropolitan Area	FIH
+Kinshasa	FIH	N'djili Intl	FIH
+Kinshasa	FIH	N'dolo	NLO
+Kisangani	FKI	Bangoka Intl	FKI
+Lawton/Fort Sill	LAW	Henry Post AAF	FSI
+Lubumbashi	FBM	Luano Intl	FBM
+Memmingen	FMM	Allgaeu	FMM
+Minneapolis/St Paul	MSP	Flying Cloud	FCM
+Muenster/Osnabrueck	FMO	International	FMO
+Neubrandenburg	FNB	Trollenhagen	FNB
+Nimes	FNI	Garons	FNI
+Numfoor	FOO	Numfoor	FOO
+Oristano	FNU	Fenosu	FNU
+Owando	FTX	Owando	FTX
+Perry	FPY	Perry-Foley	FPY
+Pyongyang	FNJ	Sunan Intl	FNJ
+Rome	ROM	Fiumicino	FCO
+Sanfebagar	FEB	Sanfebagar	FEB
+Shizuoka	FSZ	Mount Fuji	FSZ
+Sibolga	FLZ	Ferdinand LumbanTobing	FLZ
+Sierra Vista	FHU	Municipal/Libby AAF	FHU
+Sioux Falls	FSD	Joe Foss Field	FSD
+St-Pierre	FSP	St-Pierre	FSP
+Tolanaro	FTU	Marillac	FTU
+Topeka	TOP	Forbes Field	FOE
+Westhampton Beach	FOK	Francis S. Gabreski	FOK
+
+Displaying 232 result(s)

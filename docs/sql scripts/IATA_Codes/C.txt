@@ -1,0 +1,588 @@
+Search results for "C"
+CITY NAME	3-LETTER CITY CODE	AIRPORT NAME	3-LETTER AIRPORT CODE
+Akron/Canton	CAK	Akron Fulton Intl	AKC
+Akron/Canton	CAK	Metropolitan Area	CAK
+Akron/Canton	CAK	Regional	CAK
+Angeles/Mabalacat	CRK	Clark Intl	CRK
+Ash Flat	CKK	Sharp County Regional	CKK
+Aydin	CII	Cildir	CII
+Bechar	CBH	Boudghene B. Ali Lotfi	CBH
+Belo Horizonte	BHZ	Tancredo Neves Intl	CNF
+Brussels	BRU	Brussels S. Charleroi	CRL
+Bryan	CFD	Coulter Field	CFD
+Ca Mau	CAH	Ca Mau	CAH
+Cabimas	CBS	Oro Negro	CBS
+Cabinda	CAB	Cabinda	CAB
+Cabo Frio	CFB	International	CFB
+Cacador	CFC	C.A. da Costa Neves	CFC
+Caceres	CCX	Caceres	CCX
+Cachoeiro Itapemirim	CDI	Raimundo de Andrade	CDI
+Cadillac	CAD	Wexford County	CAD
+Caen	CFR	Carpiquet	CFR
+Cafunfo	CFF	Cafunfo	CFF
+Cagayan de Oro	CGY	Laguindingan Intl	CGY
+Cagliari	CAG	Elmas	CAG
+Caia	CMZ	Caia	CMZ
+Caicara de Orinoco	CXA	Caicara de Orinoco	CXA
+Caiguna	CGV	Caiguna	CGV
+Cairns	CNS	International	CNS
+Cairo	CAI	International	CAI
+Cairo	CIR	Regional	CIR
+Cajamarca	CJA	Armando R. Iglesias	CJA
+Calabar	CBQ	Margaret Ekpo Intl	CBQ
+Calabozo	CLZ	Calabozo	CLZ
+Calais/Dunkerque	CQF	Airport	CQF
+Calama	CJC	El Loa	CJC
+Calbayog	CYP	Calbayog	CYP
+Caldas Novas	CLV	Nelson R. Guimaraes	CLV
+Caldwell	CDW	Essex County	CDW
+Caleta Olivia	CVI	Caleta Olivia	CVI
+Calexico	CXL	International	CXL
+Cali	CLO	Alfonso B. Aragon Intl	CLO
+Calipatria	CLR	Cliff Hatfield Mem.	CLR
+Caloundra	CUD	Caloundra	CUD
+Calverton	CTO	Executive Airpark	CTO
+Calvi	CLY	Ste Catherine	CLY
+Camaguey	CMW	Ignacio Agramonte Intl	CMW
+Cambridge	CBG	Cambridge	CBG
+Cambridge	CGE	Cambridge-Dorchester	CGE
+Camden	CDH	Harrell Field	CDH
+Camden	CDN	Woodward Field	CDN
+Camden	CDU	Camden	CDU
+Cameta	CMT	Cameta	CMT
+Camfield Station	CFI	Camfield Station	CFI
+Camiguin Island	CGM	Mambajao	CGM
+Camiri	CAM	Camiri	CAM
+Camocim	CMC	Camocim	CMC
+Camooweal	CML	Camooweal	CML
+Campbeltown	CAL	Campbeltown	CAL
+Campeche	CPE	A.Acuna Ongay Intl	CPE
+Campina Grande	CPV	Joao Suassuna	CPV
+Campo Grande	CGR	International	CGR
+Campo Mourao	CBW	G.Guias de Aquino	CBW
+Campos	CAW	Bartolomeu Lisandro	CAW
+Canaima	CAJ	Canaima	CAJ
+Canakkale	CKZ	Canakkale	CKZ
+Cananea	CNA	Cananea	CNA
+Canarana	CQA	Canarana	CQA
+Canas	CSC	Mojica	CSC
+Canavieiras	CNV	Socrates Rezende	CNV
+Canberra	CBR	Canberra	CBR
+Cancun	CUN	International	CUN
+Candala	CXN	Candala	CXN
+Candilejas	CJD	Candilejas	CJD
+Candle	CDL	Candle	CDL
+Cangamba	CNZ	Cangamba	CNZ
+Cangyuan	CWJ	Washan	CWJ
+Cannes	CEQ	Metropolitan Area	CEQ
+Cannes	CEQ	Mandelieu	CEQ
+Canobie	CBY	Canobie	CBY
+Canon City	CNE	Canon City	CNE
+Canouan	CIW	Canouan	CIW
+Canton	CTK	Municipal	CTK
+Canton Island	CIS	Canton Island	CIS
+Cap Skiring	CSK	Cap Skiring	CSK
+Cape Barren Island	CBI	Cape Barren Island	CBI
+Cape Flattery	CQP	Cape Flattery	CQP
+Cape Girardeau	CGI	Regional	CGI
+Cape Gloucester	CGC	Cape Gloucester	CGC
+Cape Orford	CPI	Cape Orford	CPI
+Cape Pole	CZP	Sea Plane Base	CZP
+Cape Rodney	CPN	Cape Rodney	CPN
+Cape Romanzof	CZF	Cape Romanzof	CZF
+Cape Town	CPT	International	CPT
+Cape Vogel	CVL	Cape Vogel	CVL
+Cap-Haitien	CAP	Hugo Chavez Intl	CAP
+Capurgana	CPB	Capurgana	CPB
+Caquetania	CQT	Caquetania	CQT
+Car Nicobar Island	CBD	AFB	CBD
+Caracas	CCS	Simon Bolivar Intl	CCS
+Caransebes	CSB	Caransebes	CSB
+Carauari	CAF	Carauari	CAF
+Caravelas	CRQ	Caravelas	CRQ
+Carcassonne	CCF	Salvaza	CCF
+Cardiff	CWL	Cardiff	CWL
+Caribou	CAR	Municipal	CAR
+Carimagua	CCO	Carimagua	CCO
+Carlisle	CAX	Carlisle	CAX
+Carlsbad	CNM	Cavern City Air Term.	CNM
+Carlton Hill	CRY	Carlton Hill	CRY
+Carmelita	CMM	Carmelita	CMM
+Carmen de Patagones	CPG	Carmen de Patagones	CPG
+Carnarvon	CVQ	Carnarvon	CVQ
+Carnot	CRF	Carnot	CRF
+Carolina	CLN	Carolina	CLN
+Carpentaria Downs	CFP	Carpentaria Downs	CFP
+Carriacou	CRU	Carriacou	CRU
+Carrizo Springs	CZT	Dimmit County	CZT
+Carroll	CIN	Arthur N. Neu	CIN
+Carson City	CSN	Carson	CSN
+Cartagena	CTG	Rafael Nunez Intl	CTG
+Cartago	CRC	Santa Ana	CRC
+Carti	CTE	Carti	CTE
+Caruaru	CAU	Oscar Laranjeiras	CAU
+Carupano	CUP	Jose F. Bermudez	CUP
+Caruru	CUO	Caruru	CUO
+Carutapera	CTP	Carutapera	CTP
+Casa Grande	CGZ	Municipal	CGZ
+Casablanca	CAS	Metropolitan Area	CAS
+Casablanca	CAS	Anfa	CAS
+Casablanca	CAS	Mohammed V	CMN
+Cascade Locks	CZK	State	CZK
+Cascais	CAT	Tires	CAT
+Cascavel	CAC	A.Mendes da Silva	CAC
+Casigua El Cubo	CUV	Casigua El Cubo	CUV
+Casiguran	CGG	Casiguran	CGG
+Casino	CSI	Casino	CSI
+Casper	CPR	Natrona County Intl	CPR
+Cassilandia	CSS	Cassilandia	CSS
+Castaway Island	CST	SPB	CST
+Castellon de la Plana	CDT	Airport	CDT
+Casuarito	CSR	Casuarito	CSR
+Cat Cays	CXY	Cat Cays	CXY
+Catacamas	CAA	El Aguacate	CAA
+Catamarca	CTC	Catamarca	CTC
+Catania	CTA	Fontanarossa	CTA
+Catarman	CRM	National	CRM
+Catriel	CCT	Colonia Catriel	CCT
+Cattle Creek	CTR	Cattle Creek	CTR
+Catumbela	CBT	Catumbela	CBT
+Cauayan	CYZ	Cauayan	CYZ
+Caucasia	CAQ	Juan H. White	CAQ
+Cauquira	CDD	Cauquira	CDD
+Caviahue	CVH	Caviahue	CVH
+Caxias do Sul	CXJ	Hugo Cantergiani	CXJ
+Caye Caulker	CUK	Caye Caulker	CUK
+Caye Chapel	CYC	Caye Chapel	CYC
+Cayenne	CAY	Felix Eboue	CAY
+Cayman Brac	CYB	C. Kirkconnell Intl	CYB
+Cayo Coco	CCC	Jardines del Rey	CCC
+Cayo Largo del Sur	CYO	Vilo Acuna Intl	CYO
+Cazombo	CAV	Cazombo	CAV
+Cebu	CEB	Mactan International	CEB
+Cedar City	CDC	Regional	CDC
+Cedar Key	CDK	George T. Lewis	CDK
+Cedar Rapids	CID	The Eastern Iowa	CID
+Ceduna	CED	Ceduna	CED
+Celaya	CYW	Capt. Rogelio Castillo	CYW
+Center Island	CWS	Center Island	CWS
+Central	CEM	Central	CEM
+Cepu	CPF	Nglonram	CPF
+Ceres	CRR	Ceres	CRR
+Cessnock	CES	Cessnock	CES
+Chachapoyas	CHH	Chachapoyas	CHH
+Chadron	CDR	Municipal	CDR
+Chaghcharan	CCN	Chaghcharan	CCN
+Chalkyitsik	CIK	Chalkyitsik	CIK
+Challis	CHL	Challis	CHL
+Chambery/Aix-les-Bains	CMF	Chambery/Aix-les-Bains	CMF
+Champaign/Urbana	CMI	University of Illinois	CMI
+Chanaral	CNR	Chanaral	CNR
+Changchun	CGQ	Longjia Intl	CGQ
+Changde	CGD	Taohuayuan	CGD
+Changhai	CNI	Changhai	CNI
+Changsha	CSX	Huanghua International	CSX
+Changuinola	CHX	Manuel Nino Intl	CHX
+Changzhi	CIH	Wangcun	CIH
+Changzhou	CZX	Benniu	CZX
+Chania	CHQ	Ioannis Daskalogiannis	CHQ
+Chanute	CNU	Martin Johnson	CNU
+Chaoyang	CHG	Chaoyang	CHG
+Chaparral	CPL	General Navas Pardo	CPL
+Charata	CNT	Charata	CNT
+Charles City	CCY	Northeast Iowa Rgnl	CCY
+Charleston	CHS	International/AFB	CHS
+Charleston	CRW	Yeager	CRW
+Charleville	CTL	Charleville	CTL
+Charlotte	CLT	Metropolitan Area	CLT
+Charlotte	CLT	Douglas Intl	CLT
+Charlotte	CLT	Wilgrove Air Park	QWG
+Charlottesville	CHO	Albemarle	CHO
+Charters Towers	CXT	Charters Towers	CXT
+Chateauroux	CHR	Deols	CHR
+Chatham	CYM	Sea Plane Base	CYM
+Chatham Island	CHT	Tuuta	CHT
+Chattanooga	CHA	Metropolitan Apt	CHA
+Chaves	CHV	Chaves	CHV
+Cheboksary	CSY	Cheboksary	CSY
+Chefornak	CYF	Chefornak	CYF
+Chehalis	CLS	Chehalis-Centralia	CLS
+Chelinda	CEH	Chelinda	CEH
+Chelyabinsk	CEK	Balandino	CEK
+Chena Hot Springs	CEX	Chena Hot Springs	CEX
+Chengde	CDE	Puning	CDE
+Chengdu	CTU	Shuangliu Intl	CTU
+Cheongju	CJJ	International	CJJ
+Cherbourg	CER	Maupertus	CER
+Cherepovets	CEE	Cherepovets	CEE
+Cherkasy	CKC	International	CKC
+Chernivtsi	CWC	International	CWC
+Cherokee	CKA	Kegelman AF Aux Field	CKA
+Cherrabah	CRH	Cherrabah	CRH
+Cherrabun	CBC	Cherrabun	CBC
+Chersky	CYX	Chersky	CYX
+Chester	CEG	Hawarden	CEG
+Chetumal	CTM	International	CTM
+Cheyenne	CYS	Metropolitan Area	CYS
+Cheyenne	CYS	Regional	CYS
+Chiang Mai	CNX	International	CNX
+Chiang Rai	CEI	Mae Fah Luang Intl	CEI
+Chiayi	CYI	Chiayi	CYI
+Chicago	CHI	Metropolitan Area	CHI
+Chicago	CHI	DuPage	DPA
+Chicago	CHI	Gary/Chicago Intl	GYY
+Chicago	CHI	Midway International	MDW
+Chicago	CHI	O'Hare International	ORD
+Chicago	CHI	Executive	PWK
+Chicago	CHI	Chicago/Rockford Intl	RFD
+Chichen-Itza	CZA	International	CZA
+Chickasha	CHK	Municipal	CHK
+Chicken	CKX	Chicken	CKX
+Chiclayo	CIX	J.A. Quinones Gonzalez	CIX
+Chico	CIC	Municipal	CIC
+Chifeng	CIF	Yulong	CIF
+Chihuahua	CUU	R. Fierro Villalobos	CUU
+Chilas	CHB	Chilas	CHB
+Childress	CDS	Municipal	CDS
+Chile Chico	CCH	Chile Chico	CCH
+Chilko Lake	CJH	Tsylos Park Lodge	CJH
+Chiloquin	CHZ	State	CHZ
+Chimbote	CHM	J. Montreuil Morales	CHM
+Chinchilla	CCL	Chinchilla	CCL
+Chingola	CGJ	Kasompe	CGJ
+Chinguetti	CGT	Chinguetti	CGT
+Chino	CNO	Chino	CNO
+Chipata	CIP	Chipata	CIP
+Chipinge	CHJ	Chipinge	CHJ
+Chiquimula	CIQ	Chiquimula	CIQ
+Chisana	CZN	Chisana	CZN
+Chistochina	CZO	Chistochina	CZO
+Chitina	CXC	Chitina	CXC
+Chitral	CJL	Chitral	CJL
+Chitre	CTD	Alonso Valderrama	CTD
+Chittagong	CGP	Shah Amanat Intl	CGP
+Chkalovsky	CKL	Chkalovsky	CKL
+Chlef	CFK	Aboubakr Belkaid	CFK
+Choibalsan	COQ	Choibalsan	COQ
+Choiseul Bay	CHY	Choiseul Bay	CHY
+Chokurdakh	CKH	Chokurdakh	CKH
+Cholet	CET	Le Pontreau	CET
+Chongqing	CKG	Jiangbei Intl	CKG
+Christchurch	CHC	International	CHC
+Christmas Creek Mine	CKW	Christmas Creek Mine	CKW
+Christmas Creek Stn	CXQ	Christmas Creek Stn	CXQ
+Chuathbaluk	CHU	Chuathbaluk	CHU
+Chub Cay	CCZ	International	CCZ
+Chumphon	CJM	Chumphon	CJM
+Chungrebu	CVB	Chungrebu	CVB
+Cienfuegos	CFG	Jaime Gonzalez	CFG
+Cijulang	CJN	Nusawiru	CJN
+Cilacap	CXP	Tunggul Wulung	CXP
+Cimitarra	CIM	Cimitarra	CIM
+Cincinnati	CVG	Metropolitan Area	CVG
+Cincinnati	CVG	Northern Kentucky Intl	CVG
+Cincinnati	CVG	Municipal (Lunken Fld)	LUK
+Circle Hot Springs	CHP	Circle Hot Springs	CHP
+Cirebon	CBN	Cakrabhuwana	CBN
+Ciudad Bolivar	CBL	Tomas de Heres	CBL
+Ciudad Constitucion	CUA	Ciudad Constitucion	CUA
+Ciudad del Carmen	CME	International	CME
+Ciudad Juarez	CJS	Abraham Gonzalez Intl	CJS
+Ciudad Obregon	CEN	International	CEN
+Ciudad Real	CQM	Central	CQM
+Ciudad Victoria	CVM	Pedro J. Mendez Intl	CVM
+Claremont	CNH	Municipal	CNH
+Clarks Point	CLP	Clarks Point	CLP
+Clarksburg	CKB	North Central W.V.	CKB
+Clarksdale	CKM	Fletcher Field	CKM
+Clarksville	CKV	Montgomery County Rgnl	CKV
+Clayton	CAO	Municipal Airpark	CAO
+Clemson	CEU	Oconee County Regional	CEU
+Clermont	CMQ	Clermont	CMQ
+Clermont-Ferrand	CFE	Auvergne	CFE
+Cleve	CVC	Cleve	CVC
+Cleveland	CLE	Burke Lakefront	BKL
+Cleveland	CLE	Cuyahoga County	CGF
+Cleveland	CLE	Metropolitan Area	CLE
+Cleveland	CLE	Hopkins International	CLE
+Clifton Hills	CFH	Clifton Hills	CFH
+Clifton/Morenci	CFT	Greenlee County	CFT
+Clinton	CSM	Regional	CLK
+Clinton	CSM	Metropolitan Area	CSM
+Clinton	CSM	Sherman	CSM
+Clinton	CTZ	Sampson County	CTZ
+Clinton	CWI	Municipal	CWI
+Clintonville	CLI	Municipal	CLI
+Cloncurry	CNJ	Cloncurry	CNJ
+Clorinda	CLX	Clorinda	CLX
+Clovis	CVN	Metropolitan Area	CVN
+Clovis	CVN	Municipal	CVN
+Clovis	CVN	Cannon AFB	CVS
+Club Makokola	CMK	Club Makokola	CMK
+Cluj-Napoca	CLJ	Cluj-Napoca	CLJ
+Cluny	CZY	Cluny	CZY
+Coalinga	CLG	Municipal	CLG
+Coari	CIZ	Coari	CIZ
+Coatepeque	CTF	Coatepeque	CTF
+Coatesville	CTH	Chester County	CTH
+Coban	CBV	Coban	CBV
+Cobar	CAZ	Cobar	CAZ
+Cobija	CIJ	Capitan Anibal Arab	CIJ
+Cochabamba	CBB	Jorge Wilstermann Intl	CBB
+Cocoa Beach	COF	Patrick AFB	COF
+Coconut Island	CNC	Coconut Island	CNC
+Cocos Islands	CCK	Cocos Islands	CCK
+Cody	COD	Yellowstone Regional	COD
+Coen	CUQ	Coen	CUQ
+Coeur d'Alene	COE	Pappy Boyington Field	COE
+Coffeyville	CFV	Municipal	CFV
+Coffs Harbour	CFS	Coffs Harbour	CFS
+Cognac	CNG	Chateaubernard	CNG
+Coimbatore	CJB	International	CJB
+Coimbra	CBP	Coimbra	CBP
+Colby	CBK	Shalz Field	CBK
+Cold Bay	CDB	Cold Bay	CDB
+Coldfoot	CXF	Coldfoot	CXF
+Coleman	COM	Municipal	COM
+Colima	CLQ	Miguel de la Madrid	CLQ
+Coll Island	COL	Coll Island	COL
+Collarenebri	CRB	Collarenebri	CRB
+College Park	CGS	College Park	CGS
+College Station	CLL	Easterwood Field	CLL
+Collie	CIE	Collie	CIE
+Colmar	CMR	Houssen	CMR
+Cologne/Bonn	CGN	Metropolitan Area	CGN
+Cologne/Bonn	CGN	Airport	CGN
+Colombo	CMB	Beira Lake SPB	BYV
+Colombo	CMB	Metropolitan Area	CMB
+Colombo	CMB	Bandaranaike Intl	CMB
+Colombo	CMB	Dandugama SPB	DGM
+Colombo	CMB	Kelani-Peliyagoda SPB	KEZ
+Colombo	CMB	Ratmalana	RML
+Colonia del Sacramento	CYR	Laguna de los Patos	CYR
+Colonsay	CSA	Colonsay	CSA
+Colorado Springs	COS	USAF Academy Airfield	AFF
+Colorado Springs	COS	Metropolitan Area	COS
+Colorado Springs	COS	Municipal	COS
+Colorado Springs	COS	Fort Carson/Butts AAF	FCS
+Columbia	CAE	Metropolitan Area	CAE
+Columbia	CAE	Metropolitan	CAE
+Columbia	CAE	Owens Field	CUB
+Columbia	CAE	McEntire JNGB	MMT
+Columbia	COA	Columbia	COA
+Columbia	COU	Regional	COU
+Columbus	CLU	Municipal	CLU
+Columbus	CMH	Metropolitan Area	CMH
+Columbus	CMH	Port Columbus Intl	CMH
+Columbus	CMH	Rickenbacker Intl	LCK
+Columbus	CMH	Ohio State University	OSU
+Columbus	CSG	Metropolitan Area	CSG
+Columbus	CSG	Columbus Apt	CSG
+Columbus	CSG	Lawson AAF-Ft Benning	LSF
+Columbus	CUS	Municipal	CUS
+Columbus	UBS	AFB	CBM
+Comilla	CLA	Comilla	CLA
+Comiso	CIY	Vincenzo Magliocco	CIY
+Comitan	CJT	Copalar	CJT
+Comodoro Rivadavia	CRD	General E. Mosconi	CRD
+Compton	CPM	Woodley	CPM
+Conakry	CKY	International	CKY
+Conceicao do Araguaia	CDJ	Conceicao do Araguaia	CDJ
+Concepcion	CCP	Carriel Sur	CCP
+Concepcion	CEP	Concepcion	CEP
+Concepcion	CIO	Carmelo Peralta	CIO
+Concord	CCR	Buchanan Field	CCR
+Concord	CON	Municipal	CON
+Concordia	CCI	Olavo Cecco Rigon	CCI
+Concordia	CNK	Blosser Municipal	CNK
+Concordia	COC	Comodoro Pierrestegui	COC
+Condobolin	CBX	Condobolin	CBX
+Condoto	COG	Mandinga	COG
+Confresa	CFO	Confresa	CFO
+Connersville	CEV	Mettel Field	CEV
+Constanta	CND	Mihail Kogalniceanu	CND
+Constantine	CZL	Mohamed Boudiaf	CZL
+Constanza	COZ	14 de Junio	COZ
+Coober Pedy	CPD	Coober Pedy	CPD
+Cooch Behar	COH	Cooch Behar	COH
+Cooinda	CDA	Cooinda	CDA
+Cooktown	CTN	Cooktown	CTN
+Coolah	CLH	Coolah	CLH
+Coolawanyah Station	COY	Coolawanyah Station	COY
+Coolibah	COB	Coolibah	COB
+Coonabarabran	COJ	Coonabarabran	COJ
+Coonamble	CNB	Coonamble	CNB
+Coondewanna	CJF	Coondewanna	CJF
+Cooperstown	COP	Westville	COP
+Coorabie	CRJ	Coorabie	CRJ
+Cootamundra	CMD	Cootamundra	CMD
+Copenhagen	CPH	Metropolitan Area	CPH
+Copenhagen	CPH	Kastrup	CPH
+Copenhagen	CPH	Roskilde	RKE
+Copiapo	CPO	Desierto de Atacama	CPO
+Copper Center	CZC	Copper Center 2	CZC
+Coquimbo	COW	Tambillos	COW
+Corazon de Jesus	CZJ	Corazon de Jesus	CZJ
+Corcoran	CRO	Corcoran	CRO
+Cordoba	COR	A.L.V. Taravella	COR
+Cordova	CDV	Metropolitan Area	CDV
+Cordova	CDV	Merle K (Mudhole)Smith	CDV
+Cordova	CDV	Municipal	CKU
+Corinth	CRX	Roscoe Turner	CRX
+Cornelio Procopio	CKO	Francisco Lacerda Jr.	CKO
+Coro	CZE	Jose Leonardo Chirinos	CZE
+Coromandel	CMV	Coromandel	CMV
+Coronel Suarez	CSZ	Brigadier Hector Ruiz	CSZ
+Corowa	CWW	Corowa	CWW
+Corozal	CZH	Corozal	CZH
+Corozal	CZU	Las Brujas	CZU
+Corpus Christi	CRP	Metropolitan Area	CRP
+Corpus Christi	CRP	International	CRP
+Corpus Christi	CRP	Cuddihy Field	CUX
+Corpus Christi	CRP	NAS (Truax Field)	NGP
+Corpus Christi	CRP	Cabaniss Field NOLF	NGW
+Corrientes	CNQ	Corrientes	CNQ
+Corryong	CYG	Corryong	CYG
+Corsicana	CRS	C. David Campbell Fld	CRS
+Cortez	CEZ	Municipal	CEZ
+Cortland	CTX	Cortland County	CTX
+Corumba	CMG	International	CMG
+Corvallis/Albany	CVO	Corvallis Municipal	CVO
+Corvo Island	CVU	Corvo Island	CVU
+Costa Marques	CQS	Costa Marques	CQS
+Cotabato	CBO	Awang	CBO
+Cotonou	COO	Cadjehoun	COO
+Cottbus	CBU	Drewitz	CBU
+Cottonwood	CTW	Cottonwood	CTW
+Cotulla	COT	La Salle County	COT
+Council	CIL	Council	CIL
+Council Bluffs	CBF	Municipal	CBF
+Courchevel	CVF	Courchevel	CVF
+Covenas	CVE	Covenas	CVE
+Coventry	CVT	Coventry	CVT
+Cowarie	CWR	Cowarie	CWR
+Cowell	CCW	Cowell	CCW
+Cowra	CWT	Cowra	CWT
+Cox's Bazar	CXB	Cox's Bazar	CXB
+Coyoles	CYL	Coyoles	CYL
+Cozumel	CZM	International	CZM
+Cradock	CDO	Cradock	CDO
+Craig	CGA	Sea Plane Base	CGA
+Craig	CIG	Craig-Moffat	CIG
+Craig Cove	CCV	Craig Cove	CCV
+Craiova	CRA	Craiova	CRA
+Crane	CCG	Crane County	CCG
+Crane Island	CKR	Crane Island	CKR
+Creil	CSF	Creil	CSF
+Crescent City	CEC	Del Norte County Rgnl	CEC
+Cresswell Downs	CSD	Cresswell Downs	CSD
+Crested Butte	CSE	Buckhorn Ranch	CSE
+Creston	CFQ	Creston	CFQ
+Creston	CSQ	Municipal	CSQ
+Crestview	CEW	Bob Sikes	CEW
+Crestview	CEW	Duke Field	EGI
+Criciuma	CCM	Diomicio Freitas	CCM
+Croker Island	CKI	Croker Island	CKI
+Crooked Creek	CKD	Crooked Creek	CKD
+Crooked Island	CRI	Colonel Hill	CRI
+Crookston	CKN	Municipal	CKN
+Cross City	CTY	Cross City	CTY
+Crossett	CRT	Z.M. Jack Stell Field	CRT
+Crossville	CSV	Memorial-Whitson Field	CSV
+Crotone	CRV	Crotone	CRV
+Croydon	CDQ	Croydon	CDQ
+Cruz Alta	CZB	Carlos Ruhl	CZB
+Cruzeiro do Sul	CZS	International	CZS
+Cucuta	CUC	Camilo Daza	CUC
+Cudal	CUG	Cudal	CUG
+Cuddapah	CDP	Cuddapah	CDP
+Cue	CUY	Cue	CUY
+Cuenca	CUE	Mariscal Lamar Intl	CUE
+Cuernavaca	CVJ	Mariano Matamoros	CVJ
+Cuiaba	CGB	Marechal Rondon Intl	CGB
+Cuito Cuanavale	CTI	Cuito Cuanavale	CTI
+Culebra	CPX	Benjamin RiveraNoriega	CPX
+Culiacan	CUL	Fed. De Bachigualato	CUL
+Culion	CUJ	Culion	CUJ
+Cumana	CUM	Antonio Jose de Sucre	CUM
+Cumberland	CBE	Greater Cumberland Rgl	CBE
+Cuneo	CUF	Levaldigi	CUF
+Cunnamulla	CMA	Cunnamulla	CMA
+Curacao	CUR	Hato Intl	CUR
+Curitiba	CWB	Bacacheri	BFH
+Curitiba	CWB	Afonso Pena Intl	CWB
+Currillo	CUI	Currillo	CUI
+Cururupu	CPU	Cururupu	CPU
+Cusco	CUZ	A.Velasco Astete Intl	CUZ
+Cushing	CUH	Municipal	CUH
+Cut Bank	CTB	International	CTB
+Cutral-Co	CUT	Cutral-Co	CUT
+Cuyo	CYU	Cuyo	CYU
+Czestochowa	CZW	Rudniki	CZW
+Donegal	CFN	Donegal	CFN
+Guangzhou	CAN	Baiyun Intl	CAN
+Hancock	CMX	Houghton County Mem.	CMX
+Harper	CPA	Cape Palmas	CPA
+Houston	HOU	Lone Star Executive	CXO
+Jacksonville	JAX	Executive (Craig)	CRG
+Jakarta	JKT	Soekarno-Hatta Intl	CGK
+Jeju	CJU	International	CJU
+Jeonju	CHN	Jeonju	CHN
+Jinhae	CHF	Jinhae	CHF
+Kerkyra	CFU	Ioannis Kapodistrias	CFU
+Kiritimati	CXI	Cassidy Intl	CXI
+Kochi	COK	International	COK
+Kolkata	CCU	Subhas Chandra Bose	CCU
+Kozhikode	CCJ	International	CCJ
+Kundiawa	CMU	Chimbu	CMU
+Lake Charles	LCH	Chennault Intl	CWF
+Lakeport	CKE	Lampson Field	CKE
+Le Castellet	CTT	Le Castellet	CTT
+Les Cayes	CYA	Antoine-Simon	CYA
+Magdeburg	CSO	Cochstedt	CSO
+Mapun	CDY	Cagayan de Sulu	CDY
+Merritt Island	COI	Merritt Island	COI
+Moab	CNY	Canyonlands Field	CNY
+Murray	CEY	Calloway County	CEY
+Myrtle Beach	MYR	Grand Strand	CRE
+Neerlerit Inaat	CNP	Neerlerit Inaat	CNP
+Nha Trang	NHA	Cam Ranh Intl	CXR
+Obbia	CMO	Obbia	CMO
+Parauapebas	CKS	Carajas	CKS
+Paris	PAR	Charles de Gaulle	CDG
+Pedernales	CBJ	Cabo Rojo	CBJ
+Port Angeles	CLM	W.R. Fairchild Intl	CLM
+Qimei	CMJ	Qimei	CMJ
+Rome	ROM	Ciampino	CIA
+San Diego	SAN	McClellan-Palomar	CLD
+San Ignacio	SQS	Town Airstrip	CYD
+San Martin los Andes	CPC	Aviador Carlos Campos	CPC
+Santa Cruz do Sul	CSU	Santa Cruz do Sul	CSU
+Santa Vitoria Palmar	CTQ	Santa Vitoria Palmar	CTQ
+Santana do Araguaia	CMP	Santana do Araguaia	CMP
+Sao Paulo	SAO	Congonhas	CGH
+Sapporo	SPK	New Chitose	CTS
+Sarakhs	CKT	Sarakhs	CKT
+Sault Ste Marie	SSM	Chippewa County Intl	CIU
+Scusciuban	CMS	Scusciuban	CMS
+Shahre Kord	CQD	Shahre Kord	CQD
+Shymkent	CIT	International	CIT
+Sindal	CNL	Sindal	CNL
+Solovetsky	CSH	Solovki	CSH
+Sparta	CMY	Fort McCoy	CMY
+Springfield	SFY	Westover Metropolitan	CEF
+St Louis	STL	Downtown Airport	CPS
+Tampa	TPA	Clearwater Air Park	CLW
+Turkmenabat	CRZ	Turkmenabat	CRZ
+Upland	CCB	Cable	CCB
+Vancouver	YVR	Harbour SPB	CXH
+Waco	ACT	TSTC Waco	CNW
+Waku-Kungo	CEO	Waku-Kungo	CEO
+Wausau	AUW	Central Wisconsin	CWA
+Wichita	ICT	Cessna Aircraft Field	CEA
+Willcox	CWX	Cochise County	CWX
+Yakataga	CYT	Yakataga	CYT
+Zhengzhou	CGO	Xinzheng Intl	CGO
+Zhengzhou	CGO	Shangjie	HSJ
+
+Displaying 584 result(s)

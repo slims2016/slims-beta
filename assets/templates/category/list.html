@@ -1,0 +1,47 @@
+<div>
+  <div flex layout="row" layout-align="space-around start" layout-padding>
+  <md-whiteframe layout="column" class="md-whiteframe-z2 md-padding" layout-margin flex-gt-sm="70">
+    <div layout="row">
+      <div class="formheader" flex>
+        <md-icon class="material-icons">folder_open</md-icon>
+        <span>Category List</span>
+      </div>
+      <md-button ng-hide="loading">
+        <md-icon class="material-icons">search</md-icon>
+        <label>Search</label>
+      </md-button>
+      <md-button ng-click="newCategory()" class="md-primary md-hue-2" ng-hide="loading">
+        <md-icon class="material-icons">create_new_folder</md-icon>
+        <label>Create</label>
+      </md-button>
+      <md-progress-circular md-mode="indeterminate" class="md-primary md-hue-2" ng-show="loading"></md-progress-circular>
+    </div>
+    <md-table-pagination md-limit="query.limit" md-limit-options="limitOptions" md-page="query.page" md-total="{{total}}" md-on-paginate="onPagination" md-page-select="true" md-boundary-links="true"></md-table-pagination>
+    <md-table-container>
+      <table class="no-checkbox" md-table md-row-select ng-model="selected">
+        <thead md-head md-order="query.order" md-on-reorder="onReOrder">
+          <tr md-row>
+            <th md-column md-order-by="id"><span>#</span></th>
+            <th md-column md-order-by="name"><span>Category</span></th>
+            <th md-column md-order-by="remark"><span>Description</span></th>
+            <th md-column>Sub Category</th>
+          </tr>
+        </thead>
+        <tbody md-body>
+          <tr md-row md-select="category.id" md-auto-select md-on-select="showCategory" ng-repeat="category in categories | orderBy: order">
+            <td md-cell>{{category.id}}</td>
+            <td md-cell>{{category.name}}</td>
+            <td md-cell>{{category.remark}}</td>
+            <td md-cell>
+              <md-button ng-click="showSubcategory($event, category.id)" class="md-icon-button">
+                <md-icon class="material-icons">&#xe896;</md-icon>
+              </md-button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </md-table-container>
+    <data-md-table-pagination md-limit="query.limit" md-limit-options="limitOptions" md-page="query.page" md-total="{{total}}" md-on-paginate="onPagination" md-page-select="true" md-boundary-links="true"></data-md-table-pagination>
+  </md-whiteframe>
+  </div>
+</div>

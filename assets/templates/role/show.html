@@ -1,0 +1,74 @@
+<!-- role info page -->
+<div>
+  <div flex layout="row" layout-align="center start" layout-padding>
+    <!-- Role Information -->
+    <md-whiteframe layout="column" class="md-whiteframe-z2 md-padding" layout-margin flex style="max-width:500px; min-width:240px">
+      <div layout="row">
+        <div class="formheader" flex>
+          <md-icon class="material-icons">&#xe7ef;</md-icon>
+          <span>Role Information ( {{role.id}} )</span>
+        </div>
+        <!-- Show Role -->
+        <md-button ng-click="editRole()" class="md-primary md-hue-2" ng-hide="editMode">
+          <md-icon class="material-icons">&#xe3c9;</md-icon>
+          <label>Edit</label>
+        </md-button>
+        <md-button ng-click="listRole()" ng-hide="editMode">
+          <md-icon class="material-icons">&#xe166;</md-icon>
+          <label>Back</label>
+        </md-button>
+        <!-- Edit Role -->
+        <md-button ng-click="updateRole()" ng-class="{'md-warn md-hue-2':editRoleForm.$valid}" ng-show="editMode">
+          <md-icon class="material-icons">&#xe161;</md-icon>
+          <label>Save</label>
+        </md-button>
+        <md-button ng-click="showRole()" ng-show="editMode">
+          <md-icon class="material-icons">&#xe166;</md-icon>
+          <label>Undo</label>
+        </md-button>
+      </div>
+      <!-- Show Role -->
+      <div layout-align="start center" layout="row" ng-if="!editMode">
+        <span flex="5" show-gt-xs></span>
+        <div layout="column" flex="85">
+          <md-input-container class="no-margin-bottom md-block">
+            <label>Role Name</label>
+            <input class="disabled-black" name="rolename" ng-model="role.name" disabled>
+          </md-input-container>
+          <md-input-container class="md-block">
+            <label>Role Description</label>
+            <input class="disabled-black" name="remark" ng-model="role.remark" disabled>
+          </md-input-container>
+        </div>
+        <span flex show-gt-xs></span>
+      </div>
+      <!-- Edit Role -->
+      <form id="editRoleForm" name="editRoleForm" ng-show="editMode">
+        <div layout-align="start center" layout="row">
+          <span flex="5" show-gt-xs></span>
+          <div layout="column" flex="85">
+            <md-input-container class="no-margin-bottom md-block">
+              <label>Role Name</label>
+              <input name="rolename" ng-model="role.name" required md-maxlength="50" minlength="5" focus-on="rolename">
+              <div ng-messages="editRoleForm.rolename.$error" ng-show="editRoleForm.rolename.$dirty">
+                <div ng-message="required">This field is required!</div>
+                <div ng-message="md-maxlength">That's too long!</div>
+                <div ng-message="minlength">That's too short!</div>
+              </div>
+            </md-input-container>
+            <md-input-container class="md-block">
+              <label>Role Description</label>
+              <input name="remark" ng-model="role.remark" required md-maxlength="50">
+              <div ng-messages="editRoleForm.remark.$error" ng-show="editRoleForm.remark.$dirty">
+                <div ng-message="required">This field is required!</div>
+                <div ng-message="md-maxlength">That's too long!</div>
+                <div ng-message="minlength">That's too short!</div>
+              </div>
+            </md-input-container>
+          </div>
+          <span flex show-gt-xs></span>
+        </div>
+      </form>
+    </md-whiteframe>
+  </div>
+</div>

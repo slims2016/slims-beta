@@ -1,0 +1,74 @@
+<!-- user info page -->
+<div>
+  <!--
+  <div flex layout="row" layout-align="space-around start" layout-padding>
+  -->
+  <div flex layout="row" layout-align="center start" layout-padding>
+    <!-- User Information -->
+    <md-whiteframe layout="column" class="md-whiteframe-z2 md-padding" layout-margin flex style="max-width:500px; min-width:240px">
+      
+        <div layout="row">
+          <div class="formheader" flex>
+            <md-icon class="material-icons">&#xe7fd;</md-icon>
+            <span>User Edit ({{user.id}})</span>
+          </div>
+          <md-button type="sumbit" ng-click="updateUser()" ng-class="{'md-warn md-hue-2':editUserForm.$valid}">
+            <md-icon class="material-icons">&#xe161;</md-icon>
+            <label>Save</label>
+          </md-button>
+          <md-button type="sumbit" ng-click="showUser()">
+            <md-icon class="material-icons">&#xe166;</md-icon>
+            <label>Undo</label>
+          </md-button>
+        </div>
+        <form id="editUserForm" name="editUserForm">
+          <div layout-align="start center" layout="row">
+            <span flex="5" show-gt-xs></span>
+            <div layout="column" flex="85">
+              <md-input-container class="no-margin-bottom md-block">
+                <label>User Name</label>
+                <input name="username" ng-model="user.username">
+              </md-input-container>
+              <md-input-container class="no-margin-bottom md-block">
+                <label>Full User Name</label>
+                <input name="fullname" ng-model="user.fullname">
+              </md-input-container>
+              <md-input-container class="md-block">
+                <label>Email Address</label>
+                <input name="email" ng-model="user.email">
+              </md-input-container>
+            </div>
+            <span flex show-gt-xs></span>
+          </div>
+        </form>
+    </md-whiteframe>
+    <!-- Role Information -->
+    <md-whiteframe layout="column" class="md-whiteframe-z2 md-padding" layout-margin flex style="max-width:500px; min-width:240px">
+      <div layout="row">
+        <div class="formheader" flex>
+          <md-icon class="material-icons">&#xe7ef;</md-icon>
+          <span>Role Edit</span>
+        </div>
+      </div>
+      <md-table-container>
+        <table md-table md-row-select multiple ng-model="selected">
+          <thead md-head md-order="order">
+            <tr md-row>
+              <th md-column md-order-by="id"><span>Role ID</span></th>
+              <th md-column md-order-by="name"><span>Role Name</span></th>
+              <th md-column md-order-by="remark"><span>Description</span></th>
+            </tr>
+          </thead>
+          <tbody md-body>
+            <tr md-row md-select="role.id" md-auto-select ng-repeat="role in roles | orderBy: order">
+              <td md-cell>{{role.id}}</td>
+              <td md-cell>{{role.name}}</td>
+              <td md-cell>{{role.remark}}</td>
+            </tr>
+          </tbody>
+        </table>
+      </md-table-container>
+      <span ng-show>{{selected}}</span>
+    </md-whiteframe>
+  </div>
+</div>

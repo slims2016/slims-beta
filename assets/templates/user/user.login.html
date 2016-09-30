@@ -1,0 +1,41 @@
+<div>
+  <div flex layout="row" layout-align="space-around start" layout-padding>
+  <md-whiteframe layout="column" class="md-whiteframe-z2 md-padding" layout-margin flex style="max-width:500px; min-width:240px">
+    <div layout="row">
+      <div class="formheader">
+        <md-icon class="material-icons">lock</md-icon>
+        <span>Login to S.L.I.M.S.</span>
+      </div>
+      <md-button ng-click="cancel()">
+        <md-tooltip>Close</md-tooltip>
+        <md-icon class="material-icons">&#xe5cd;</md-icon>
+      </md-button>
+    </div>
+    <form id="loginForm" name="loginForm" layout-align="start center" layout="row">
+      <span flex="5" show-gt-xs></span>
+      <div layout="column" flex="85">
+        <md-input-container class="no-margin-bottom md-block">
+          <label>User Name</label>
+          <input ng-model="user.username">
+        </md-input-container>
+        <md-input-container>
+          <label>Password</label>
+          <input type="password" ng-model="user.password"/>
+        </md-input-container>
+        <div layout="row" layout-align="start center" layout-align-xs="end center" ng-hide="loading">
+          <span flex show-gt-xs></span>
+          <md-button type="sumbit" ng-click="userLogin()" class="md-raised md-primary md-hue-2">
+            <md-icon class="material-icons">&#xe86c;</md-icon>
+            <label>Login</label>
+          </md-button>
+        </div>
+        <div layout="row" layout-align="start center" layout-align-xs="end center" ng-show="loading">
+          <md-progress-circular md-mode="indeterminate" class="md-primary md-hue-2"></md-progress-circular>
+          <label class="md-primary md-hue-2">Login to ...</label>
+        </div>
+      </div>
+      <span flex show-gt-xs></span>
+    </form>
+  </md-whiteframe>
+  </div>
+</div>

@@ -1,0 +1,143 @@
+<!-- item info page -->
+<div>
+  <div flex layout="row" layout-align="center start" layout-padding>
+    <!-- Item Information -->
+    <md-whiteframe layout="column" class="md-whiteframe-z2 md-padding" layout-margin flex style="max-width:700px; min-width:240px">
+      <div layout="row">
+        <div class="formheader" flex>
+          <md-icon class="material-icons">&#xe02f;</md-icon>
+          <span>Item Information ( {{item.id}} )</span>
+        </div>
+        <!-- Show Item -->
+        <md-button ng-click="editItem()" class="md-primary md-hue-2" ng-hide="editMode">
+          <md-icon class="material-icons">&#xe3c9;</md-icon>
+          <label>Edit</label>
+        </md-button>
+        <md-button ng-click="listItem()" ng-hide="editMode">
+          <md-icon class="material-icons">&#xe166;</md-icon>
+          <label>Back</label>
+        </md-button>
+        <!-- Edit Item -->
+        <md-button ng-click="updateItem()" ng-class="{'md-warn md-hue-2':editItemForm.$valid}" ng-show="editMode">
+          <md-icon class="material-icons">&#xe161;</md-icon>
+          <label>Save</label>
+        </md-button>
+        <md-button ng-click="showItem()" ng-show="editMode">
+          <md-icon class="material-icons">&#xe166;</md-icon>
+          <label>Undo</label>
+        </md-button>
+      </div>
+      <!-- Show Item -->
+      <div layout-align="start center" layout="row" ng-if="!editMode">
+        <span flex="5" show-gt-xs></span>
+        <div layout="column" flex="90">
+          <div layout="row">
+            <md-input-container flex="40" class="md-block">
+              <label>Item ID</label>
+              <input class="disabled-black" name="itemid" ng-model="item.itemid" disabled>
+            </md-input-container>
+            <span flex="5"></span>
+            <md-input-container flex="55" class="md-block">
+              <label>Item Name</label>
+              <input class="disabled-black" name="name" ng-model="item.name" disabled>
+            </md-input-container>
+          </div>
+          <div layout="row">
+            <md-input-container class="no-margin-bottom md-block" flex=30>
+              <label>Unit of Measure</label>
+              <input class="disabled-black" name="unit" ng-model="item.unit.name" disabled>
+            </md-input-container>
+            <span flex="5"></span>
+            <md-input-container class="no-margin-bottom md-block" flex=30>
+              <label>Category</label>
+              <input class="disabled-black" name="category" ng-model="item.category.name" disabled>
+            </md-input-container>
+            <span flex="5"></span>
+            <md-input-container class="no-margin-bottom md-block" flex=30>
+              <label>Subcategory</label>
+              <input class="disabled-black" name="subcategory" ng-model="item.subcategory.name" disabled>
+            </md-input-container>
+          </div>
+          <md-input-container class="no-margin-bottom md-block">
+            <label>Item Description</label>
+            <textarea class="disabled-black" name="remark" ng-model="item.remark" rows="3" disabled></textarea>
+          </md-input-container>
+          <md-input-container class="md-block">
+            <label>Item Specification</label>
+            <textarea class="disabled-black" name="spec" ng-model="item.spec" rows="3" disabled></textarea>
+          </md-input-container>
+        </div>
+        <span flex show-gt-xs></span>
+      </div>
+      <!-- Edit Item -->
+      <form id="editItemForm" name="editItemForm" ng-show="editMode">
+        <div layout-align="start center" layout="row">
+          <span flex="5" show-gt-xs></span>
+          <div layout="column" flex="90">
+            <div layout="row">
+              <md-input-container flex="40" class="md-block">
+                <label>Item ID</label>
+                <input name="itemid" ng-model="item.itemid" required md-maxlength="50" minlength="5" focus-on="itemid">
+                <div ng-messages="editItemForm.itemid.$error" ng-show="editItemForm.itemid.$dirty">
+                  <div ng-message="required">This field is required!</div>
+                  <div ng-message="md-maxlength">That's too long!</div>
+                  <div ng-message="minlength">That's too short!</div>
+                </div>
+              </md-input-container>
+              <span flex="5"></span>
+              <md-input-container flex="55" class="md-block">
+                <label>Item Name</label>
+                <input name="name" ng-model="item.name" required md-maxlength="50" minlength="5">
+                <div ng-messages="editItemForm.name.$error" ng-show="editItemForm.name.$dirty">
+                  <div ng-message="required">This field is required!</div>
+                  <div ng-message="md-maxlength">That's too long!</div>
+                  <div ng-message="minlength">That's too short!</div>
+                </div>
+              </md-input-container>
+            </div>
+            <div layout="row">
+              <md-input-container class="md-block" flex=30>
+                <label>Unit of Measure</label>
+                <md-select name="unit" ng-model="unitid" required md-on-close="selectUnit()">
+                  <md-option ng-repeat="unit in units track by unit.id" ng-value="unit.id">
+                    {{unit.name}}
+                  </md-option>
+                </md-select>
+                <div class="errors" ng-messages="editItemForm.unit.$error">
+                  <div ng-message="required">This field is required!</div>
+                </div>
+              </md-input-container>
+              <span flex="5"></span>
+              <md-input-container class="md-block" flex=30>
+                <label>Category</label>
+                <md-select name="category" ng-model="categoryid" required md-on-close="selectCategory()">
+                  <md-option ng-repeat="category in categories track by category.id" ng-value="category.id">
+                    {{category.name}}
+                  </md-option>
+                </md-select>
+              </md-input-container>
+              <span flex="5"></span>
+              <md-input-container class="md-block" flex=30>
+                <label>Subcategory</label>
+                <md-select ng-model="subcategoryid" md-on-close="selectSubcategory()">
+                  <md-option ng-repeat="subcategory in subcategories track by subcategory.id" ng-value="subcategory.id">
+                    {{subcategory.name}}
+                  </md-option>
+                </md-select>
+              </md-input-container>
+            </div>
+            <md-input-container class="no-margin-bottom md-block">
+              <label>Item Description</label>
+              <textarea name="remark" ng-model="item.remark" md-maxlength="150" rows="3"></textarea>
+            </md-input-container>
+            <md-input-container class="md-block">
+              <label>Item Specification</label>
+              <textarea name="spec" ng-model="item.spec" md-maxlength="150" rows="3"></textarea>
+            </md-input-container>
+          </div>
+          <span flex show-gt-xs></span>
+        </div>
+      </form>
+    </md-whiteframe>
+  </div>
+</div>

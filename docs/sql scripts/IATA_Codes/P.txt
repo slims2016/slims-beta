@@ -1,0 +1,519 @@
+Search results for "P"
+CITY NAME	3-LETTER CITY CODE	AIRPORT NAME	3-LETTER AIRPORT CODE
+Asaloyeh	PGU	Persian Gulf Intl	PGU
+Atlanta	ATL	DeKalb-Peachtree	PDK
+Batticaloa	BTC	Passikudah SPB	PQD
+Beijing	BJS	Capital Intl	PEK
+Belo Horizonte	BHZ	Pampulha	PLU
+Bilaspur	PAB	Bilaspur	PAB
+Boston	BOS	Portsmouth Pease Intl	PSM
+Branson	BKG	M. Graham Clark Downtn	PLK
+Bremerton	PWT	National	PWT
+Busan	PUS	Gimhae Intl	PUS
+Chicago	CHI	Executive	PWK
+Chitato	PGI	Chitato	PGI
+Dublin	PSK	New River Valley	PSK
+El Porvenir	PVE	El Porvenir	PVE
+Everett	PAE	Snohomish County	PAE
+Fort Bragg	FBG	Pope Field	POB
+Fort Polk	POE	Polk AAF	POE
+Glasgow	GLA	Prestwick	PIK
+Greenville	PGV	Pitt-Greenville	PGV
+Hanapepe	PAK	Port Allen	PAK
+Hattiesburg/Laurel	LUL	Regional	PIB
+Hpa-an	PAA	Hpa-an	PAA
+Ilebo	PFR	Ilebo	PFR
+Islita	PBP	Islita	PBP
+Jeypore	PYB	Jeypore	PYB
+Karaj	PYK	Payam	PYK
+Klaipeda/Palanga	PLQ	Palanga International	PLQ
+Kolaka	PUM	Pomala	PUM
+La Palma	PLP	Ramon Xatruch	PLP
+La Ribera	PCO	Punta Colorada	PCO
+La Verne	POC	Brackett Field	POC
+Lahat	PXA	Pagar Alam	PXA
+Malolo Lailai Island	PTF	Malolo Lailai Island	PTF
+Manaus	MAO	Ponta Pelada AB	PLL
+Milan	MIL	Parma	PMF
+Mueo	PDC	Mueo	PDC
+Napaskiak	PKA	Napaskiak	PKA
+New Philadelphia	PHD	Harry Clever Field	PHD
+Newport News/Williamsb	PHF	International	PHF
+Oklahoma City	OKC	Wiley Post	PWA
+Paama Island	PBJ	Paama Island	PBJ
+Pacific City	PFC	State	PFC
+Pacific Harbour	PHR	Pacific Harbour	PHR
+Padang	PDG	Minangkabau	PDG
+Paderborn/Lippstadt	PAD	Paderborn/Lippstadt	PAD
+Paducah	PAH	Barkley Regional	PAH
+Pagadian	PAG	Pagadian	PAG
+Page	PGA	Municipal	PGA
+Pago Pago	PPG	International	PPG
+Pagosa Springs	PGO	Stevens Field	PGO
+Pahokee	PHK	Palm Beach Co Glades	PHK
+Pai	PYY	Pai	PYY
+Paiela	PLE	Paiela	PLE
+Pajala	PJA	Pajala-Yllas	PJA
+Pakokku	PKK	Pakokku	PKK
+Pakse	PKZ	International	PKZ
+Pakuba	PAF	Pakuba	PAF
+Pala	PLF	Pala	PLF
+Palacios	PCH	Palacios	PCH
+Palacios	PSX	Municipal	PSX
+Palangkaraya	PKY	Tjilik Riwut	PKY
+Palanquero	PAL	German Olano Moreno AB	PAL
+Palembang	PLM	S M Badaruddin II	PLM
+Palenque	PQM	International	PQM
+Palermo	PMO	Punta Raisi	PMO
+Palestine	PSN	Municipal	PSN
+Palm Island	PLI	Palm Island	PLI
+Palm Island	PMK	Palm Island	PMK
+Palm Springs	PSP	Metropolitan Area	PSP
+Palm Springs	PSP	International	PSP
+Palm Springs	PSP	Bermuda Dunes	UDD
+Palma de Mallorca	PMI	Palma de Mallorca	PMI
+Palmar Sur	PMZ	Palmar Sur	PMZ
+Palmarito	PTM	Palmarito	PTM
+Palmas	PMW	Lysias Rodrigues	PMW
+Palmdale	PMD	LA/Palmdale Regional	PMD
+Palmer	PAQ	Municipal	PAQ
+Palmer	PMX	Metropolitan	PMX
+Palmerston North	PMR	Palmerston North	PMR
+Palmyra	PMS	Palmyra	PMS
+Palo Alto	PAO	Santa Clara County	PAO
+Palu	PLW	Mutiara	PLW
+Pambwa	PAW	Pambwa	PAW
+Pamol	PAY	Pamol	PAY
+Pampa	PPA	Perry Lefors Field	PPA
+Pamplona	PNA	Pamplona	PNA
+Panama City	ECP	Tyndall AFB	PAM
+Panama City	PTY	Marcos A. Gelabert Int	PAC
+Panama City	PTY	Metropolitan Area	PTY
+Panama City	PTY	Tocumen International	PTY
+Pandie Pandie	PDE	Pandie Pandie	PDE
+Panevezys	PNV	Pajuostis	PNV
+Pangia	PGN	Pangia	PGN
+Pangkalanbuun	PKN	Iskandar	PKN
+Pangkalpinang	PGK	Depati Amir	PGK
+Pangkor	PKG	Pangkor	PKG
+Pangoa	PGB	Pangoa	PGB
+Panguitch	PNU	Municipal	PNU
+Panjang Island	PPJ	Panjang Island	PPJ
+Panjgur	PJG	Panjgur	PJG
+Pantelleria	PNL	Pantelleria	PNL
+Pantnagar	PGH	Pantnagar	PGH
+Panzhihua	PZI	Bao' angong	PZI
+Papa Stour	PSV	Papa Stour	PSV
+Papa Westray	PPW	Papa Westray	PPW
+Paphos	PFO	International	PFO
+Papun	PPU	Papun	PPU
+Paraburdoo	PBO	Paraburdoo	PBO
+Parachinar	PAJ	Parachinar	PAJ
+Paradise	PYS	Skypark	PYS
+Paragould	PGR	Kirk Field	PGR
+Parakou	PKO	Parakou	PKO
+Param	PPX	Param	PPX
+Paramakatoi	PMT	Paramakatoi	PMT
+Paramaribo	PBM	Zorg en Hoop	ORG
+Paramaribo	PBM	Metropolitan Area	PBM
+Paramaribo	PBM	Johan A. Pengel Intl	PBM
+Parana	PRA	General Urquiza	PRA
+Paranagua	PNG	Santos Dumont	PNG
+Paranaiba	PBB	Paranaiba	PBB
+Paranavai	PVI	Edu Chaves	PVI
+Paraparaumu	PPQ	Kapiti Coast	PPQ
+Parasi	PRS	Parasi	PRS
+Pardoo Station	PRD	Pardoo Station	PRD
+Pardubice	PED	Airport	PED
+Parintins	PIN	Julio Belem	PIN
+Paris	PAR	Beauvais-Tille	BVA
+Paris	PAR	Charles de Gaulle	CDG
+Paris	PAR	Le Bourget	LBG
+Paris	PAR	Orly	ORY
+Paris	PAR	Metropolitan Area	PAR
+Paris	PAR	Pontoise-Cormeilles	POX
+Paris	PAR	Villacoublay-Velizy	VIY
+Paris	PAR	Chalons-Vatry	XCR
+Paris	PHT	Henry County	PHT
+Paris	PRX	Cox Field	PRX
+Park Falls	PKF	Municipal	PKF
+Park Rapids	PKD	Municipal-Konshok Fld	PKD
+Parkersburg	PKB	Mid-Ohio Valley Rgnl	PKB
+Parkes	PKE	Parkes	PKE
+Parnaiba	PHB	Joao Silva Filho Intl	PHB
+Parndana	PDN	Parndana	PDN
+Paro	PBH	International	PBH
+Paros	PAS	Paros	PAS
+Parsabad	PFQ	Moghan	PFQ
+Parsons	PPF	Tri-City	PPF
+Paruima	PRR	Paruima	PRR
+Pascagoula	PGL	Trent Lott Intl	PGL
+Pasco	PSC	Tri-Cities	PSC
+Pasir Pangarayan	PPR	Pasir Pangarayan	PPR
+Pasni	PSI	Pasni	PSI
+Paso Robles	PRB	Municipal	PRB
+Passo Fundo	PFB	Lauro Kurtz	PFB
+Passos	PSW	Jose Figueiredo	PSW
+Pasto	PSO	Antonio Narino	PSO
+Patna	PAT	Jayaprakash Narayan	PAT
+Pato Branco	PTO	J.Loureiro Cardoso	PTO
+Patos de Minas	POJ	P.Pereira dos Santos	POJ
+Patreksfjordur	PFJ	Patreksfjordur	PFJ
+Pattani	PAN	Pattani	PAN
+Pattaya	PYX	Pattaya Airpark	PYX
+Patterson	PTN	Harry P. Williams Mem.	PTN
+Pau	PUF	Pyrenees	PUF
+Pauk	PAU	Pauk	PAU
+Paulo Afonso	PAV	Paulo Afonso	PAV
+Pavlodar	PWQ	Pavlodar	PWQ
+Pawe	PWI	Beles	PWI
+Payan	PYN	Payan	PYN
+Paysandu	PDU	Tydeo Larre Borges	PDU
+Payson	PJB	Payson	PJB
+Paz de Ariporo	PZA	Paz de Ariporo	PZA
+Peach Springs	PGS	Grand Canyon Caverns	PGS
+Pebane	PEB	Pebane	PEB
+Pechora	PEX	Pechora	PEX
+Pecos	PEQ	Municipal	PEQ
+Pecs	PEV	Pogany	PEV
+Pedasi	PDM	Capt. J. Montenegro	PDM
+Pedernales	PDZ	Pedernales	PDZ
+Pedro Bay	PDB	Pedro Bay	PDB
+Pedro Juan Caballero	PJC	Augusto Roberto Fuster	PJC
+Peenemuende	PEF	Peenemuende	PEF
+Pehuajo	PEH	Comodoro P. Zanni	PEH
+Pekanbaru	PKU	Sultan Syarif Kasim II	PKU
+Pelaneng	PEL	Pelaneng	PEL
+Pelican	PEC	Sea Plane Base	PEC
+Pell City	PLR	St Clair County	PLR
+Pellston	PLN	Regional (Emmet Co.)	PLN
+Pelotas	PET	International	PET
+Pemba	PMA	Pemba	PMA
+Pemba	POL	Pemba	POL
+Pembina	PMB	Municipal	PMB
+Penang	PEN	International	PEN
+Pendleton	PDT	Eastern Oregon Rgnl	PDT
+Pendopo	PDO	Pendopo	PDO
+Penglai	PNJ	Shahekou	PNJ
+Penneshaw	PEA	Penneshaw	PEA
+Penong	PEY	Penong	PEY
+Penrhyn Atoll	PYE	Penrhyn Atoll	PYE
+Pensacola	PNS	NAS (F.Sherman Field)	NPA
+Pensacola	PNS	Saufley Field NOLF	NUN
+Pensacola	PNS	Metropolitan Area	PNS
+Pensacola	PNS	International	PNS
+Penza	PEZ	Ternovka	PEZ
+Peoria	PIA	General Downing Intl	PIA
+Peppimenarti	PEP	Peppimenarti	PEP
+Peraitepuy	PPH	Peraitepuy	PPH
+Pereira	PEI	Matecana Intl	PEI
+Perigueux	PGX	Bassillac	PGX
+Perito Moreno	PMQ	Perito Moreno	PMQ
+Perm	PEE	Bolshoye Savino	PEE
+Perpignan	PGF	Rivesaltes	PGF
+Perry	PRO	Municipal	PRO
+Perry Island	PYL	Sea Plane Base	PYL
+Perth	PER	Jandakot	JAD
+Perth	PER	International	PER
+Perth	PSL	Scone	PSL
+Perugia	PEG	St. Francis of Assisi	PEG
+Pescara	PSR	Abruzzo	PSR
+Peshawar	PEW	Bacha Khan Intl	PEW
+Petersburg	PGC	Grant County	PGC
+Petersburg	PSG	James A. Johnson	PSG
+Petersburg	PTB	Dinwiddie County	PTB
+Petrolina	PNZ	Senador Nilo Coelho	PNZ
+Petropavlovsk	PKC	Yelizovo	PKC
+Petropavlovsk	PPK	Petropavlovsk	PPK
+Petrozavodsk	PES	Besovets	PES
+Pevek	PWE	Pevek	PWE
+Phalaborwa	PHW	Hendrik van Eck	PHW
+Phan Rang	PHA	Air Base	PHA
+Phanom Sarakham	PMM	Phanom Sarakham	PMM
+Phaplu	PPL	Phaplu	PPL
+Phetchabun	PHY	Phetchabun	PHY
+Philadelphia	PHL	Wings Field	BBX
+Philadelphia	PHL	Metropolitan Area	PHL
+Philadelphia	PHL	International	PHL
+Philadelphia	PHL	Northeast Philadelphia	PNE
+Philadelphia	PHL	Essington SPB	PSQ
+Philadelphia	PHL	Trenton-Mercer	TTN
+Philip	PHP	Philip	PHP
+Philipsburg	PSB	Bellefonte	PSB
+Phinda	PZL	Zulu Inyala	PZL
+Phitsanulok	PHS	Phitsanulok	PHS
+Phnom Penh	PNH	International	PNH
+Phoenix	PHX	Mesa Gateway	AZA
+Phoenix	PHX	Deer Valley	DVT
+Phoenix	PHX	Luke AFB	LUF
+Phoenix	PHX	Falcon Field	MSC
+Phoenix	PHX	Metropolitan Area	PHX
+Phoenix	PHX	Sky Harbor Intl	PHX
+Phoenix	PHX	Scottsdale Apt	SCF
+Phongsaly	PCQ	Boun Neua	PCQ
+Phosphate Hill	PHQ	The Monument	PHQ
+Phrae	PRH	Phrae	PRH
+Phu Quoc Island	PQC	International	PQC
+Phuoc Long	PHU	Phuoc Long	PHU
+Pico Island	PIX	Pico Island	PIX
+Picos	PCS	Picos	PCS
+Picton	PCN	Picton	PCN
+Piedras Negras	PDS	International	PDS
+Pierre	PIR	Regional	PIR
+Piestany	PZY	Piestany	PZY
+Pietermaritzburg	PZB	Pietermaritzburg	PZB
+Pikeville	PVL	Pike County Regional	PVL
+Pikwitonei	PIW	Pikwitonei	PIW
+Pilar	PIL	Carlos Miguel Jimenez	PIL
+Pilot Point	PIP	Metropolitan Area	PIP
+Pilot Point	PIP	Pilot Point Airport	PIP
+Pilot Point	PIP	Ugashik Bay	UGB
+Pilot Station	PQS	Pilot Station	PQS
+Pimaga	PMP	Pimaga	PMP
+Pimenta Bueno	PBQ	Pimenta Bueno	PBQ
+Pindiu	PDI	Pindiu	PDI
+Pine Bluff	PBF	Grider Field	PBF
+Pine Cay	PIC	Pine Cay	PIC
+Pine Mountain	PIM	Harris County	PIM
+Pinedale	PWY	Ralph Wenz Field	PWY
+Pingtung	PIF	Pingtung South	PIF
+Pinheiro	PHI	Pinheiro	PHI
+Pipillipai	PIQ	Pipillipai	PIQ
+Pirapora	PIV	Pirapora	PIV
+Pisa	PSA	Galileo Galilei	PSA
+Pisco	PIO	Renan Elias Olivera	PIO
+Pitalito	PTX	Pitalito	PTX
+Pitts Town	PWN	Pitts Town	PWN
+Pittsburg	PTS	Atkinson Municipal	PTS
+Pittsburgh	PIT	Allegheny County	AGC
+Pittsburgh	PIT	Metropolitan Area	PIT
+Pittsburgh	PIT	International	PIT
+Pittsfield	PSF	Municipal	PSF
+Piura	PIU	G.Concha Iberico Intl	PIU
+Placencia	PLJ	Placencia	PLJ
+Placerville	PVF	Placerville	PVF
+Plainview	PVW	Hale County	PVW
+Planadas	PLA	Planadas	PLA
+Planeta Rica	PLC	Planeta Rica	PLC
+Platinum	PTU	Platinum	PTU
+Plato	PLT	Plato	PLT
+Plattsburgh	PBG	International	PBG
+Playa del Carmen	PCM	Playa del Carmen	PCM
+Playa Grande	PKJ	Playa Grande	PKJ
+Playa Samara/Carrillo	PLD	Playa Samara/Carrillo	PLD
+Playon Chico	PYC	Playon Chico	PYC
+Pleiku	PXU	Pleiku	PXU
+Plentywood	PWD	Sher-Wood	PWD
+Plettenberg Bay	PBZ	Plettenberg Bay	PBZ
+Plovdiv	PDV	Krumovo	PDV
+Plymouth	PLH	City Airport	PLH
+Plymouth	PLY	Municipal	PLY
+Plymouth	PYM	Municipal	PYM
+Po	PUP	Po	PUP
+Pocahontas	POH	Municipal	POH
+Pocatello	PIH	Regional	PIH
+Pocos de Caldas	POO	Walther Moreira Salles	POO
+Podor	POD	Podor	POD
+Pohnpei	PNI	International	PNI
+Point Hope	PHO	Point Hope	PHO
+Point Lay	PIZ	Point Lay	PIZ
+Pointe-a-Pitre	PTP	Le Raizet	PTP
+Pointe-Noire	PNR	Pointe-Noire	PNR
+Poitiers	PIS	Biard	PIS
+Pokhara	PKR	Pokhara	PKR
+Polacca	PXL	Polacca	PXL
+Polokwane	PTG	International	PTG
+Poltava	PLV	Poltava	PLV
+Polyarny	PYJ	Polyarny	PYJ
+Pompano Beach	PPM	Airpark	PPM
+Ponca City	PNC	Regional	PNC
+Ponce	PSE	Mercedita	PSE
+Pondicherry	PNY	Pondicherry	PNY
+Pondok Cabe	PCB	Pondok Cabe	PCB
+Ponta Delgada	PDL	Joao Paulo II	PDL
+Ponta do Ouro	PDD	Ponta do Ouro	PDD
+Ponta Grossa	PGZ	A.Amilton Beraldo	PGZ
+Ponta Pora	PMG	International	PMG
+Pontiac	PTK	Oakland County Intl	PTK
+Pontianak	PNK	Supadio	PNK
+Popayan	PPN	Guillermo L. Valencia	PPN
+Poplar Bluff	POF	Municipal	POF
+Poplarville	PCU	Pearl River County	PCU
+Popondetta	PNP	Girua	PNP
+Poptun	PON	Poptun	PON
+Porbandar	PBD	Porbandar	PBD
+Pore	PRE	Pore	PRE
+Pori	POR	Pori	POR
+Porlamar	PMV	Del Caribe Intl	PMV
+Port Alexander	PTD	Sea Plane Base	PTD
+Port Alice	PTC	Sea Plane Base	PTC
+Port Alsworth	PTA	Port Alsworth	PTA
+Port Antonio	POT	Ken Jones	POT
+Port Augusta	PUG	Port Augusta	PUG
+Port Elizabeth	PLZ	Port Elizabeth	PLZ
+Port Graham	PGM	Port Graham	PGM
+Port Harcourt	PHC	International	PHC
+Port Harcourt	PHC	City Airport	PHG
+Port Hedland	PHE	International	PHE
+Port Heiden	PTH	Port Heiden	PTH
+Port Huron	PHN	St Clair County Intl	PHN
+Port Kaituma	PKM	Port Kaituma	PKM
+Port Keats	PKT	Port Keats	PKT
+Port Lincoln	PLO	Port Lincoln	PLO
+Port Macquarie	PQQ	Port Macquarie	PQQ
+Port Moller	PML	Port Moller	PML
+Port Moresby	POM	Jacksons International	POM
+Port of Spain	POS	Piarco Intl	POS
+Port Pirie	PPI	Port Pirie	PPI
+Port Protection	PPV	Sea Plane Base	PPV
+Port Said	PSD	Port Said	PSD
+Port Sudan	PZU	New International	PZU
+Port Walter	PWR	Sea Plane Base	PWR
+Portage Creek	PCA	Portage Creek	PCA
+Port-au-Prince	PAP	Toussaint Louverture	PAP
+Port-de-Paix	PAX	Port-de-Paix	PAX
+Porterville	PTV	Municipal	PTV
+Port-Gentil	POG	International	POG
+Portimao	PRM	Portimao	PRM
+Portland	PDX	Hillsboro	HIO
+Portland	PDX	International	PDX
+Portland	PDX	Troutdale	TTD
+Portland	PTJ	Portland	PTJ
+Portland	PWM	Intl Jetport	PWM
+Porto Alegre	POA	Salgado Filho Intl	POA
+Porto Alegre do Norte	PBX	Fazenda Piraguassu	PBX
+Porto Amboim	PBN	Porto Amboim	PBN
+Porto de Moz	PTQ	Porto de Moz	PTQ
+Porto dos Gauchos	PBV	Porto dos Gauchos	PBV
+Porto Nacional	PNB	Porto Nacional	PNB
+Porto Santo	PXO	Porto Santo	PXO
+Porto Velho	PVH	J.T. de Oliveira Intl	PVH
+Portochelion	PKH	Kanaris	PKH
+Portoroz	POW	Portoroz	POW
+Portoviejo	PVO	Reales Tamarindos	PVO
+Portsmouth	PMH	Regional	PMH
+Posadas	PSS	Jose de San Martin	PSS
+Poso	PSJ	Kasinguncu	PSJ
+Potchefstroom	PCF	Potchefstroom	PCF
+Potosi	POI	Capitan Nicolas Rojas	POI
+Pottstown	PTW	Heritage Field	PTW
+Poughkeepsie	POU	Dutchess County	POU
+Poulsbo	PUL	Marina Moorage SPB	PUL
+Poum	PUV	Malabou	PUV
+Pouso Alegre	PPY	Pouso Alegre	PPY
+Powell/Lovell	POY	Powell Municipal	POY
+Poza Rica	PAZ	El Tajin	PAZ
+Poznan	POZ	Lawica	POZ
+Prado	PDF	Prado	PDF
+Prague	PRG	Metropolitan Area	PRG
+Prague	PRG	Ruzyne	PRG
+Prague	PRG	Vodochody	VOD
+Prairie du Chien	PCD	Municipal	PCD
+Praslin Island	PRI	Praslin Island	PRI
+Pratt	PTT	Regional	PTT
+Prentice	PRW	Prentice	PRW
+Prerov	PRV	Prerov	PRV
+Pres. Roque Saenz Pena	PRQ	Pres. Roque Saenz Pena	PRQ
+Prescott	PRC	Ernest A. Love Field	PRC
+Presidente Dutra	PDR	Presidente Dutra	PDR
+Presidente Prudente	PPB	Presidente Prudente	PPB
+Presov	POV	Presov	POV
+Presque Isle	PQI	Northern Maine Rgnl	PQI
+Pretoria	PRY	Metropolitan Area	PRY
+Pretoria	PRY	Wonderboom	PRY
+Pretoria	PRY	Waterkloof AFB	WKF
+Preveza/Lefkada	PVK	Aktion	PVK
+Price	PUC	Carbon County Regional	PUC
+Prieska	PRK	Prieska	PRK
+Princeton	PNN	Municipal	PNN
+Princeton/Rocky Hill	PCT	Princeton/Rocky Hill	PCT
+Principe Island	PCP	Principe Island	PCP
+Prineville	PRZ	Prineville	PRZ
+Pristina	PRN	International	PRN
+Prominent Hill	PXH	Prominent Hill	PXH
+Propriano	PRP	Propriano	PRP
+Proserpine	PPP	Whitsunday Coast	PPP
+Prospect Creek	PPC	Prospect Creek	PPC
+Providence	PVD	T.F. Green State Apt	PVD
+Providencia Island	PVA	El Embrujo	PVA
+Providenciales	PLS	International	PLS
+Provideniya	PVS	Provideniya Bay	PVS
+Provincetown	PVC	Municipal	PVC
+Provo	PVU	Municipal	PVU
+Pskov	PKV	Pskov	PKV
+Puas	PUA	Puas	PUA
+Pucallpa	PCL	D.Abenzur Rengifo Intl	PCL
+Puebla	PBC	Hermanos Serdan Intl	PBC
+Pueblo	PUB	Memorial	PUB
+Puerto Asis	PUU	Tres de Mayo	PUU
+Puerto Ayacucho	PYH	Cacique Aramare	PYH
+Puerto Barrios	PBR	Puerto Barrios	PBR
+Puerto Berrio	PBE	Puerto Berrio	PBE
+Puerto Boyaca	PYA	Velasquez	PYA
+Puerto Cabello	PBL	Bartolome Salom Intl	PBL
+Puerto Cabezas	PUZ	Puerto Cabezas	PUZ
+Puerto Carreno	PCR	German Olano	PCR
+Puerto Deseado	PUD	Puerto Deseado	PUD
+Puerto Escondido	PXM	International	PXM
+Puerto Inirida	PDA	Obando	PDA
+Puerto Jimenez	PJM	Puerto Jimenez	PJM
+Puerto La Victoria	PCJ	Puerto La Victoria	PCJ
+Puerto Leda	PBT	Puerto Leda	PBT
+Puerto Lempira	PEU	Puerto Lempira	PEU
+Puerto Madryn	PMY	El Tehuelche	PMY
+Puerto Maldonado	PEM	Padre Aldamiz Intl	PEM
+Puerto Montt	PMC	El Tepual	PMC
+Puerto Natales	PNT	Teniente J. Gallardo	PNT
+Puerto Obaldia	PUE	Puerto Obaldia	PUE
+Puerto Ordaz	PZO	Manuel Carlos Piar	PZO
+Puerto Paez	PPZ	Puerto Paez	PPZ
+Puerto Penasco	PPE	International	PPE
+Puerto Plata	POP	Gregorio Luperon Intl	POP
+Puerto Princesa	PPS	International	PPS
+Puerto Rico	PCC	Puerto Rico	PCC
+Puerto Rico	PUR	Puerto Rico	PUR
+Puerto Suarez	PSZ	International	PSZ
+Puerto Vallarta	PVR	G.Diaz Ordaz Intl	PVR
+Puerto Varas	PUX	El Mirador	PUX
+Puka Puka	PKP	Puka Puka	PKP
+Pukapuka Island	PZK	Pukapuka Island	PZK
+Pukarua	PUK	Pukarua	PUK
+Pula	PUY	Pula	PUY
+Pullman/Moscow ID	PUW	Regional	PUW
+Pumani	PMN	Pumani	PMN
+Pune	PNQ	Lohegaon	PNQ
+Punia	PUN	Punia	PUN
+Punta Arenas	PUQ	C.Ibanez del Campo	PUQ
+Punta Cana	PUJ	International	PUJ
+Punta Chivato	PCV	Punta Chivato	PCV
+Punta del Este	PDP	Carlos A. Curbelo Intl	PDP
+Punta Gorda	PGD	Punta Gorda	PGD
+Punta Gorda	PND	Punta Gorda	PND
+Pureni	PUI	Pureni	PUI
+Purwokerto	PWL	Wirasaba	PWL
+Putao	PBU	Putao	PBU
+Puttaparthi	PUT	Sri Sathya Sai	PUT
+Putumayo	PYO	Putumayo	PYO
+Putussibau	PSU	Pangsuma	PSU
+Pweto	PWO	Pweto	PWO
+Pyay	PRU	Pyay	PRU
+Pyrgos	PYR	Andravida AB	PYR
+Selebi-Phikwe	PKW	Selebi-Phikwe	PKW
+Semey	PLX	Semey	PLX
+Shanghai	SHA	Pudong Intl	PVG
+Shell Mera	PTZ	Rio Amazonas	PTZ
+Sherman/Denison	PNX	North Texas Regional	PNX
+St Peter-Ording	PSH	St Peter-Ording	PSH
+Stanley	PSY	Port Stanley	PSY
+Surin	PXR	Surin	PXR
+Tahiti	PPT	Faaa	PPT
+Tampa	TPA	St.Pete-Clearwater Int	PIE
+Temuco	ZCO	Maquehue	PZS
+West Palm Beach	PBI	Palm Beach County Park	LNA
+West Palm Beach	PBI	Metropolitan Area	PBI
+West Palm Beach	PBI	Palm Beach Intl	PBI
+Yaviza	PYV	Yaviza	PYV
+Yegepa	PGE	Yegepa	PGE
+Zhob	PZH	Zhob	PZH
+
+Displaying 515 result(s)

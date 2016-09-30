@@ -1,0 +1,120 @@
+<!-- country info page -->
+<div>
+  <div flex layout="row" layout-align="center start" layout-padding>
+    <!-- Country Information -->
+    <md-whiteframe layout="column" class="md-whiteframe-z2 md-padding" layout-margin flex style="max-width:500px; min-width:240px">
+      <div layout="row">
+        <div class="formheader" flex>
+          <md-icon class="material-icons">business</md-icon>
+          <span>Country Information ( {{country.id}} )</span>
+        </div>
+        <!-- Show Country -->
+        <md-button ng-click="editCountry()" class="md-primary md-hue-2" ng-hide="editMode">
+          <md-icon class="material-icons">&#xe3c9;</md-icon>
+          <label>Edit</label>
+        </md-button>
+        <md-button ng-click="listCountry()" ng-hide="editMode">
+          <md-icon class="material-icons">&#xe166;</md-icon>
+          <label>Back</label>
+        </md-button>
+        <!-- Edit Country -->
+        <md-button ng-click="updateCountry()" ng-class="{'md-warn md-hue-2':editCountryForm.$valid}" ng-show="editMode">
+          <md-icon class="material-icons">&#xe161;</md-icon>
+          <label>Save</label>
+        </md-button>
+        <md-button ng-click="showCountry()" ng-show="editMode">
+          <md-icon class="material-icons">&#xe166;</md-icon>
+          <label>Undo</label>
+        </md-button>
+      </div>
+      <!-- Show Country -->
+      <div layout-align="start center" layout="row" ng-if="!editMode">
+        <span flex="5" show-gt-xs></span>
+        <div layout="column" flex="90">
+          <div layout="row">
+            <md-input-container flex="30" class="no-margin-bottom md-block">
+              <label>Country Code</label>
+              <input class="disabled-black" name="code" ng-model="country.code" disabled>
+            </md-input-container>
+            <span flex="5"></span>
+            <md-input-container flex="30" class="no-margin-bottom md-block">
+              <label>Code 2</label>
+              <input class="disabled-black" name="code2" ng-model="country.code2" disabled>
+            </md-input-container>
+            <span flex="5"></span>
+            <md-input-container flex="30" class="no-margin-bottom md-block">
+              <label>Numeric 3</label>
+              <input class="disabled-black" name="numeric3" ng-model="country.numeric3" disabled>
+            </md-input-container>
+          </div>
+          <md-input-container class="no-margin-bottom md-block">
+            <label>Country Name</label>
+            <input class="disabled-black" name="name" ng-model="country.name" disabled>
+          </md-input-container>
+          <md-input-container class="md-block">
+            <label>Country Full Name</label>
+            <input class="disabled-black" name="fullname" ng-model="country.fullname" disabled></input>
+          </md-input-container>
+        </div>
+        <span flex show-gt-xs></span>
+      </div>
+      <!-- Edit Country -->
+      <form id="editCountryForm" name="editCountryForm" ng-show="editMode">
+        <div layout-align="start center" layout="row">
+          <span flex="5" show-gt-xs></span>
+          <div layout="column" flex="90">
+            <div layout="row">
+              <md-input-container flex="30" class="no-margin-bottom md-block">
+                <label>Country Code</label>
+                <input name="code" ng-model="country.code" required md-maxlength="3" ng-pattern="/^[A-Z]{3}$/" auto-focus-on>
+                <div ng-messages="editCountryForm.code.$error" ng-show="editCountryForm.code.$dirty">
+                  <div ng-message="required">This field is required!</div>
+                  <div ng-message="md-maxlength">That's too long!</div>
+                  <div ng-message="pattern">Format: ABC</div>
+                </div>
+              </md-input-container>
+              <span flex="5"></span>
+              <md-input-container flex="30" class="no-margin-bottom md-block">
+                <label>Code 2</label>
+                <input name="code2" ng-model="country.code2" required md-maxlength="2" ng-pattern="/^[A-Z]{2}$/">
+                <div ng-messages="editCountryForm.code2.$error" ng-show="editCountryForm.code2.$dirty">
+                  <div ng-message="required">This field is required!</div>
+                  <div ng-message="md-maxlength">That's too long!</div>
+                  <div ng-message="pattern">Format: AB</div>
+                </div>
+              </md-input-container>
+              <span flex="5"></span>
+              <md-input-container flex="30" class="no-margin-bottom md-block">
+                <label>Numeric 3</label>
+                <input name="numeric3" ng-model="country.numeric3" required md-maxlength="3" ng-pattern="/^[0-9]{3}$/">
+                <div ng-messages="editCountryForm.numeric3.$error" ng-show="editCountryForm.numeric3.$dirty">
+                  <div ng-message="required">This field is required!</div>
+                  <div ng-message="md-maxlength">That's too long!</div>
+                  <div ng-message="pattern">Format: 123</div>
+                </div>
+              </md-input-container>
+            </div>
+            <md-input-container class="no-margin-bottom md-block">
+              <label>Country Name</label>
+              <input name="name" ng-model="country.name" required md-maxlength="100" minlength="5">
+              <div ng-messages="editCountryForm.name.$error" ng-show="editCountryForm.name.$dirty">
+                <div ng-message="required">This field is required!</div>
+                <div ng-message="md-maxlength">That's too long!</div>
+                <div ng-message="minlength">That's too short!</div>
+              </div>
+            </md-input-container>
+            <md-input-container class="md-block">
+              <label>Country Full Name</label>
+              <input name="fullname" ng-model="country.fullname" md-maxlength="150">
+              <div ng-messages="editCountryForm.fullname.$error" ng-show="editCountryForm.fullname.$dirty">
+                <div ng-message="required">This field is required!</div>
+                <div ng-message="md-maxlength">That's too long!</div>
+              </div>
+            </md-input-container>
+          </div>
+          <span flex show-gt-xs></span>
+        </div>
+      </form>
+    </md-whiteframe>
+  </div>
+</div>

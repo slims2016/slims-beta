@@ -1,0 +1,475 @@
+Search results for "Y"
+CITY NAME	3-LETTER CITY CODE	AIRPORT NAME	3-LETTER AIRPORT CODE
+Abbotsford	YXX	International	YXX
+Aershan	YIE	Yiershi	YIE
+Alert	YLT	Alert	YLT
+Alert Bay	YAL	Alert Bay	YAL
+Alma	YTF	Alma	YTF
+Amos	YEY	Magny	YEY
+Anahim Lake	YAA	Anahim Lake	YAA
+Angling Lake	YAX	Wapekeka	YAX
+Arctic Bay	YAB	Arctic Bay	YAB
+Armstrong	YYW	Armstrong	YYW
+Arviat	YEK	Arviat	YEK
+Atikokan	YIB	Municipal	YIB
+Attawapiskat	YAT	Attawapiskat	YAT
+Aupaluk	YPJ	Aupaluk	YPJ
+Bagotville	YBG	Bagotville	YBG
+Baie-Comeau	YBC	Baie-Comeau	YBC
+Baie-Johan-Beetz	YBJ	SPB	YBJ
+Baker Lake	YBK	Baker Lake	YBK
+Bamfield	YBF	SPB	YBF
+Banff	YBA	Banff	YBA
+Bar River	YEB	Bar River	YEB
+Barrie/Orillia	YLK	Lake Simcoe Regional	YLK
+Beaver Creek	YXQ	Beaver Creek	YXQ
+Bedwell Harbour	YBW	SPB	YBW
+Bella Bella	ZEL	Shearwater SPB	YSX
+Berens River	YBV	Berens River	YBV
+Big Trout Lake	YTL	Big Trout Lake	YTL
+Black Tickle	YBI	Black Tickle	YBI
+Blanc-Sablon	YBX	Lourdes-de-BlancSablon	YBX
+Bloodvein	YDV	Bloodvein River	YDV
+Bob Quinn Lake	YBO	Bob Quinn Lake	YBO
+Bonaventure	YVB	Bonaventure	YVB
+Bonnyville	YBY	Bonnyville	YBY
+Brandon	YBR	Municipal	YBR
+Brochet	YBT	Brochet	YBT
+Buffalo Narrows	YVT	Buffalo Narrows	YVT
+Bull Harbour	YBH	SPB	YBH
+Burns Lake	YPZ	Burns Lake	YPZ
+Bursa	YEI	Yenisehir	YEI
+Burwash Landing	YDB	Burwash	YDB
+Cache Creek/Ashcroft	YZA	Regional	YZA
+Calgary	YYC	International	YYC
+Cambridge Bay	YCB	Cambridge Bay	YCB
+Campbell River	YBL	Metropolitan Area	YBL
+Campbell River	YBL	Airport	YBL
+Campbell River	YBL	SPB	YHH
+Cape Dorset	YTE	Cape Dorset	YTE
+Cape Dyer	YVN	Cape Dyer	YVN
+Cartwright	YRF	Cartwright	YRF
+Castlegar	YCG	West Kootenay Regional	YCG
+Cat Lake	YAC	Cat Lake	YAC
+Centralia	YCE	James T Field Memorial	YCE
+Chapleau	YLD	Chapleau	YLD
+Charlo	YCL	Charlo	YCL
+Charlottetown	YHG	Off-line Point	YHG
+Charlottetown	YYG	Charlottetown	YYG
+Chesterfield Inlet	YCS	Chesterfield Inlet	YCS
+Chetwynd	YCQ	Chetwynd	YCQ
+Chevery	YHR	Chevery	YHR
+Chibougamau	YMT	Chapais	YMT
+Chillan	YAI	General B. O'Higgins	YAI
+Chilliwack	YCW	Chilliwack	YCW
+Chisasibi	YKU	Chisasibi	YKU
+Churchill	YYQ	Airport	YYQ
+Chute-des-Passes	YWQ	Lac Margane SPB	YWQ
+Clinton Creek	YLM	Clinton Creek	YLM
+Clyde River	YCY	Clyde River	YCY
+Cochrane	YCN	Cochrane	YCN
+Cold Lake	YOD	R.W. McNair	YOD
+Collins Bay	YKC	Collins Bay	YKC
+Colville Lake	YCK	Tommy Kochon	YCK
+Comox	YQQ	Comox	YQQ
+Coral Harbour	YZS	Coral Harbour	YZS
+Cornwall	YCC	Regional	YCC
+Coronation	YCT	Coronation	YCT
+Cortes Bay	YCF	SPB	YCF
+Courtenay	YCA	Airpark	YCA
+Cowley	YYM	Cowley	YYM
+Cranbrook	YXC	Canadian Rockies Intl	YXC
+Cross Lake	YCR	Charlie Sinclair Mem.	YCR
+Dauphin	YDN	Lt. W.G. (Billy)Barker	YDN
+Dawson City	YDA	Dawson City	YDA
+Dawson Creek	YDQ	Dawson Creek	YDQ
+Dean River	YRD	Dean River	YRD
+Dease Lake	YDL	Dease Lake	YDL
+Deer Lake	YDF	Regional	YDF
+Deer Lake	YVZ	Deer Lake	YVZ
+Deline	YWJ	Deline	YWJ
+Detroit	DTT	Willow Run	YIP
+Digby	YDG	Annapolis Regional	YDG
+Dolbeau	YDO	St-Felicien	YDO
+Donnelly	YOE	Donnelly	YOE
+Drayton Valley	YDC	Industrial	YDC
+Dryden	YHD	Regional	YHD
+Earlton	YXR	Timiskaming Regional	YXR
+Edmonton	YEA	Metropolitan Area	YEA
+Edmonton	YEA	International	YEG
+Edmonton	YEA	City Centre Airport	YXD
+Edson	YET	Edson	YET
+Ekati	YOA	Ekati	YOA
+Elliot Lake	YEL	Municipal	YEL
+Estevan	YEN	Regional	YEN
+Eureka	YEU	Eureka	YEU
+Fairmount Hot Springs	YCZ	Fairmount Hot Springs	YCZ
+Flin Flon	YFO	Flin Flon	YFO
+Fontanges	YFG	Fontanges	YFG
+Forestville	YFE	Forestville	YFE
+Fort Albany	YFA	Fort Albany	YFA
+Fort Chipewyan	YPY	Fort Chipewyan	YPY
+Fort Frances	YAG	Municipal	YAG
+Fort Good Hope	YGH	Fort Good Hope	YGH
+Fort Hope	YFH	Fort Hope	YFH
+Fort Liard	YJF	Fort Liard	YJF
+Fort MacKay	HZP	Firebag	YFI
+Fort McMurray	YMM	Mildred Lake	NML
+Fort McMurray	YMM	Fort McMurray	YMM
+Fort Nelson	YYE	Northern Rockies Rgnl	YYE
+Fort Reliance	YFL	SPB	YFL
+Fort Resolution	YFR	Fort Resolution	YFR
+Fort Severn	YER	Fort Severn	YER
+Fort Simpson	YFS	Fort Simpson	YFS
+Fort Smith	YSM	Fort Smith	YSM
+Fort St John	YXJ	North Peace	YXJ
+Fredericton	YFC	International	YFC
+Frying Pan Island	YSI	Sans Souci SPB	YSI
+Galiano Island	YMF	Montagne Harbour SPB	YMF
+Gameti	YRA	Rae Lakes	YRA
+Gander	YQX	International	YQX
+Ganges	YGG	SPB	YGG
+Gaspe	YGP	Michel-Pouliot	YGP
+Geraldton	YGQ	Greenstone Regional	YGQ
+Gillam	YGX	Gillam	YGX
+Gillies Bay	YGB	Gillies Bay	YGB
+Gimli	YGM	Industrial Park	YGM
+Gjoa Haven	YHK	Gjoa Haven	YHK
+Gods Lake Narrows	YGO	Gods Lake Narrows	YGO
+Goose Bay	YYR	Goose Bay	YYR
+Gore Bay	YZE	Manitoulin	YZE
+Gorge Harbour	YGE	SPB	YGE
+Grande Cache	YGC	Grande Cache	YGC
+Grande Prairie	YQU	Grande Prairie	YQU
+Greenway Sound	YGN	SPB	YGN
+Greenwood	YZX	Greenwood	YZX
+Grise Fiord	YGZ	Grise Fiord	YGZ
+Haines Junction	YHT	Haines Junction	YHT
+Hakai Passage	YHC	SPB	YHC
+Hakkari	YKO	Yuksekova	YKO
+Halifax	YHZ	Metropolitan Area	YHZ
+Halifax	YHZ	Stanfield Intl	YHZ
+Hall Beach	YUX	Hall Beach	YUX
+Hartley Bay	YTB	SPB	YTB
+Hatchet Lake	YDJ	Hatchet Lake	YDJ
+Havre-St-Pierre	YGV	Havre-St-Pierre	YGV
+Hay River	YHY	Merlyn Carter	YHY
+Hearst	YHF	Rene Fontaine Muni	YHF
+High Level	YOJ	High Level	YOJ
+Hinton	YJP	Jasper-Hinton	YJP
+Hope	YHE	Hope	YHE
+Hopedale	YHO	Hopedale	YHO
+Hornepayne	YHN	Municipal	YHN
+Hudson Bay	YHB	Hudson Bay	YHB
+Hudson's Hope	YNH	Hudson's Hope	YNH
+Igloolik	YGT	Igloolik	YGT
+Iles de La Madeleine	YGR	Iles de La Madeleine	YGR
+Inukjuak	YPH	Inukjuak	YPH
+Inuvik	YEV	Mike Zubko	YEV
+Iqaluit	YFB	Iqaluit	YFB
+Island Lk/Garden Hill	YIV	Island Lk/Garden Hill	YIV
+Ivujivik	YIK	Ivujivik	YIK
+Jasper	YJA	Airport	YJA
+Kamloops	YKA	Kamloops	YKA
+Kangiqsujuaq	YWB	Wakeham Bay	YWB
+Kangirsuk	YKG	Kangirsuk	YKG
+Kapuskasing	YYU	Kapuskasing	YYU
+Kasba Lake	YDU	Kasba Lake	YDU
+Kattiniq	YAU	Donaldson	YAU
+Kelowna	YLW	International	YLW
+Kenora	YQK	Kenora	YQK
+Key Lake	YKJ	Key Lake	YKJ
+Kimmirut	YLC	Kimmirut	YLC
+Kincardine	YKD	Kincardine	YKD
+Kindersley	YKY	Regional	YKY
+Kingston	YGK	Norman Rogers	YGK
+Kirkland Lake	YKX	Kirkland Lake	YKX
+Kitkatla	YKK	SPB	YKK
+Klemtu	YKT	SPB	YKT
+Knee Lake	YKE	Knee Lake	YKE
+Kugaaruk	YBB	Kugaaruk	YBB
+Kugluktuk	YCO	Kugluktuk	YCO
+Kuujjuaq	YVP	Kuujjuaq	YVP
+Kuujjuarapik	YGW	Kuujjuarapik	YGW
+La Grande Riviere	YGL	La Grande Riviere	YGL
+La Grande-3	YAR	La Grande-3	YAR
+La Grande-4	YAH	La Grande-4	YAH
+La Malbaie	YML	Charlevoix	YML
+La Ronge	YVC	Barber Field	YVC
+La Tuque	YLQ	La Tuque	YLQ
+Lac La Biche	YLB	Lac La Biche	YLB
+Langley	YLY	Regional	YLY
+Lansdowne House	YLH	Lansdowne House	YLH
+Leaf Rapids	YLR	Leaf Rapids	YLR
+Lebel-sur-Quevillon	YLS	Lebel-sur-Quevillon	YLS
+Lethbridge	YQL	Lethbridge County	YQL
+Lloydminster	YLL	Lloydminster	YLL
+London	YXU	International	YXU
+Lutselke	YSG	Lutselke	YSG
+Lynn Lake	YYL	Lynn Lake	YYL
+Makkovik	YMN	Makkovik	YMN
+Manitouwadge	YMG	Manitouwadge	YMG
+Manitowaning	YEM	Manitoulin East Muni	YEM
+Maniwaki	YMW	Maniwaki	YMW
+Mansons Landing	YMU	SPB	YMU
+Maple Bay	YAQ	SPB	YAQ
+Marathon	YSP	Marathon	YSP
+Mary River	YMV	Mary River	YMV
+Mary's Harbour	YMH	Mary's Harbour	YMH
+Matagami	YNM	Matagami	YNM
+Matane	YME	Matane	YME
+Mayne Island	YAV	Miners Bay SPB	YAV
+Mayo	YMA	Mayo	YMA
+Meadow Lake	YLJ	Meadow Lake	YLJ
+Medicine Hat	YXH	Medicine Hat	YXH
+Merritt	YMB	Merritt	YMB
+Mingan	YLP	Mingan	YLP
+Miramichi	YCH	Airport	YCH
+Moncton	YQM	Greater Moncton Intl	YQM
+Mont-Joli	YYY	Mont-Joli	YYY
+Montreal	YMQ	St-Hubert	YHU
+Montreal	YMQ	Metropolitan Area	YMQ
+Montreal	YMQ	Mirabel Intl	YMX
+Montreal	YMQ	Pierre E.Trudeau Intl	YUL
+Mont-Tremblant	YTM	International	YTM
+Moose Jaw	YMJ	C.M. McEwen	YMJ
+Moose Lake	YAD	Moose Lake	YAD
+Moosonee	YMO	Moosonee	YMO
+Moroni	YVA	Prince Said Ibrahim	HAH
+Moroni	YVA	Metropolitan Area	YVA
+Moroni	YVA	Iconi	YVA
+Mould Bay	YMD	Mould Bay	YMD
+Muskoka	YQA	Muskoka	YQA
+Mys-Kamenny	YMK	Mys-Kamenny	YMK
+Nain	YDP	Nain	YDP
+Nakina	YQN	Nakina	YQN
+Nanaimo	YCD	Metropolitan Area	YCD
+Nanaimo	YCD	Airport	YCD
+Nanaimo	YCD	Harbour SPB	ZNA
+Natashquan	YNA	Natashquan	YNA
+Natuashish	YNP	Natuashish	YNP
+Nemiscau	YNS	Nemiscau	YNS
+Norman Wells	YVQ	Norman Wells	YVQ
+North Battleford	YQW	Cameron McIntosh	YQW
+North Bay	YYB	Jack Garland	YYB
+North Spirit Lake	YNO	North Spirit Lake	YNO
+Norway House	YNE	Norway House	YNE
+Obre Lake	YDW	North of Sixty	YDW
+Ogoki	YOG	Ogoki Post	YOG
+Old Crow	YOC	Old Crow	YOC
+Opapamiskan Lake	YBS	Opapamiskan Lake	YBS
+Opinaca	YOI	Opinaca	YOI
+Oshawa	YOO	Oshawa	YOO
+Ottawa	YOW	Gatineau	YND
+Ottawa	YOW	Metropolitan Area	YOW
+Ottawa	YOW	Macdonald-Cartier Intl	YOW
+Ottawa	YOW	Rockcliffe	YRO
+Owen Sound	YOS	Billy Bishop Regional	YOS
+Oxford House	YOH	Oxford House	YOH
+Pangnirtung	YXP	Pangnirtung	YXP
+Paradise River	YDE	Paradise River	YDE
+Parry Sound	YPD	Parry Sound Area Muni	YPD
+Paulatuk	YPC	Nora A. Ruben	YPC
+Peace River	YPE	Peace River	YPE
+Peawanuck	YPO	Peawanuck	YPO
+Pembroke	YTA	Pembroke	YTA
+Pender Harbour	YPT	SPB	YPT
+Penticton	YYF	Regional	YYF
+Petawawa	YWA	Petawawa	YWA
+Peterborough	YPQ	Peterborough	YPQ
+Pickle Lake	YPL	Pickle Lake	YPL
+Pikangikum	YPM	Pikangikum	YPM
+Points North Landing	YNL	Points North Landing	YNL
+Pond Inlet	YIO	Pond Inlet	YIO
+Poplar Hill	YHP	Poplar Hill	YHP
+Port Alberni	YPB	Alberni Valley Rgnl	YPB
+Port Hardy	YZT	Port Hardy	YZT
+Port Hawkesbury	YPS	Port Hawkesbury	YPS
+Port Hope Simpson	YHA	Port Hope Simpson	YHA
+Port McNeill	YMP	Port McNeill	YMP
+Port Simpson	YPI	SPB	YPI
+Portage La Prairie	YPG	Southport	YPG
+Port-Menier	YPN	Port-Menier	YPN
+Postville	YSO	Postville	YSO
+Powell River	YPW	Powell Lake SPB	WPL
+Powell River	YPW	Powell River	YPW
+Prince Albert	YPA	Glass Field	YPA
+Prince George	YXS	Airport	YXS
+Prince Rupert	YPR	Metropolitan Area	YPR
+Prince Rupert	YPR	Airport	YPR
+Prince Rupert	YPR	Seal Cove SPB	ZSW
+Puvirnituq	YPX	Puvirnituq	YPX
+Qikiqtarjuaq	YVM	Qikiqtarjuaq	YVM
+Quadra Island	YQJ	April Point SPB	YQJ
+Quaqtaq	YQC	Quaqtaq	YQC
+Quebec	YQB	Jean Lesage Intl	YQB
+Quesnel	YQZ	Quesnel	YQZ
+Rainbow Lake	YOP	Rainbow Lake	YOP
+Rankin Inlet	YRT	Rankin Inlet	YRT
+Red Deer	YQF	Regional	YQF
+Red Lake	YRL	Red Lake	YRL
+Red Sucker Lake	YRS	Red Sucker Lake	YRS
+Refuge Cove	YRC	SPB	YRC
+Regina	YQR	International	YQR
+Repulse Bay	YUT	Repulse Bay	YUT
+Resolute	YRB	Resolute Bay	YRB
+Revelstoke	YRV	Revelstoke	YRV
+Rigolet	YRG	Rigolet	YRG
+Rimouski	YXK	Rimouski	YXK
+Rivers	YYI	Rivers	YYI
+Rivers Inlet	YRN	SPB	YRN
+Riviere-du-Loup	YRI	Riviere-du-Loup	YRI
+Roberval	YRJ	Roberval	YRJ
+Rocky Mountain House	YRM	Rocky Mountain House	YRM
+Rouyn-Noranda	YUY	Rouyn-Noranda	YUY
+Sable Island	YSA	Sable Island	YSA
+Sachs Harbour	YSY	D.Nasogaluak Saaryuaq	YSY
+Saint John	YSJ	Saint John	YSJ
+Salluit	YSW	Salluit	YZG
+Salmon Arm	YSN	Salmon Arm	YSN
+Samjiyon	YJS	Samjiyon	YJS
+Sandspit	YZP	Sandspit	YZP
+Sanikiluaq	YSK	Sanikiluaq	YSK
+Sarnia	YZR	Chris Hadfield	YZR
+Saskatoon	YXE	J.G. Diefenbaker Intl	YXE
+Saturna Island	YAJ	Lyall Harbour SPB	YAJ
+Sault Ste Marie	YAM	Sault Ste Marie	YAM
+Schefferville	YKL	Schefferville	YKL
+Sechelt	YHS	Sechelt	YHS
+Sept-Iles	YZV	Sept-Iles	YZV
+Sherbrooke	YSC	Sherbrooke	YSC
+Sioux Lookout	YXL	Sioux Lookout	YXL
+Slave Lake	YZH	Slave Lake	YZH
+Smithers	YYD	Smithers	YYD
+Smiths Falls	YSH	Montague	YSH
+Snap Lake	YNX	Snap Lake	YNX
+Squamish	YSE	Squamish	YSE
+St Anthony	YAY	St Anthony	YAY
+St Catharines	YCM	Niagara District	YCM
+St John's	YYT	International	YYT
+St Leonard	YSL	St Leonard	YSL
+St Lewis (Fox Harbour)	YFX	St Lewis (Fox Harbour)	YFX
+St Theresa Point	YST	St Theresa Point	YST
+St Thomas	YQS	Municipal	YQS
+St-Augustin/Pakuashipi	YIF	St-Augustin/Pakuashipi	YIF
+Stephenville	YJT	International	YJT
+St-Jean	YJN	St-Jean	YJN
+Stony Rapids	YSF	Stony Rapids	YSF
+Stuart Island	YRR	Big Bay SPB	YIG
+Stuart Island	YRR	Airstrip	YRR
+Sudbury	YSB	Sudbury	YSB
+Suffield	YSD	CFB Heliport	YSD
+Sullivan Bay	YTG	SPB	YTG
+Summerside	YSU	Summerside	YSU
+Swift Current	YYN	Swift Current	YYN
+Sydney	YQY	J.A. Douglas McCurdy	YQY
+Taloyoak	YYH	Taloyoak	YYH
+Tasiujaq	YTQ	Tasiujaq	YTQ
+Tasu	YTU	SPB	YTU
+Telegraph Creek	YTX	Telegraph Creek	YTX
+Terrace	YXT	Northwest Regional	YXT
+Teslin	YZW	Teslin	YZW
+The Pas	YQD	Airport	YQD
+Thetis Island	YBQ	Telegraph Harbour SPB	YBQ
+Thicket Portage	YTD	Thicket Portage	YTD
+Thompson	YTH	Thompson	YTH
+Thunder Bay	YQT	International	YQT
+Timmins	YTS	Victor M. Power	YTS
+Tisdale	YTT	Tisdale	YTT
+Tofino	YAZ	Metropolitan Area	YAZ
+Tofino	YAZ	Long Beach	YAZ
+Tofino	YAZ	Harbour SPB	YTP
+Toronto	YTO	John C. Munro Hamilton	YHM
+Toronto	YTO	Region of Waterloo Int	YKF
+Toronto	YTO	Buttonville Municipal	YKZ
+Toronto	YTO	Metropolitan Area	YTO
+Toronto	YTO	Billy Bishop City A/P	YTZ
+Toronto	YTO	Lester B. Pearson Intl	YYZ
+Trail	YZZ	Trail	YZZ
+Trashigang	YON	Yonphula	YON
+Trenton	YTR	Trenton	YTR
+Trois-Rivieres	YRQ	Trois-Rivieres	YRQ
+Tuktoyaktuk	YUB	James Gruben	YUB
+Ulukhaktok	YHI	Ulukhaktok	YHI
+Umiujaq	YUD	Umiujaq	YUD
+Uranium City	YBE	Uranium City	YBE
+Val d'Or	YVO	Val d'Or	YVO
+Vancouver	YVR	Harbour SPB	CXH
+Vancouver	YVR	Boundary Bay	YDT
+Vancouver	YVR	Metropolitan Area	YVR
+Vancouver	YVR	International	YVR
+Vermilion	YVG	Vermilion	YVG
+Vernon	YVE	Regional	YVE
+Victoria	YYJ	Inner Harbour SPB	YWH
+Victoria	YYJ	Metropolitan Area	YYJ
+Victoria	YYJ	International	YYJ
+Wabush	YWK	Wabush	YWK
+Waskaganish	YKQ	Waskaganish	YKQ
+Watson Lake	YQH	Watson Lake	YQH
+Wawa	YXZ	Wawa	YXZ
+Webequie	YWP	Webequie	YWP
+Wekweeti	YFJ	Wekweeti	YFJ
+Wemindji	YNC	Wemindji	YNC
+Whale Cove	YXN	Whale Cove	YXN
+Whati	YLE	Whati	YLE
+Whistler	YWS	Green Lake SPB	YWS
+White River	YWR	SPB	YWR
+Whitecourt	YZU	Whitecourt	YZU
+Whitehorse	YXY	Erik Nielsen Intl	YXY
+Wiarton	YVV	Wiarton	YVV
+Williams Harbour	YWM	Williams Harbour	YWM
+Williams Lake	YWL	Williams Lake	YWL
+Windsor	YQG	Airport	YQG
+Winnipeg	YWG	J.A. Richardson Intl	YWG
+Wrigley	YWY	Wrigley	YWY
+Yakima	YKM	Metropolitan Area	YKM
+Yakima	YKM	Air Terminal	YKM
+Yakutat	YAK	Yakutat	YAK
+Yakutsk	YKS	Yakutsk	YKS
+Yalgoo	YLG	Yalgoo	YLG
+Yanbu al Bahr	YNB	Yanbu al Bahr	YNB
+Yancheng	YNZ	Nanyang	YNZ
+Yandicoogina	YNN	Yandicoogina	YNN
+Yangambi	YAN	Yangambi	YAN
+Yangyang	YNY	International	YNY
+Yangzhou	YTY	Taizhou	YTY
+Yanji	YNJ	Chaoyangchuan	YNJ
+Yankisa	YEQ	Yankisa	YEQ
+Yankton	YKN	Chan Gurney Municipal	YKN
+Yantai	YNT	Penglai Intl	YNT
+Yaounde	YAO	Nsimalen Intl	NSI
+Yaounde	YAO	Metropolitan Area	YAO
+Yaounde	YAO	Yaounde-Ville Apt	YAO
+Yap	YAP	International	YAP
+Yarmouth	YQI	Yarmouth	YQI
+Yasawa Island	YAS	Yasawa Island	YAS
+Yasouj	YES	Yasouj	YES
+Yecheon	YEC	Yecheon	YEC
+Yellowknife	YZF	Yellowknife	YZF
+Yeovilton	YEO	Royal Naval Air Stn	YEO
+Yeva	YVD	Yeva	YVD
+Yevlakh	YLV	Yevlakh	YLV
+Yibin	YBP	Caiba	YBP
+Yichang	YIH	Sanxia	YIH
+Yichun (Jiangxi)	YIC	Mingyueshan	YIC
+Yilan	YLN	Yilan	YLN
+Yingkou	YKH	Airport	YKH
+Yining	YIN	Yining	YIN
+Yiwu	YIW	Yiwu	YIW
+Ylivieska	YLI	Ylivieska	YLI
+Yola	YOL	Yola	YOL
+Yonago	YGJ	Miho	YGJ
+Yorkton	YQV	Municipal	YQV
+Yotvata	YOT	Yotvata	YOT
+Youngstown/Warren	YNG	Regional	YNG
+Yuanmou	YUA	Yuanmou	YUA
+Yuendumu	YUE	Yuendumu	YUE
+Yuma	YUM	Laguna AAF	LGF
+Yuma	YUM	Metropolitan Area	YUM
+Yuma	YUM	International	YUM
+Yuncheng	YCU	Guangong	YCU
+Yurimaguas	YMS	M.Benzaquen Rengifo	YMS
+Yushu	YUS	Batang	YUS
+Zhangye	YZY	Ganzhou	YZY
+
+Displaying 471 result(s)

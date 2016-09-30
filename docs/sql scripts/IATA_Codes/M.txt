@@ -1,0 +1,710 @@
+Search results for "M"
+CITY NAME	3-LETTER CITY CODE	AIRPORT NAME	3-LETTER AIRPORT CODE
+Amasya	MZH	Merzifon	MZH
+Anchorage	ANC	Merrill Field	MRI
+Athens	MMI	McMinn County	MMI
+Baltimore	BWI	Martin State	MTN
+Bandar Mahshahr	MRX	Mahshahr	MRX
+Barre/Montpelier	MPV	Edward F. Knapp State	MPV
+Basel/Mulhouse	EAP	EuroAirport French FR	MLH
+Burlington/Mt Vernon	MVW	Skagit Regional	MVW
+Carbondale/Murphysboro	MDH	Southern Illinois	MDH
+Castro	WCA	Mocopulli	MHC
+Caticlan	MPH	Godofredo P. Ramos	MPH
+Chennai	MAA	International	MAA
+Chicago	CHI	Midway International	MDW
+Ciudad Mante	MMC	Ciudad Mante	MMC
+Columbia	CAE	McEntire JNGB	MMT
+Columbia/Mt Pleasant	MRC	Maury County	MRC
+Cut Nyak Dien	MEQ	Nagan Raya	MEQ
+Dayton	DAY	Wright Brothers	MGY
+Duesseldorf	DUS	Moenchengladbach	MGL
+Durham	MME	Tees Valley	MME
+Fairbanks	FAI	Metro Field	MTX
+Fort Indiantown Gap	MUI	Muir AAF	MUI
+Franceville	MVB	Mvengue	MVB
+Harrisburg	HAR	International	MDT
+Hoolehua	MKK	Molokai	MKK
+Jackson	MJQ	Municipal	MJQ
+Jackson	MKL	McKellar-Sipes Rgnl	MKL
+Kamuela	MUE	Waimea-Kohala	MUE
+Kansas City	MKC	New Century Aircenter	JCI
+Kansas City	MKC	International	MCI
+Kansas City	MKC	Metropolitan Area	MKC
+Kansas City	MKC	C.B. Wheeler Downtown	MKC
+Kansas City	MKC	Johnson Co Executive	OJC
+Katima Mulilo	MPA	Mpacha	MPA
+Kayenta	MVM	Kayenta	MVM
+Khonu	MQJ	Moma	MQJ
+Laurinburg/Maxton	MXE	Laurinburg/Maxton	MXE
+Maan	MPQ	Maan	MPQ
+Maasai Mara	MRE	Mara Serena	MRE
+Maastricht	MST	Maastricht/Aachen	MST
+Mabua	MPU	Mabua	MPU
+Macae	MEA	Benedito Lacerda	MEA
+Macapa	MCP	Alberto Alcolumbre Int	MCP
+Macara	MRR	J.M. Velasco Ibarra	MRR
+Macau	MFM	International	MFM
+MacDonald Downs	MNW	MacDonald Downs	MNW
+Maceio	MCZ	Zumbi dos Palmares Int	MCZ
+Macenta	MCA	Macenta	MCA
+Machala	MCH	General Manuel Serrano	MCH
+Mackay	MKY	Mackay	MKY
+Mackinac Island	MCD	Mackinac Island	MCD
+Macksville	MVH	Macksville	MVH
+Macomb	MQB	Municipal	MQB
+Macon	MCN	Downtown Apt	MAC
+Macon	MCN	Metropolitan Area	MCN
+Macon	MCN	Middle Georgia Rgnl	MCN
+Madang	MAG	Madang	MAG
+Madera	MAE	Municipal	MAE
+Madinah	MED	Mohammad Bin Abdulaziz	MED
+Madison	MDN	Municipal	MDN
+Madison	MSN	Dane County Regional	MSN
+Madras	MDJ	Municipal	MDJ
+Madrid	MAD	Metropolitan Area	MAD
+Madrid	MAD	Adolfo Suarez-Barajas	MAD
+Madrid	MAD	Torrejon	TOJ
+Mae Sot	MAQ	Mae Sot	MAQ
+Maewo Island	MWF	Naone	MWF
+Mafeteng	MFC	Mafeteng	MFC
+Mafia Island	MFA	Mafia Island	MFA
+Magangue	MGN	Baracoa	MGN
+Maganja da Costa	MJS	Maganja da Costa	MJS
+Magaruque Island	MFW	Magaruque Island	MFW
+Magdalena	MGD	Magdalena	MGD
+Magnitogorsk	MQF	Magnitogorsk	MQF
+Magong	MZG	Magong	MZG
+Magway	MWQ	Magway	MWQ
+Mahajanga	MJN	Philibert Tsiranana	MJN
+Mahdia	MHA	Mahdia	MHA
+Mahenye	MJW	Mahenye	MJW
+Maiana	MNK	Maiana	MNK
+Maicao	MCJ	Jorge Isaacs	MCJ
+Maiduguri	MIU	International	MIU
+Maimanah	MMZ	Maimanah	MMZ
+Mainoru	MIZ	Mainoru	MIZ
+Maintirano	MXT	Maintirano	MXT
+Maio Island	MMO	Maio Island	MMO
+Maitland	MTL	Maitland	MTL
+Majkin	MJE	Majkin	MJE
+Majuro	MAJ	Amata Kabua Intl	MAJ
+Makemo	MKP	Makemo	MKP
+Makhachkala	MCX	Uytash	MCX
+Makin	MTK	Makin	MTK
+Makini	MPG	Makini	MPG
+Makokou	MKU	Makokou	MKU
+Makoua	MKJ	Makoua	MKJ
+Makurdi	MDI	Makurdi	MDI
+Mal Island	MMV	Mal Island	MMV
+Malabang	MLP	Malabang	MLP
+Malacca	MKZ	Malacca	MKZ
+Malad City	MLD	Malad City	MLD
+Malakal	MAK	Malakal	MAK
+Malalaua	MLQ	Malalaua	MLQ
+Malam	MQO	Malam	MQO
+Malang	MLG	Abdul Rachman Saleh	MLG
+Malanje	MEG	Malanje	MEG
+Malatya	MLX	Erhac	MLX
+Malden	MAW	Regional	MAW
+Male	MLE	Ibrahim Nasir Intl	MLE
+Malekolon	MKN	Malekolon	MKN
+Maliana	MPT	Maliana	MPT
+Malindi	MYD	Malindi	MYD
+Malmo	MMA	Metropolitan Area	MMA
+Malmo	MMA	Airport	MMX
+Maloelap Atoll	MAV	Taroa Island	MAV
+Malta	MLA	Luqa International	MLA
+Malta	MLK	Malta	MLK
+Mamai	MAP	Mamai	MAP
+Mamburao	MBO	Mamburao	MBO
+Mamfe	MMF	Mamfe	MMF
+Mamitupo	MPI	Mamitupo	MPI
+Mammoth Lakes	MMH	Mammoth Yosemite	MMH
+Mamuju	MJU	Tampa Padang	MJU
+Man	MJC	Man	MJC
+Mana Island	MNF	Mana Island	MNF
+Manado	MDC	Sam Ratulangi	MDC
+Managua	MGA	Augusto C. Sandino	MGA
+Mananjary	MNJ	Mananjary	MNJ
+Manari	MRM	Manari	MRM
+Manassas	MNZ	Regional	MNZ
+Manatee	MZE	Manatee	MZE
+Manaung	MGU	Manaung	MGU
+Manaus	MAO	Eduardo Gomes Intl	MAO
+Manaus	MAO	Ponta Pelada AB	PLL
+Manchester	MAN	Airport	MAN
+Manchester	MHT	Manchester-Boston Rgnl	MHT
+Mandalay	MDL	International	MDL
+Mandalay	MDL	Chan Mya Thazi	VBC
+Mandalgovi	MXW	Mandalgovi	MXW
+Mandora Station	MQA	Mandora Station	MQA
+Manega	MGO	Manega	MGO
+Manetai	MVI	Manetai	MVI
+Manga	MGP	Manga	MGP
+Mangaia Island	MGS	Auau	MGS
+Mangochi	MAI	Mangochi	MAI
+Mangole	MAL	Falabisahaya	MAL
+Mangrove Cay	MAY	Clarence A. Bain	MAY
+Manguna	MFO	Manguna	MFO
+Manhattan	MHK	Regional	MHK
+Manicore	MNX	Manicore	MNX
+Manihiki Atoll	MHX	Manihiki Atoll	MHX
+Manila	MNL	Metropolitan Area	MNL
+Manila	MNL	Ninoy Aquino Intl	MNL
+Manila	MNL	Danilo Atienza AB	SGL
+Manila	MXA	Municipal	MXA
+Maningrida	MNG	Maningrida	MNG
+Manistee	MBL	Manistee Co. Blacker	MBL
+Manitowoc	MTW	Manitowoc County	MTW
+Manizales	MZL	La Nubia	MZL
+Manja	MJA	Manja	MJA
+Manjimup	MJP	Manjimup	MJP
+Mankato	MKT	Regional	MKT
+Manley Hot Springs	MLY	Manley Hot Springs	MLY
+Manners Creek Station	MFP	Manners Creek Station	MFP
+Mannheim	MHG	City Airport	MHG
+Manokwari	MKW	Rendani	MKW
+Manono	MNO	Manono	MNO
+Mansa	MNS	Mansa	MNS
+Mansfield	MFD	Lahm Regional	MFD
+Manston	MSE	Kent International	MSE
+Manta	MEC	Eloy Alfaro Intl	MEC
+Manteo	MEO	Dare County Regional	MEO
+Manus Island	MAS	Momote	MAS
+Manzanillo	MZO	Sierra Maestra	MZO
+Manzini	MTS	Matsapha International	MTS
+Manzini	MTS	King Mswati III Intl	SHO
+Maota	MXS	Maota	MXS
+Mapoda	MPF	Mapoda	MPF
+Maputo	MPM	International	MPM
+Maquinchao	MQD	Maquinchao	MQD
+Mar del Plata	MDQ	Astor Piazzola	MDQ
+Maraba	MAB	Joao Correa da Rocha	MAB
+Maracaibo	MAR	La Chinita Intl	MAR
+Maracay	MYC	Mariscal Sucre	MYC
+Maradi	MFQ	Maradi	MFQ
+Marakei	MZK	Marakei	MZK
+Maramuni	MWI	Maramuni	MWI
+Marana	MZJ	Pinal Airpark	MZJ
+Marathon	MTH	The Florida Keys	MTH
+Marawaka	MWG	Marawaka	MWG
+Marble Bar	MBB	Marble Bar	MBB
+Marble Canyon	MYH	Marble Canyon	MYH
+Marcala	MRJ	Marcala	MRJ
+Marco Island	MRK	Marco Island	MRK
+Mardin	MQM	Mardin	MQM
+Mare	MEE	La Roche	MEE
+Mareeba	MRG	Mareeba	MRG
+Marfa	MRF	Municipal	MRF
+Margaret River	MQZ	Margaret River	MQZ
+Margaret River Station	MGV	Margaret River Station	MGV
+Margarima	MGG	Margarima	MGG
+Margate	MGH	Margate	MGH
+Marianske Lazne	MKA	Marianske Lazne	MKA
+Marib	MYN	Marib	MYN
+Maribo	MRW	Lolland Falster	MRW
+Maribor	MBX	Edvard Rusjan	MBX
+Mariehamn	MHQ	Mariehamn	MHQ
+Marietta	MGE	Dobbins ARB	MGE
+Marilia	MII	Frank M. Milenkowichi	MII
+Marinduque Island	MRQ	Marinduque Island	MRQ
+Maringa	MGF	Silvio Name Jr.	MGF
+Marion	MNN	Municipal	MNN
+Marion	MWA	Williamson County Rgnl	MWA
+Marion	MZZ	Municipal	MZZ
+Marion Downs	MXD	Marion Downs	MXD
+Maripasoula	MPY	Maripasoula	MPY
+Mariquita	MQU	Jose Celestino Mutis	MQU
+Mariupol	MPW	International	MPW
+Marks	MMS	Selfs	MMS
+Marla	MRP	Marla	MRP
+Marlborough	MXG	Marlborough	MXG
+Maron Island	MNP	Maron Island	MNP
+Maroua	MVR	Salak	MVR
+Marqua	MQE	Marqua	MQE
+Marquette	MQT	Sawyer International	MQT
+Marseille	MRS	Provence	MRS
+Marsh Harbour	MHH	Marsh Harbour	MHH
+Marshall	MHL	Memorial Municipal	MHL
+Marshall	MLL	Don Hunter Sr.	MLL
+Marshall	MML	SW Minnesota Rgnl	MML
+Marshalltown	MIW	Municipal	MIW
+Marshfield	MFI	Municipal	MFI
+Martha's Vineyard	MVY	Martha's Vineyard	MVY
+Martinsburg	MRB	Eastern W.V. Regional	MRB
+Marudi	MUR	Marudi	MUR
+Mary	MYP	Mary	MYP
+Maryborough	MBH	Maryborough	MBH
+Marysville	MYV	Beale AFB	BAB
+Marysville	MYV	Metropolitan Area	MYV
+Marysville	MYV	Yuba County	MYV
+Masa	MBV	Masa	MBV
+Masada	MTZ	Bar Yehuda	MTZ
+Masalembo	MSI	Masalembo	MSI
+Masamba	MXB	Andi Jemma	MXB
+Masbate	MBT	Moises R. Espinosa	MBT
+Mascara	MUW	Ghriss	MUW
+Maseru	MSU	Moshoeshoe I Intl	MSU
+Mashhad	MHD	Shahid Hashemi Nejad	MHD
+Masi-Manimba	MSM	Masi-Manimba	MSM
+Masirah	MSH	Air Base	MSH
+Mason City	MCW	Municipal	MCW
+Massawa	MSW	International	MSW
+Massena	MSS	International	MSS
+Masterton	MRO	Masterton	MRO
+Masvingo	MVZ	Masvingo	MVZ
+Matadi	MAT	Tshimpi	MAT
+Matagorda Island	MGI	National Wildlife Ref.	MGI
+Mataiva	MVT	Mataiva	MVT
+Matak	MWK	Tarempa	MWK
+Matam	MAX	Ouro Sogui	MAX
+Matamata	MTA	Matamata	MTA
+Matamoros	MAM	Servando Canales Intl	MAM
+Mati	MXI	Imelda R. Marcos	MXI
+Mato Grosso	MTG	Mato Grosso	MTG
+Matsaile	MSG	Matsaile	MSG
+Matsu (Beigan)	MFK	Matsu (Beigan)	MFK
+Matsumoto	MMJ	Matsumoto	MMJ
+Matsuyama	MYJ	Matsuyama	MYJ
+Matthews Ridge	MWJ	Matthews Ridge	MWJ
+Mattoon/Charleston	MTO	Coles County Memorial	MTO
+Matupa	MBK	Orlando Villas-Boas	MBK
+Maturin	MUN	Jose T. Monagas Intl	MUN
+Maues	MBZ	Maues	MBZ
+Mauke Island	MUK	Mauke Island	MUK
+Maumere	MOF	Fransiskus X. Seda	MOF
+Maun	MUB	Maun	MUB
+Maupiti	MAU	Maupiti	MAU
+Mauritius	MRU	Sir S. Ramgoolam Intl	MRU
+Mawlamyine	MNU	Mawlamyine	MNU
+May Creek	MYK	May Creek	MYK
+May River	MRH	May River	MRH
+Mayaguana	MYG	Mayaguana	MYG
+Mayaguez	MAZ	Eugenio M. de Hostos	MAZ
+Mayfa'ah	MFY	Mayfa'ah	MFY
+Mayumba	MYB	Mayumba	MYB
+Mazamari	MZA	Manuel Prado	MZA
+Mazar-e Sharif	MZR	Mazar-e Sharif	MZR
+Mazatlan	MZT	Rafael Buelna Intl	MZT
+Mbala	MMQ	Mbala	MMQ
+Mbambanakira	MBU	Mbambanakira	MBU
+Mbandaka	MDK	Mbandaka	MDK
+Mbarara	MBQ	Mbarara	MBQ
+Mbeya	MBI	Mbeya	MBI
+Mbigou	MBC	Mbigou	MBC
+Mbout	MBR	Mbout	MBR
+Mbuji-Mayi	MJM	Mbuji-Mayi	MJM
+McAlester	MLC	Regional	MLC
+McAllen/Mission	MFE	Miller International	MFE
+Mcarthur River Mine	MCV	Mcarthur River Mine	MCV
+McCall	MYL	Municipal	MYL
+McCarthy	MXY	McCarthy	MXY
+McComb	MCB	Pike County	MCB
+McCook	MCK	Ben Nelson Regional	MCK
+McGrath	MCG	McGrath	MCG
+McKinley	MCL	National Park	MCL
+McPherson	MPR	McPherson	MPR
+McRae	MQW	Telfair-Wheeler	MQW
+Meadville	MEJ	Port Meadville	MEJ
+Mecheria	MZW	Mecheria	MZW
+Medan	MES	Kuala Namu	KNO
+Medan	MES	Polonia	MES
+Medellin	MDE	Enrique Olaya Herrera	EOH
+Medellin	MDE	Metropolitan Area	MDE
+Medellin	MDE	Jose Maria Cordova Int	MDE
+Medford	MDF	Taylor County	MDF
+Medford	MFR	Rogue Valley Intl	MFR
+Medina	MND	Medina	MND
+Medouneu	MDV	Medouneu	MDV
+Meekatharra	MKR	Meekatharra	MKR
+Megeve	MVV	Megeve	MVV
+Meghauli	MEY	Meghauli	MEY
+Mehamn	MEH	Mehamn	MEH
+Meixian	MXZ	Meixian	MXZ
+Mejit Island	MJB	Mejit Island	MJB
+Mekambo	MKB	Mekambo	MKB
+Mekane Selam	MKS	Mekane Selam	MKS
+Mekele	MQX	Alula Aba Nega	MQX
+Meknes	MEK	Royal AFB	MEK
+Mekoryuk	MYU	Mekoryuk	MYU
+Melangguane	MNA	Melangguane	MNA
+Melbourne	MEL	Avalon	AVV
+Melbourne	MEL	Moorabbin	MBW
+Melbourne	MEL	Essendon	MEB
+Melbourne	MEL	Metropolitan Area	MEL
+Melbourne	MEL	Melbourne Airport	MEL
+Melbourne	MLB	International	MLB
+Melfa	MFV	Accomack County	MFV
+Melfi	MEF	Melfi	MEF
+Melilla	MLN	Melilla	MLN
+Melinda	MDB	Melinda	MDB
+Melo	MLZ	Cerro Largo	MLZ
+Memanbetsu	MMB	Memanbetsu	MMB
+Memphis	MEM	International	MEM
+Mena	MZX	Mena	MZX
+Mende	MEN	Brenoux	MEN
+Mendez	MZD	Eloy Alfaro Intl	MZD
+Mendi	MDU	Mendi	MDU
+Mendoza	MDZ	El Plumerillo	MDZ
+Menominee	MNM	Menominee-Marinette	MNM
+Menorca	MAH	Menorca	MAH
+Menyamya	MYX	Menyamya	MYX
+Merauke	MKQ	Mopah	MKQ
+Merced	MCE	Metropolitan Area	MCE
+Merced	MCE	Regional	MCE
+Merced	MCE	Castle	MER
+Mercedes	MDX	Mercedes	MDX
+Meribel	MFX	Meribel	MFX
+Merida	MID	M. Crescencio Rejon	MID
+Merida	MRD	Alberto Carnevalli	MRD
+Meridian	MEI	Regional (Key Field)	MEI
+Merimbula	MIM	Merimbula	MIM
+Merluna	MLV	Merluna	MLV
+Merowe	MWE	Merowe	MWE
+Mersa Matruh	MUH	Mersa Matruh	MUH
+Mersing	MEP	Mersing	MEP
+Meselia	MFZ	Meselia	MFZ
+Mesquite	MFH	Mesquite	MFH
+Messina	MEZ	Messina	MEZ
+Metlakatla	MTM	Sea Plane Base	MTM
+Metz/Nancy	ETZ	Metz-Frescaty	MZM
+Mevang	MVG	Mevang	MVG
+Mexicali	MXL	R.Sanchez Taboada Int	MXL
+Mexico City	MEX	Atizapan-Jimenez Cantu	AZP
+Mexico City	MEX	Metropolitan Area	MEX
+Mexico City	MEX	Benito Juarez Intl	MEX
+Mexico City	MEX	Santa Lucia AFB	NLU
+Mexico City	MEX	Toluca-A.Lopez Mateos	TLC
+Mfuwe	MFU	Mfuwe	MFU
+Miami	MIA	Metropolitan Area	MIA
+Miami	MIA	International	MIA
+Miami	MIA	Sea Plane Base	MPB
+Miami	MIA	Opa-locka Executive	OPF
+Miami	MIA	Miami Executive	TMB
+Miami	MIA	Dade-Collier T&T Apt	TNT
+Miami	MIO	Municipal	MIO
+Mianwali	MWD	Mianwali	MWD
+Mianyang	MIG	Nanjiao	MIG
+Michigan City	MGC	Municipal	MGC
+Middle Caicos	MDS	Middle Caicos	MDS
+Middlemount	MMM	Middlemount	MMM
+Middleton Island	MDO	Middleton Island	MDO
+Middletown	MWO	Regional (Hook Field)	MWO
+Midgard	MQG	Midgard	MQG
+Midland	MAF	Metropolitan Area	MAF
+Midland	MAF	International	MAF
+Midland	MAF	Airpark	MDD
+Mikkeli	MIK	Mikkeli	MIK
+Milan	MIL	Bergamo/Orio al Serio	BGY
+Milan	MIL	Linate	LIN
+Milan	MIL	Metropolitan Area	MIL
+Milan	MIL	Malpensa	MXP
+Milan	MIL	Parma	PMF
+Mildenhall	MHZ	RAF Station	MHZ
+Mildura	MQL	Mildura	MQL
+Miles City	MLS	Frank Wiley Field	MLS
+Milford	MLF	Municipal	MLF
+Milford Sound	MFN	Milford Sound	MFN
+Mili Island	MIJ	Mili Island	MIJ
+Milingimbi Island	MGT	Milingimbi Island	MGT
+Milledgeville	MLJ	Baldwin County	MLJ
+Millicent	MLR	Millicent	MLR
+Millinocket	MLT	Municipal	MLT
+Millville	MIV	Municipal	MIV
+Milos	MLO	Milos	MLO
+Milwaukee	MKE	Metropolitan Area	MKE
+Milwaukee	MKE	General Mitchell Intl	MKE
+Milwaukee	MKE	Lawrence J Timmerman	MWC
+Minacu	MQH	Minacu	MQH
+Minamidaito	MMD	Minamidaito	MMD
+Minamitorishima	MUS	Minamitorishima	MUS
+Minatitlan	MTT	Coatzacoalcos	MTT
+Minden	MEV	Minden-Tahoe	MEV
+Mindik	MXK	Mindik	MXK
+Mindiptana	MDP	Mindiptana	MDP
+Mineral Wells	MWL	Mineral Wells	MWL
+Mineralnye Vody	MRV	Mineralnye Vody	MRV
+Miners Lake	MRL	Miners Lake	MRL
+Minj	MZN	Minj	MZN
+Minna	MXJ	Minna	MXJ
+Minneapolis/St Paul	MSP	Flying Cloud	FCM
+Minneapolis/St Paul	MSP	Crystal	MIC
+Minneapolis/St Paul	MSP	Metropolitan Area	MSP
+Minneapolis/St Paul	MSP	International	MSP
+Minneapolis/St Paul	MSP	St Paul Downtown Apt	STP
+Minnipa	MIN	Minnipa	MIN
+Minot	MOT	AFB	MIB
+Minot	MOT	Metropolitan Area	MOT
+Minot	MOT	International	MOT
+Minsk	MSQ	Minsk -1	MHP
+Minsk	MSQ	Metropolitan Area	MSQ
+Minsk	MSQ	International	MSQ
+Minto	MNT	Al Wright	MNT
+Minvoul	MVX	Minvoul	MVX
+Miquelon	MQC	Miquelon	MQC
+Miraflores	MFS	Miraflores	MFS
+Miramar	MJR	Miramar	MJR
+Miranda Downs	MWY	Miranda Downs	MWY
+Miri	MYY	Miri	MYY
+Miriti Parana	MIX	Miriti Parana	MIX
+Mirny	MJZ	Mirny	MJZ
+Mirpur Khas	MPD	Sinhri	MPD
+Misawa	MSJ	Misawa	MSJ
+Misima Island	MIS	Misima Island	MIS
+Miskolc	MCQ	Miskolc	MCQ
+Missoula	MSO	International	MSO
+Misurata	MRA	Misurata	MRA
+Mitchell	MHE	Municipal	MHE
+Mitchell	MTQ	Mitchell	MTQ
+Mitchell Plateau	MIH	Mitchell Plateau	MIH
+Mitiaro Island	MOI	Nukuroa	MOI
+Mittiebah	MIY	Mittiebah	MIY
+Mitu	MVP	Fabio A. Leon Bentley	MVP
+Mitzic	MZC	Mitzic	MZC
+Mitzpe Ramon	MIP	Mitzpe Ramon	MIP
+Miyakejima	MYE	Miyakejima	MYE
+Miyako	MMY	Miyako	MMY
+Miyanmin	MPX	Miyanmin	MPX
+Mizan Teferi	MTF	Mizan Teferi	MTF
+Mkambati	MBM	Mkambati	MBM
+Mkuze	MZQ	Mkuze	MZQ
+Mmabatho/Mafikeng	MBD	Mmabatho Intl	MBD
+Mo i Rana	MQN	Rossvoll	MQN
+Moa	MOA	Orestes Acosta	MOA
+Moabi	MGX	Moabi	MGX
+Moala Island	MFJ	Moala Island	MFJ
+Moanda	MFF	Moanda	MFF
+Moberly	MBY	Omar N. Bradley	MBY
+Mobile	MOB	Downtown Arpt	BFM
+Mobile	MOB	Metropolitan Area	MOB
+Mobile	MOB	Regional	MOB
+Mobridge	MBG	Municipal	MBG
+Mocimboa da Praia	MZB	Mocimboa da Praia	MZB
+Modesto	MOD	City-County	MOD
+Moengo	MOJ	Moengo	MOJ
+Moenjodaro	MJD	Moenjodaro	MJD
+Mogadishu	MGQ	Aden Adde Intl	MGQ
+Mogilev	MVQ	Mogilev	MVQ
+Mojave	MHV	Mojave	MHV
+Mokhotlong	MKH	Mokhotlong	MKH
+Moki	MJJ	Moki	MJJ
+Molde	MOL	Aro	MOL
+Moline	MLI	Quad City Intl	MLI
+Moma	MMW	Moma	MMW
+Mombasa	MBA	Moi International	MBA
+Momeik	MOE	Momeik	MOE
+Mompos	MMP	San Bernardo	MMP
+Monahans	MIF	Roy Hurd Memorial	MIF
+Monastir	MIR	Habib Bourguiba Intl	MIR
+Monbetsu	MBE	Monbetsu	MBE
+Mondulkiri	MWV	Mondulkiri	MWV
+Monfort	MFB	Monfort	MFB
+Mong Hsat	MOG	Mong Hsat	MOG
+Mong Ton	MGK	Mong Ton	MGK
+Mongo	MVO	Mongo	MVO
+Mongu	MNR	Mongu	MNR
+Monkey Bay	MYZ	Monkey Bay	MYZ
+Monkey Mia	MJK	Shark Bay	MJK
+Monkey Mountain	MYM	Monkey Mountain	MYM
+Mono Island	MNY	Mono Island	MNY
+Monroe	MLU	Regional	MLU
+Monroeville	MVC	Monroe County	MVC
+Monrovia	MLW	Metropolitan Area	MLW
+Monrovia	MLW	Spriggs Payne	MLW
+Monrovia	MLW	Roberts Intl	ROB
+Montauk	MTP	Montauk	MTP
+Monte Alegre	MTE	Monte Alegre	MTE
+Monte Caseros	MCS	Monte Caseros	MCS
+Monte Dourado	MEU	Serra do Areao	MEU
+Monteagudo	MHW	Monteagudo	MHW
+Montego Bay	MBJ	Sangster Intl	MBJ
+Montelibano	MTB	Montelibano	MTB
+Montepuez	MTU	Montepuez	MTU
+Monterey/Carmel	MRY	Metropolitan Area	MRY
+Monterey/Carmel	MRY	Monterey Regional	MRY
+Monterey/Carmel	MRY	Marina Municipal	OAR
+Monteria	MTR	Los Garzones	MTR
+Monterrey	MOY	Monterrey	MOY
+Monterrey	MTY	Metropolitan Area	MTY
+Monterrey	MTY	Mariano Escobedo Intl	MTY
+Monterrey	MTY	Del Norte Intl	NTR
+Montes Claros	MOC	Mario Ribeiro	MOC
+Montevideo	MVD	Carrasco	MVD
+Montevideo	MVE	Chippewa County	MVE
+Montgomery	MGJ	Orange County	MGJ
+Montgomery	MGM	Metropolitan Area	MGM
+Montgomery	MGM	Regional-Dannelly Fld	MGM
+Montgomery	MGM	Maxwell AFB	MXF
+Monticello	MSV	Sullivan County Intl	MSV
+Monticello	MXC	Monticello	MXC
+Monticello	MXO	Regional	MXO
+Montlucon	MCU	Gueret	MCU
+Monto	MNQ	Monto	MNQ
+Montpelier	MPV	Edward F. Knapp State	MPV
+Montpellier	MPL	Mediterranee	MPL
+Montrose	MTJ	Regional	MTJ
+Montserrat	MNI	John A. Osborne	MNI
+Moolawatana	MWT	Moolawatana	MWT
+Moomba	MOO	Moomba	MOO
+Moorea	MOZ	Temae	MOZ
+Mopti	MZI	Ambodedjo	MZI
+Mora	MXX	Siljan	MXX
+Moranbah	MOV	Moranbah	MOV
+Morawa	MWB	Morawa	MWB
+Moree	MRZ	Moree	MRZ
+Morehead	MHY	Morehead	MHY
+Morelia	MLM	F.J. Mujica Intl	MLM
+Moreton	MET	Moreton	MET
+Morganton	MRN	Foothills Regional	MRN
+Morgantown	MGW	Municipal	MGW
+Morichal	MHF	Morichal	MHF
+Morlaix	MXN	Ploujean	MXN
+Moro	MXH	Moro	MXH
+Moroak	MRT	Moroak	MRT
+Morombe	MXM	Morombe	MXM
+Moron	MXV	Moron	MXV
+Morondava	MOQ	Morondava	MOQ
+Morrilton	MPJ	Petit Jean Park	MPJ
+Morris	MOX	Municipal	MOX
+Morristown	MMU	Municipal	MMU
+Morristown	MOR	Moore-Murrell	MOR
+Morrisville/Stowe	MVL	State	MVL
+Moruya	MYA	Moruya	MYA
+Moscow	MOW	Domodedovo	DME
+Moscow	MOW	Metropolitan Area	MOW
+Moscow	MOW	Sheremetyevo	SVO
+Moscow	MOW	Vnukovo	VKO
+Moses Lake	MWH	Grant County Intl	MWH
+Moses Point	MOS	Moses Point	MOS
+Mosjoen	MJF	Kjaerstad	MJF
+Mosquera	MQR	Mosquera	MQR
+Mossel Bay	MZY	Mossel Bay	MZY
+Mossendjo	MSX	Mossendjo	MSX
+Mossoro	MVF	Dix-Sept Rosado	MVF
+Mostaganem	MQV	Mostaganem	MQV
+Mosteiros	MTI	Mosteiros	MTI
+Mota Lava Island	MTV	Mota Lava Island	MTV
+Motswari	MWR	Motswari	MWR
+Motueka	MZP	Motueka	MZP
+Moucha Island	MHI	Moucha Island	MHI
+Moudjeria	MOM	Letfotar	MOM
+Mouila	MJL	Mouila-Ville	MJL
+Moultrie	MGR	Metropolitan Area	MGR
+Moultrie	MGR	Municipal	MGR
+Moultrie	MGR	Spence	MUL
+Moundou	MQQ	Moundou	MQQ
+Mount Barnett	MBN	Mount Barnett	MBN
+Mount Buffalo	MBF	Porepunkah	MBF
+Mount Cavenagh	MKV	Mount Cavenagh	MKV
+Mount Clemens	MTC	Selfridge ANGB	MTC
+Mount Cook	MON	Glentanner	GTN
+Mount Cook	MON	Metropolitan Area	MON
+Mount Cook	MON	Mount Cook Airport	MON
+Mount Cook	MON	Pukaki (Twizel)	TWZ
+Mount Etjo	MJO	Mount Etjo	MJO
+Mount Gambier	MGB	Mount Gambier	MGB
+Mount Hotham	MHU	Mount Hotham	MHU
+Mount House	MHO	Mount House	MHO
+Mount Magnet	MMG	Mount Magnet	MMG
+Mount Pleasant	MOP	Municipal	MOP
+Mount Pleasant	MPN	RAF Station	MPN
+Mount Pleasant	MPS	Regional	MPS
+Mount Pleasant	MPZ	Municipal	MPZ
+Mount Pleasant	MSD	Mount Pleasant	MSD
+Mount Pocono	MPO	Pocono Mountains Muni	MPO
+Mount Sandford Station	MTD	Mount Sandford Station	MTD
+Mount Shasta	MHS	Dunsmuir Municipal	MHS
+Mount Swan	MSF	Mount Swan	MSF
+Mount Valley	MNV	Mount Valley	MNV
+Mount Vernon	MVN	Mount Vernon	MVN
+Mountain Home	MUO	AFB	MUO
+Mountain Village	MOU	Mountain Village	MOU
+Mouyondzi	MUY	Mouyondzi	MUY
+Moyobamba	MBP	Moyobamba	MBP
+Mtwara	MYW	Mtwara	MYW
+Muan	MWX	International	MWX
+Muanda	MNB	Muanda	MNB
+Muccan Station	MUQ	Muccan Station	MUQ
+Mucuri	MVS	Mucuri	MVS
+Mudanjiang	MDG	Hailang	MDG
+Mueda	MUD	Mueda	MUD
+Mui	MUJ	Mui	MUJ
+Mukah	MKM	Mukah	MKM
+Muko-Muko	MPC	Muko-Muko	MPC
+Mulatupo	MPP	Mulatupo	MPP
+Mulege	MUG	Mulege	MUG
+Mulga Park	MUP	Mulga Park	MUP
+Mulhouse/Basel	EAP	EuroAirport French FR	MLH
+Mulka	MVK	Mulka	MVK
+Mullen	MHN	Hooker County	MHN
+Mullewa	MXU	Mullewa	MXU
+Multan	MUX	International	MUX
+Mulu	MZV	Mulu	MZV
+Muncie	MIE	Delaware County Rgnl	MIE
+Munda	MUA	Munda	MUA
+Munduku	MDM	Munduku	MDM
+Mungeranie	MNE	Mungeranie	MNE
+Munich	MUC	Augsburg Airport	AGB
+Munich	MUC	Metropolitan Area	MUC
+Munich	MUC	International	MUC
+Murcia	MJV	San Javier	MJV
+Murmansk	MMK	Murmansk	MMK
+Murray Island	MYI	Murray Island	MYI
+Mus	MSR	Mus	MSR
+Musanaa	MNH	Musanaa	MNH
+Muscat	MCT	International	MCT
+Muscatine	MUT	Municipal	MUT
+Muscle Shoals/Florence	MSL	Northwest Alabama Rgnl	MSL
+Musgrave	MVU	Musgrave	MVU
+Muskegon	MKG	Muskegon County	MKG
+Muskogee	MKO	Davis Field	MKO
+Muskrat Dam	MSA	Muskrat Dam	MSA
+Musoma	MUZ	Musoma	MUZ
+Mussau Island	MWU	Mussau Island	MWU
+Mustique	MQS	Mustique	MQS
+Muting	MUF	Muting	MUF
+Muzaffarabad	MFG	Muzaffarabad	MFG
+Muzaffarpur	MZU	Muzaffarpur	MZU
+Mwadui	MWN	Mwadui	MWN
+Mwanza	MWZ	Mwanza	MWZ
+Mweka	MEW	Mweka	MEW
+Myeik	MGZ	Myeik	MGZ
+Myitkyina	MYT	Myitkyina	MYT
+Myrhorod	MXR	Myrhorod	MXR
+Myroodah Station	MYO	Myroodah Station	MYO
+Myrtle Beach	MYR	Grand Strand	CRE
+Myrtle Beach	MYR	Metropolitan Area	MYR
+Myrtle Beach	MYR	International	MYR
+Mysore	MYQ	Mandakalli	MYQ
+Mytilini	MJT	Odysseas Elytis	MJT
+Myvatn	MVA	Reykjahlid	MVA
+Mzamba	MZF	Wild Coast Sun	MZF
+Nacala	MNC	Nacala	MNC
+Namibe	MSZ	Yuri Gagarin	MSZ
+Nelspruit	NLP	Kruger Mpumalanga Intl	MQP
+New Orleans	MSY	Metropolitan Area	MSY
+New Orleans	MSY	Louis Armstrong Intl	MSY
+New Orleans	MSY	NAS JRB/A.Callender	NBG
+New Orleans	MSY	Lakefront	NEW
+Obo	MKI	Mboki	MKI
+Omaha	OMA	Millard	MIQ
+Orlando	ORL	International	MCO
+Phoenix	PHX	Falcon Field	MSC
+Sacramento	SAC	McClellan	MCC
+Sacramento	SAC	Mather	MHR
+Saginaw/Midland/Bay C.	MBS	MBS Intl	MBS
+San Diego	SAN	Montgomery Field	MYF
+San Matias	MQK	San Matias	MQK
+Sand Island	MDY	Henderson Field	MDY
+Shafter	MIT	Minter Field	MIT
+Smyrna	MQY	Smyrna	MQY
+Stow	MMN	Minute Man Airfield	MMN
+Sunshine Coast	MCY	Maroochydore	MCY
+Tampa	TPA	MacDill AFB	MCF
+Toms River	MJX	Ocean County	MJX
+Tripoli	TIP	Mitiga	MJI
+Wando Vale	MFL	Mount Full Stop	MFL
+Windom	MWM	Municipal	MWM
+
+Displaying 706 result(s)

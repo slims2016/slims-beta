@@ -1,0 +1,44 @@
+<div>
+  <div flex layout="row" layout-align="space-around start" layout-padding>
+  <md-whiteframe layout="column" class="md-whiteframe-z2 md-padding" layout-margin flex style="max-width:500px; min-width:240px">
+    <div class="formheader">
+      <md-icon class="material-icons">create_new_folder</md-icon>
+      <span>Create New Category</span>
+    </div>
+    <form id="newCategoryForm" name="newCategoryForm" layout-align="start center" layout="row">
+      <span flex="5" show-gt-xs></span>
+      <div layout="column" flex="85">
+        <md-input-container class="no-margin-bottom md-block">
+          <label>Category</label>
+          <input name="name" ng-model="category.name" required md-maxlength="50" auto-focus-on>
+          <div ng-messages="newCategoryForm.name.$error" ng-show="newCategoryForm.name.$dirty">
+            <div ng-message="required">This field is required!</div>
+            <div ng-message="md-maxlength">That's too long!</div>
+          </div>
+        </md-input-container>
+        <md-input-container class="md-block">
+          <label>Category Description</label>
+          <input name="remark" ng-model="category.remark" required md-maxlength="50">
+          <div ng-messages="newCategoryForm.remark.$error" ng-show="newCategoryForm.remark.$dirty">
+            <div ng-message="required">This field is required!</div>
+            <div ng-message="md-maxlength">That's too long!</div>
+            <div ng-message="minlength">That's too short!</div>
+          </div>
+        </md-input-container>
+        <div layout="row" layout-align="start center" layout-align-xs="end center">
+          <span flex show-gt-xs></span>
+          <md-button type="sumbit" ng-click="addCategory()" ng-class="{'md-raised md-primary md-hue-2':newCategoryForm.$valid}">
+            <md-icon class="material-icons">&#xe145;</md-icon>
+            <label>Create</label>
+          </md-button>
+          <md-button ng-click="clearCategory()" ng-class="{'md-primary md-hue-2':newCategoryForm.$dirty}">
+            <md-icon class="material-icons">&#xe14c;</md-icon>
+            <label>Cancel</label>
+          </md-button>
+        </div>
+      </div>
+      <span flex show-gt-xs></span>
+    </form>
+  </md-whiteframe>
+  </div>
+</div>

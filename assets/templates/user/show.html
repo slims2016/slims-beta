@@ -1,0 +1,208 @@
+<!-- user info page -->
+<div>
+  <!--
+  <div flex layout="row" layout-align="space-around start" layout-padding>
+  -->
+  <div flex layout="row" layout-align="center start" layout-padding>
+    <!-- User Information -->
+    <md-whiteframe layout="column" class="md-whiteframe-z2 md-padding" layout-margin flex style="max-width:500px; min-width:240px" ng-if="!passMode">
+      <div layout="row">
+        <div class="formheader" flex>
+          <md-icon class="material-icons">&#xe7fd;</md-icon>
+          <span>User Information ( {{user.id}} )</span>
+        </div>
+        <!-- Show User Button -->
+        <md-button ng-click="editUser()" class="md-primary md-hue-2" ng-hide="editMode">
+          <md-icon class="material-icons">&#xe3c9;</md-icon>
+          <label>Edit</label>
+        </md-button>
+        <md-button ng-click="listUser()" ng-hide="editMode">
+          <md-icon class="material-icons">&#xe166;</md-icon>
+          <label>Back</label>
+        </md-button>
+        <!-- Edit User Button -->
+        <md-button ng-click="updateUser()" ng-class="{'md-warn md-hue-2':editUserForm.$valid}" ng-show="editMode">
+          <md-icon class="material-icons">&#xe161;</md-icon>
+          <label>Save</label>
+        </md-button>
+        <md-button ng-click="showUser()" ng-show="editMode">
+          <md-icon class="material-icons">&#xe166;</md-icon>
+          <label>Undo</label>
+        </md-button>
+      </div>
+      <!-- Show User -->
+      <div layout-align="start center" layout="row" ng-if="!editMode">
+        <span flex="5" show-gt-xs></span>
+        <div layout="column" flex="85">
+          <md-input-container class="no-margin-bottom md-block">
+            <label>User Name</label>
+            <input class="disabled-black" name="username" ng-model="user.username" disabled>
+          </md-input-container>
+          <md-input-container class="no-margin-bottom md-block">
+            <label>Full User Name</label>
+            <input class="disabled-black" name="fullname" ng-model="user.fullname" disabled>
+          </md-input-container>
+          <md-input-container class="md-block">
+            <label>Email Address</label>
+            <input class="disabled-black" name="email" ng-model="user.email" disabled>
+          </md-input-container>
+        </div>
+        <span flex show-gt-xs></span>
+      </div>
+      <!-- Edit User -->
+      <form id="editUserForm" name="editUserForm" ng-show="editMode">
+        <div layout-align="start center" layout="row">
+          <span flex="5" show-gt-xs></span>
+          <div layout="column" flex="85">
+            <md-input-container class="no-margin-bottom md-block">
+              <label>User Name</label>
+              <input name="username" ng-model="user.username" required md-maxlength="50" minlength="5" focus-on="username">
+              <div ng-messages="editUserForm.username.$error" ng-show="editUserForm.username.$dirty">
+                <div ng-message="required">This field is required!</div>
+                <div ng-message="md-maxlength">That's too long!</div>
+                <div ng-message="minlength">That's too short!</div>
+              </div>
+            </md-input-container>
+            <md-input-container class="no-margin-bottom md-block">
+              <label>Full User Name</label>
+              <input name="fullname" ng-model="user.fullname" required md-maxlength="50" focus-on="fullname">
+              <div ng-messages="editUserForm.fullname.$error" ng-show="editUserForm.fullname.$dirty">
+                <div ng-message="required">This field is required!</div>
+                <div ng-message="md-maxlength">That's too long!</div>
+                <div ng-message="minlength">That's too short!</div>
+              </div>
+            </md-input-container>
+            <md-input-container class="md-block">
+              <label>Email Address</label>
+              <input name="email" ng-model="user.email" required 
+               md-maxlength="50" ng-pattern="/^.+@.+\..+$/">
+              <div ng-messages="editUserForm.email.$error" ng-show="editUserForm.email.$dirty">
+                <div ng-message="required">This field is required!</div>
+                <div ng-message="md-maxlength">That's too long!</div>
+                <div ng-message="pattern">You must a valid e-mail address!</div>
+              </div>               
+            </md-input-container>
+            
+          </div>
+          <span flex show-gt-xs></span>
+        </div>
+      </form>
+      <!-- Change Password -->
+      <div layout="row" layout-align="start center" layout-align-xs="end center" ng-if="!editMode && canChangePassword">
+        <span flex show-gt-xs></span>
+        <md-button ng-click="showPassword()" class="md-primary md-hue-2">
+          <md-icon class="material-icons">vpn_key</md-icon>
+          <label>Password</label>
+          <md-tooltip>Change Password</md-tooltip>
+        </md-button>
+        <span flex="5" show-gt-xs></span>
+      </div>
+    </md-whiteframe>
+    <!-- Role Information -->
+    <md-whiteframe layout="column" class="md-whiteframe-z2 md-padding" layout-margin flex style="max-width:500px; min-width:240px" ng-if="!passMode">
+      <div layout="row">
+        <div class="formheader" flex>
+          <md-icon class="material-icons">&#xe7ef;</md-icon>
+          <span>Role Information</span>
+        </div>
+        <!--
+        <md-button type="sumbit" ng-click="test()" ng-class="{'md-warn md-hue-2':newUserForm.$valid}">
+          <md-icon class="material-icons">&#xe3c9;</md-icon>
+          <label>Test</label>
+        </md-button>
+        -->
+      </div>
+      <!-- Show User -->
+      <md-table-container ng-hide="editMode">
+        <table md-table>
+          <thead md-head md-order="order">
+            <tr md-row>
+              <th md-column md-order-by="id"><span>#</span></th>
+              <th md-column md-order-by="name"><span>Role Name</span></th>
+              <th md-column md-order-by="remark"><span>Description</span></th>
+            </tr>
+          </thead>
+          <tbody md-body>
+            <tr md-row ng-repeat="role in user.roles | orderBy: order">
+              <td md-cell>{{role.id}}</td>
+              <td md-cell>{{role.name}}</td>
+              <td md-cell>{{role.remark}}</td>
+            </tr>
+          </tbody>
+        </table>
+      </md-table-container>
+      <!-- Edit User -->
+      <md-table-container ng-show="editMode">
+        <table md-table md-row-select multiple ng-model="selected">
+          <thead md-head md-order="order">
+            <tr md-row>
+              <th md-column md-order-by="id"><span>#</span></th>
+              <th md-column md-order-by="name"><span>Role Name</span></th>
+              <th md-column md-order-by="remark"><span>Description</span></th>
+            </tr>
+          </thead>
+          <tbody md-body>
+            <tr md-row md-select="role.id" md-auto-select ng-repeat="role in roles | orderBy: order">
+              <td md-cell>{{role.id}}</td>
+              <td md-cell>{{role.name}}</td>
+              <td md-cell>{{role.remark}}</td>
+            </tr>
+          </tbody>
+        </table>
+      </md-table-container>
+    </md-whiteframe>
+    <!-- Change Password -->
+    <md-whiteframe layout="column" class="md-whiteframe-z2 md-padding" layout-margin flex style="max-width:500px; min-width:240px" ng-if="passMode">
+      <div layout="row">
+        <div class="formheader" flex>
+          <md-icon class="material-icons">vpn_key</md-icon>
+          <span>Change Password ( {{user.id}} )</span>
+        </div>
+        <!-- Save Password -->
+        <md-button ng-click="savePassword()" ng-class="{'md-warn md-hue-2':userPasswordForm.$valid}">
+          <md-icon class="material-icons">&#xe161;</md-icon>
+          <label>Save</label>
+        </md-button>
+        <md-button ng-click="hidePassword()">
+          <md-icon class="material-icons">&#xe166;</md-icon>
+          <label>Undo</label>
+        </md-button>
+      </div>
+      <!-- Password Form -->
+      <form id="userPasswordForm" name="userPasswordForm">
+        <div layout-align="start center" layout="row">
+          <span flex="5" show-gt-xs></span>
+            <div layout="column" flex="85">
+              <md-input-container class="no-margin-bottom md-block">
+                <label>User Name</label>
+                <input class="disabled-black" name="username" ng-model="user.username" disabled>
+              </md-input-container>
+              <md-input-container class="no-margin-bottom">
+                  <label>Old Password</label>
+                  <input required type="password" id="oldpassword" name="oldpassword" ng-model="user.password" />
+              </md-input-container>
+              <md-input-container class="no-margin-bottom">
+                <label>New Password</label>
+                <input required type="password" id="newpassword" name="newpassword" ng-model="user.newpassword"
+                         minlength="6" />
+                <div ng-messages="userPasswordForm.newpassword.$error" ng-show="userPasswordForm.newpassword.$dirty">
+                  <div ng-message="required">This field is required!</div>
+                  <div ng-message="minlength">Password at least 6 charactors!</div>
+                </div>
+              </md-input-container>
+              <md-input-container>
+                <label>Password Confirmation</label>
+                <input required type="password" id="confirmation" name="confirmation" ng-model="user.confirmation"
+                          minlength="6" pw-check="newpassword" />
+                <div ng-messages="userPasswordForm.confirmation.$error" ng-show="userPasswordForm.confirmation.$dirty">
+                  <div ng-message="required">This field is required!</div>
+                  <div ng-message="pwmatch">Password is not match!</div>
+                </div>
+              </md-input-container>
+            </div>
+          <span flex show-gt-xs></span>
+        </div>
+      </form>
+    </md-whiteframe>
+  </div>
+</div>

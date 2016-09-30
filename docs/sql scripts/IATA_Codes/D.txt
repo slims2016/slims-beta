@@ -1,0 +1,330 @@
+Search results for "D"
+CITY NAME	3-LETTER CITY CODE	AIRPORT NAME	3-LETTER AIRPORT CODE
+Abilene	ABI	Dyess AFB	DYS
+Abu Dhabi	AUH	Al Dhafra AB	DHF
+Agustin Codazzi	DZI	Las Flores	DZI
+Anadyr	DYR	Ugolny	DYR
+Andavadoaka	DVD	Andavadoaka	DVD
+Antsiranana	DIE	Arrachart	DIE
+Augusta	AGS	Daniel Field	DNL
+Baicheng	DBC	Chang'an	DBC
+Bangkok	BKK	Don Mueang Int'l	DMK
+Castres	DCM	Mazamet	DCM
+Chicago	CHI	DuPage	DPA
+Colombo	CMB	Dandugama SPB	DGM
+Corolla	DUF	Pine Island	DUF
+Da Lat	DLI	Lien Khuong	DLI
+Da Nang	DAD	International	DAD
+Dabah	DBB	Al Alamain Intl	DBB
+Dabo	DAO	Dabo	DAO
+Dabra	DRH	Dabra	DRH
+Dadu	DDU	Dadu	DDU
+Daet	DTE	Bagasbas	DTE
+Daggett	DAG	Barstow-Daggett	DAG
+Dahl Creek	DCK	Dahl Creek	DCK
+Dahlgren	DGN	NSWC	DGN
+Dakar	DKR	Leopold Sedar Senghor	DKR
+Dakhla Oasis	DAK	Dakhla Oasis	DAK
+Dalaman	DLM	Dalaman	DLM
+Dalanzadgad	DLZ	Gurvan Saikhan	DLZ
+Dalbandin	DBA	Dalbandin	DBA
+D'Albertis	DLB	D'Albertis	DLB
+Dalby	DBY	Dalby	DBY
+Dalgaranga Gold Mine	DGD	Dalgaranga Gold Mine	DGD
+Dalhart	DHT	Municipal	DHT
+Dali	DLU	Dali	DLU
+Dalian	DLC	Zhoushuizi Intl	DLC
+Dallas	DFW	Addison	ADS
+Dallas	DFW	Love Field	DAL
+Dallas	DFW	Metropolitan Area	DFW
+Dallas	DFW	Dallas/FT Worth Intl	DFW
+Dallas	DFW	Executive	RBD
+Daloa	DJO	Daloa	DJO
+Dalton	DNN	Municipal	DNN
+Daly River Mission	DVR	Daly River Mission	DVR
+Daly Waters	DYW	Daly Waters	DYW
+Damascus	DAM	International	DAM
+Dambulla	DBU	Dambulu Oya Tank SPB	DBU
+Dammam	DMM	King Fahd Intl	DMM
+Danbury	DXR	Municipal	DXR
+Dandong	DDG	Langtou	DDG
+Dang	DNP	Tribhuvannagar	DNP
+Dangriga	DGA	Dangriga	DGA
+Dansville	DSV	Municipal	DSV
+Danville	DAN	Regional	DAN
+Danville	DNV	Vermilion Regional	DNV
+Daocheng	DCY	Yading	DCY
+Daqing	DQA	Sartu	DQA
+Dar es Salaam	DAR	Julius Nyerere Intl	DAR
+Darchula	DAP	Darchula	DAP
+Dargaville	DGR	Dargaville	DGR
+Daru	DAU	Daru	DAU
+Darwaz	DAZ	Darwaz	DAZ
+Darwin	DRW	International	DRW
+Datadawai	DTD	Datadawai	DTD
+Dathina	DAH	Dathina	DAH
+Datong	DAT	Beijiazao	DAT
+Daugavpils	DGP	International	DGP
+Daup	DAF	Daup	DAF
+Davao	DVO	Francisco Bangoy Intl	DVO
+Davenport	DVN	Municipal	DVN
+Davenport Downs	DVP	Davenport Downs	DVP
+David	DAV	Enrique Malek Intl	DAV
+Dawadmi	DWD	King Salman Abdulaziz	DWD
+Dayton	DAY	Metropolitan Area	DAY
+Dayton	DAY	James M. Cox Intl	DAY
+Dayton	DAY	Wright-Patterson AFB	FFO
+Dayton	DAY	Wright Brothers	MGY
+Daytona Beach	DAB	International	DAB
+Dazhou	DAX	Heshi	DAX
+Dazu	DZU	Dazu	DZU
+Death Valley Nat. Park	DTH	Furnance Creek	DTH
+Deauville	DOL	St Gatien	DOL
+Debepare	DBP	Debepare	DBP
+Debre Marcos	DBM	Debre Marcos	DBM
+Debre Tabor	DBT	Debre Tabor	DBT
+Debrecen	DEB	Debrecen	DEB
+Decatur	DCU	Pryor Field Regional	DCU
+Decatur	DEC	Decatur	DEC
+Decatur Island	DTR	Decatur Shores	DTR
+Decimomannu	DCI	Air Base	DCI
+Decorah	DEH	Municipal	DEH
+Dedougou	DGU	Dedougou	DGU
+Deer Harbor	DHB	Sea Plane Base	DHB
+Deer Park	DPK	Deer Park	DPK
+Deering	DRG	Deering	DRG
+Defiance	DFI	Memorial	DFI
+Degeh Bur	DGC	Degeh Bur	DGC
+Dehra Dun	DED	Jolly Grant	DED
+Deir ez Zor	DEZ	Deir ez Zor	DEZ
+Del Rio	DRT	Laughlin AFB	DLF
+Del Rio	DRT	Metropolitan Area	DRT
+Del Rio	DRT	International	DRT
+Delhi	DEL	Indira Gandhi Intl	DEL
+Delissaville	DLV	Delissaville	DLV
+Delta	DTA	Municipal	DTA
+Delta Downs	DDN	Delta Downs	DDN
+Delta Junction	DJN	Allen AAF	BIG
+Delta Junction	DJN	Delta Junction Airport	DJN
+Dembi Dolo	DEM	Dembi Dolo	DEM
+Deming	DMN	Municipal	DMN
+Den Helder	DHR	De Kooy	DHR
+Denham	DNM	Denham	DNM
+Deniliquin	DNQ	Deniliquin	DNQ
+Denis Island	DEI	Denis Island	DEI
+Denison	DNS	Municipal	DNS
+Denizli	DNZ	Cardak	DNZ
+Denpasar-Bali	DPS	Ngurah Rai	DPS
+Denver	DEN	Centennial	APA
+Denver	DEN	Aurora/Buckley AFB	BFK
+Denver	DEN	Rocky Mountain Metrop.	BJC
+Denver	DEN	Metropolitan Area	DEN
+Denver	DEN	International	DEN
+Deparijo	DEP	Deparijo	DEP
+Deputatsky	DPT	Deputatsky	DPT
+Deqen	DIG	Shangri-La	DIG
+Dera Ghazi Khan	DEA	International	DEA
+Dera Ismail Khan	DSK	Dera Ismail Khan	DSK
+Derby	DRB	RAAF Curtin	DCN
+Derby	DRB	Derby Airport	DRB
+DeRidder	DRI	Beauregard Regional	DRI
+Derim	DER	Derim	DER
+Derna	DNF	Martuba	DNF
+Des Moines	DSM	International	DSM
+Desroches Island	DES	Desroches Island	DES
+Dessie	DSE	Kombolcha	DSE
+Destin/Ft Walton Beach	VPS	Destin Executive	DSI
+Detroit	DTT	Coleman A. Young Muni	DET
+Detroit	DTT	Metropolitan Area	DTT
+Detroit	DTT	Metropolitan Wayne Co.	DTW
+Detroit	DTT	Willow Run	YIP
+Detroit Lakes	DTL	Wething Field	DTL
+Devils Lake	DVL	Regional	DVL
+Devonport	DPO	Devonport	DPO
+Dezful	DEF	Dezful	DEF
+Dhahran	DHA	King Abdulaziz	DHA
+Dhaka	DAC	Hazrat Shahjalal Intl	DAC
+Dhala	DHL	Dhala	DHL
+Dhamar	DMR	Dhamar	DMR
+Dhanbad	DBD	Dhanbad	DBD
+Dhangarhi	DHI	Dhangarhi	DHI
+Dharamsala	DHM	Kangra	DHM
+Dharavandhoo Island	DRV	Dharavandhoo Island	DRV
+Diamantina	DTI	Diamantina	DTI
+Diamantina Lakes	DYM	Diamantina Lakes	DYM
+Diamantino	DMT	Diamantino	DMT
+Dianopolis	DNO	Dianopolis	DNO
+Diapaga	DIP	Diapaga	DIP
+Diavik	DVK	Diavik	DVK
+Dibrugarh	DIB	Mohanbari	DIB
+Dickinson	DIK	T.Roosevelt Regional	DIK
+Dien Bien Phu	DIN	Dien Bien Phu	DIN
+Dieppe	DPE	St Aubin	DPE
+Dijon	DIJ	Longvic	DIJ
+Dikson	DKS	Dikson	DKS
+Dikwella	DIW	Mawella Lagoon SPB	DIW
+Dilasag	DSG	Dilasag	DSG
+Dili	DIL	Pres. Nicolau Lobato	DIL
+Dillingham	DLG	Dillingham	DLG
+Dillon	DLL	Dillon County	DLL
+Dillon	DLN	Dillon	DLN
+Dillon's Bay	DLY	Dillon's Bay	DLY
+Dimapur	DMU	Dimapur	DMU
+Dimbokro	DIM	Ville	DIM
+Dinangat	DNU	Dinangat	DNU
+Dinard/St-Malo	DNR	Pleurtuit	DNR
+Dinder	DNX	Galegu	DNX
+Dios	DOS	Dios	DOS
+Dipolog	DPL	Dipolog	DPL
+Dire Dawa	DIR	Aba Tenna D Yilma Intl	DIR
+Dirico	DRC	Dirico	DRC
+Dirranbandi	DRN	Dirranbandi	DRN
+Diu	DIU	Diu	DIU
+Divinopolis	DIQ	Brigadeiro Cabral	DIQ
+Divo	DIV	Divo	DIV
+Dixie	DXD	Dixie	DXD
+Diyarbakir	DIY	Diyarbakir	DIY
+Djambala	DJM	Djambala	DJM
+Djanet	DJG	Tiska	DJG
+Djerba	DJE	Zarsis	DJE
+Djoemoe	DOE	Djoemoe	DOE
+Djougou	DJA	Djougou	DJA
+Djupivogur	DJU	Djupivogur	DJU
+Dnipropetrovsk	DNK	International	DNK
+Doany	DOA	Doany	DOA
+Dobo	DOB	Rar Gwamar	DOB
+Docker River	DKV	Docker River	DKV
+Dodge City	DDC	Regional	DDC
+Dodoima	DDM	Dodoima	DDM
+Dodoma	DOD	Dodoma	DOD
+Doha	DOH	Hamad International	DOH
+Doini Island	DOI	Doini Island	DOI
+Dole	DLE	Tavaux	DLE
+Dolisie	DIS	Dolisie	DIS
+Dolpa	DOP	Dolpa	DOP
+Dominica	DOM	Canefield	DCF
+Dominica	DOM	Metropolitan Area	DOM
+Dominica	DOM	Melville Hall	DOM
+Doncaster/Sheffield	DSA	Robin Hood	DSA
+Donetsk	DOK	International	DOK
+Dongara	DOX	Dongara	DOX
+Dongola	DOG	Dongola	DOG
+Dongsha Island	DSX	Dongsha Island	DSX
+Dongying	DOY	Shengli	DOY
+Doomadgee	DMD	Doomadgee	DMD
+Doongan	DNG	Doongan	DNG
+Dori	DOR	Dori	DOR
+Dornoch	DOC	Dornoch	DOC
+Dorobisoro	DOO	Dorobisoro	DOO
+Dortmund	DTM	Airport	DTM
+Dorunda	DRD	Dorunda	DRD
+Dos Lagunas	DON	Dos Lagunas	DON
+Dothan	DHN	Regional	DHN
+Douala	DLA	International	DLA
+Douglas	DGW	Converse County	DGW
+Douglas Lake	DGF	Douglas Lake	DGF
+Douglas/Bisbee	DUG	Bisbee Municipal	BSQ
+Douglas/Bisbee	DUG	Douglas Municipal	DGL
+Douglas/Bisbee	DUG	Metropolitan Area	DUG
+Douglas/Bisbee	DUG	Bisbee-Douglas Intl	DUG
+Dourados	DOU	F. de Matos Pereira	DOU
+Dover	DOV	Dover AFB	DOV
+Doylestown	DYL	Doylestown	DYL
+Drake Bay	DRK	Drake Bay	DRK
+Dresden	DRS	Dresden	DRS
+Drietabbetje	DRJ	Drietabbetje	DRJ
+Drift River	DRF	Drift River	DRF
+Drumduff	DFP	Drumduff	DFP
+Drummond	DRU	Drummond	DRU
+Drummond Island	DRE	Drummond Island	DRE
+Drysdale River	DRY	Drysdale River	DRY
+Dschang	DSC	Dschang	DSC
+Dubai	DXB	Dubai Creek SPB	DCG
+Dubai	DXB	Jebel Ali SPB	DJH
+Dubai	DXB	Al Maktoum Intl	DWC
+Dubai	DXB	Metropolitan Area	DXB
+Dubai	DXB	International	DXB
+Dubai	DXB	Minhad AB	NHD
+Dubbo	DBO	City Airport	DBO
+Dublin	DBN	W.H. "Bud" Barron	DBN
+Dublin	DUB	International	DUB
+Dubois	DBS	Municipal	DBS
+DuBois	DUJ	Regional	DUJ
+Dubrovnik	DBV	Dubrovnik	DBV
+Dubuque	DBQ	Regional	DBQ
+Duesseldorf	DUS	Metropolitan Area	DUS
+Duesseldorf	DUS	International	DUS
+Duesseldorf	DUS	Moenchengladbach	MGL
+Duesseldorf	DUS	Weeze	NRN
+Dugong Beach Lodge	DGK	Dugong Beach Lodge	DGK
+Dugway	DPG	Michael AAF	DPG
+Dulkaninna	DLK	Dulkaninna	DLK
+Duluth	DLH	International	DLH
+Dumaguete	DGT	Sibulan	DGT
+Dumai	DUM	Pinang Kampai	DUM
+Dumpu	DPU	Dumpu	DPU
+Dunbar	DNB	Dunbar	DNB
+Duncan	DUC	Halliburton Field	DUC
+Duncan	DUQ	Duncan	DUQ
+Duncan Town	DCT	Duncan Town	DCT
+Dundee	DND	Airport	DND
+Dundo	DUE	Dundo	DUE
+Dunedin	DUD	International	DUD
+Dunhuang	DNH	Dunhuang	DNH
+Dunk Island	DKI	Dunk Island	DKI
+Dunkirk	DKK	Chautauqua County	DKK
+Duqm	DQM	International	DQM
+Duqm	DQM	Jaaluni	JNJ
+Durango	DGO	Guadalupe Victoria Int	DGO
+Durango	DRO	Animas Air Park	AMK
+Durango	DRO	Metropolitan Area	DRO
+Durango	DRO	La Plata County	DRO
+Durant	DUA	Regional - Eaker Field	DUA
+Durazno	DZO	Santa Bernardina	DZO
+Durban	DUR	Metropolitan Area	DUR
+Durban	DUR	King Shaka Intl	DUR
+Durban	DUR	Virginia	VIR
+Durham Downs	DHD	Durham Downs	DHD
+Durrie	DRR	Durrie	DRR
+Dushanbe	DYU	International	DYU
+Dutch Harbor	DUT	Driftwood Bay AFS	DUT
+Dwangwa	DWA	Dwangwa	DWA
+Dwyer	DWR	Air Base	DWR
+Dysart	DYA	Dysart	DYA
+Dzaoudzi	DZA	Pamandzi Intl	DZA
+Fort Belvoir	DAA	Davison AAF	DAA
+Fort Worth	FTW	Dallas/FT Worth Intl	DFW
+Great Bear Lake	DAS	Great Bear Lake	DAS
+Houston	HOU	David Wayne Hooks Mem.	DWH
+Jambi	DJB	Sultan Thaha	DJB
+Jayapura	DJJ	Sentani	DJJ
+Kalpitiya	DBK	Dutch Bay SPB	DBK
+Katsina	DKA	Katsina	DKA
+Kotte	DWO	Diyawanna Oya	DWO
+La Desirade	DSD	Grande Anse	DSD
+Madison	DXE	Bruce Campbell Field	DXE
+Mercury	DRA	Desert Rock	DRA
+Mercury	DRA	Yucca Airstrip	UCC
+Moscow	MOW	Domodedovo	DME
+Mtubatuba	DUK	Dukuduku	DUK
+Mudgee	DGE	Mudgee	DGE
+Okinawa	OKA	Kadena AB	DNA
+Ordos	DSN	Ejin Horo	DSN
+Phoenix	PHX	Deer Valley	DVT
+Sedalia	DMO	Regional	DMO
+Shreveport	SHV	Downtown Apt	DTN
+Siborong-Borong	DTB	Silangit	DTB
+Soalala	DWB	Soalala	DWB
+Sondok	DSO	Sondok	DSO
+Taraz	DMB	Taraz	DMB
+The Dalles	DLS	Columbia Gorge Rgnl	DLS
+Tucson	TUS	Davis-Monthan AFB	DMA
+Wad Madani	DNI	Wad Madani	DNI
+Washington	WAS	Ronald Reagan National	DCA
+Wudalianchi	DTU	Dedu	DTU
+Yahukimo	DEX	Nop Goliath	DEX
+Yuzhno-Kurilsk	DEE	Mendeleyevo	DEE
+Zhangjiajie	DYG	Hehua	DYG
+Zhezkazgan	DZN	Zhezkazgan	DZN
+
+Displaying 326 result(s)

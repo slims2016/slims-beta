@@ -1,0 +1,43 @@
+<div>
+  <div flex layout="row" layout-align="space-around start" layout-padding>
+  <md-whiteframe layout="column" class="md-whiteframe-z2 md-padding" layout-margin flex-gt-sm="70">
+    <div layout="row">
+      <div class="formheader" flex>
+        <md-icon class="material-icons">&#xe7fd;</md-icon>
+        <span>User List</span>
+      </div>
+      <md-button ng-hide="loading">
+        <md-icon class="material-icons">search</md-icon>
+        <label>Search</label>
+      </md-button>
+      <md-button ng-click="newUser()" class="md-primary md-hue-2" ng-hide="loading">
+        <md-icon class="material-icons">person_add</md-icon>
+        <label>Create</label>
+      </md-button>
+      <md-progress-circular md-mode="indeterminate" class="md-primary md-hue-2" ng-show="loading"></md-progress-circular>
+    </div>
+    <md-table-pagination md-limit="query.limit" md-limit-options="limitOptions" md-page="query.page" md-total="{{total}}" md-on-paginate="onPagination" md-page-select="true" md-boundary-links="true"></md-table-pagination>
+    <md-table-container>
+      <table class="no-checkbox" md-table md-row-select ng-model="selected">
+        <thead md-head md-order="query.order" md-on-reorder="onReOrder">
+          <tr md-row>
+            <th md-column md-order-by="id"><span>#</span></th>
+            <th md-column md-order-by="username"><span>User Name</span></th>
+            <th md-column md-order-by="fullname"><span>Full User Name</span></th>
+            <th md-column md-order-by="email"><span>Email Address</span></th>
+          </tr>
+        </thead>
+        <tbody md-body>
+          <tr md-row md-select="user.id" md-auto-select md-on-select="showUser" ng-repeat="user in users | orderBy: order">
+            <td md-cell>{{user.id}}</td>
+            <td md-cell>{{user.username}}</td>
+            <td md-cell>{{user.fullname}}</td>
+            <td md-cell>{{user.email}}</td>
+          </tr>
+        </tbody>
+      </table>
+    </md-table-container>
+    <data-md-table-pagination md-limit="query.limit" md-limit-options="limitOptions" md-page="query.page" md-total="{{total}}" md-on-paginate="onPagination" md-page-select="true" md-boundary-links="true"></data-md-table-pagination>
+  </md-whiteframe>
+  </div>
+</div>

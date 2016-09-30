@@ -1,0 +1,47 @@
+<div>
+  <div flex layout="row" layout-align="space-around start" layout-padding>
+  <md-whiteframe layout="column" class="md-whiteframe-z2 md-padding" layout-margin flex-gt-sm="70">
+    <div layout="row">
+      <div class="formheader" flex>
+        <md-icon class="material-icons">&#xe02f;</md-icon>
+        <span>Item List</span>
+      </div>
+      <md-button ng-hide="loading">
+        <md-icon class="material-icons">search</md-icon>
+        <label>Search</label>
+      </md-button>
+      <md-button ng-click="newItem()" class="md-primary md-hue-2" ng-hide="loading">
+        <md-icon class="material-icons">&#xe02e;</md-icon>
+        <label>Create</label>
+      </md-button>
+      <md-progress-circular md-mode="indeterminate" class="md-primary md-hue-2" ng-show="loading"></md-progress-circular>
+    </div>
+    <md-table-pagination md-limit="query.limit" md-limit-options="limitOptions" md-page="query.page" md-total="{{total}}" md-on-paginate="onPagination" md-page-select="true" md-boundary-links="true"></md-table-pagination>
+    <md-table-container>
+      <table class="no-checkbox" md-table md-row-select ng-model="selected">
+        <thead md-head md-order="query.order" md-on-reorder="onReOrder">
+          <tr md-row>
+            <th md-column md-order-by="id"><span>#</span></th>
+            <th md-column md-order-by="itemid"><span>Item ID</span></th>
+            <th md-column md-order-by="name"><span>Item Name</span></th>
+            <th md-column md-order-by="unit"><span>Unit</span></th>
+            <th md-column md-order-by="category"><span>Category</span></th>
+            <th md-column md-order-by="subcategory"><span>Subcategory</span></th>
+          </tr>
+        </thead>
+        <tbody md-body>
+          <tr md-row md-select="item.id" md-auto-select md-on-select="showItem" ng-repeat="item in items | orderBy: order">
+            <td md-cell>{{item.id}}</td>
+            <td md-cell>{{item.itemid}}</td>
+            <td md-cell>{{item.name}}</td>
+            <td md-cell>{{item.unit.name}}</td>
+            <td md-cell>{{item.category.name}}</td>
+            <td md-cell>{{item.subcategory.name}}</td>
+          </tr>
+        </tbody>
+      </table>
+    </md-table-container>
+    <data-md-table-pagination md-limit="query.limit" md-limit-options="limitOptions" md-page="query.page" md-total="{{total}}" md-on-paginate="onPagination" md-page-select="true" md-boundary-links="true"></data-md-table-pagination>
+  </md-whiteframe>
+  </div>
+</div>

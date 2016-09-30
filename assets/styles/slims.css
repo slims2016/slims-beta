@@ -1,0 +1,68 @@
+/* Waiting for Angular to load */
+body.waiting-for-angular div#content-main {
+  display: none;
+}
+
+body.waiting-for-angular div#initializing-panel {
+  display: block;
+  background: url(../images/loading.gif) center center no-repeat;
+  position:absolute;
+  top:0;
+  left:0;
+  width: 100%;
+  height: 100%;
+}
+
+/* Keep lower/upper case */
+.md-button {
+	text-transform: none;
+}
+
+/* Remove input bottom margin */
+md-input-container.no-margin-bottom {
+	/*padding-bottom: 2px;*/
+	margin-bottom: 0px;
+}
+
+md-input-container.no-margin-top {
+  /*padding-bottom: 2px;*/
+  margin-top: 0px;
+}
+
+md-input-container .disabled-black.md-input[disabled] {
+  color:rgb(0,0,0);
+}
+
+md-toast.md-primary-theme .md-toast-content {
+    background-color: rgb(63,81,181);
+}
+
+md-toast.md-accent-theme .md-toast-content {
+    background-color: rgb(255,64,129);
+}
+
+md-toast.md-warn-theme .md-toast-content {
+    background-color: rgb(255,87,34);
+}
+
+div.formheader {
+    display: block;
+    padding: 24px;
+    padding-bottom: 10px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1em;
+    color: rgba(0,0,0,0.54);
+    /*background-color: rgb(255,255,255);*/
+    position: relative; 
+  }
+
+table[md-table].no-checkbox .md-checkbox-column,
+table[md-table].no-checkbox .md-checkbox-cell {
+  display: none;
+}
+table.md-table th.md-column {
+  color: rgba(0, 0, 0, 0.54);
+  font-size: 12px;
+  font-weight: 500;
+}

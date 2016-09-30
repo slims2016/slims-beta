@@ -1,0 +1,325 @@
+Search results for "H"
+CITY NAME	3-LETTER CITY CODE	AIRPORT NAME	3-LETTER AIRPORT CODE
+Alamogordo	ALM	Holloman AFB	HMN
+Alexandria	ALY	Borg el Arab	HBE
+Analalava	HVA	Analalava	HVA
+Batesville	HLB	Batesville	HLB
+Baytown	HPY	Baytown	HPY
+Big Spring	HCA	McMahon-Wrinkle	HCA
+Blytheville	BYH	Municipal	HKA
+Bulgan (Khovd)	HBU	Bulgan (Khovd)	HBU
+Camp Mackall	HFF	Mackall AAF	HFF
+Cheraw	HCW	Municipal	HCW
+Chesapeake	HTW	Lawrence Co. Airpark	HTW
+Chita	HTA	Kadala	HTA
+Chos Malal	HOS	Chos Malal	HOS
+Delingha	HXD	Delingha	HXD
+East Hampton	HTO	East Hampton	HTO
+Eil	HCM	Eil	HCM
+Entrance Island	HBH	Sea Plane Base	HBH
+Fort MacKay	HZP	Horizon	HZP
+Fort MacKay	HZP	Albian	JHL
+Fort MacKay	HZP	Firebag	YFI
+Frankfurt	FRA	Hahn	HHN
+Freetown	FNA	Hastings	HGS
+Ha'apai	HPA	Lifuka	HPA
+Habi	HBD	Habi	HBD
+Hachijojima	HAC	Hachijojima	HAC
+Hachinohe	HHE	Air Base	HHE
+Haelogo	HEO	Haelogo	HEO
+Hagerstown	HGR	Regional	HGR
+Hagfors	HFS	Hagfors	HFS
+Haifa	HFA	Haifa	HFA
+Haikou	HAK	Meilan Intl	HAK
+Hail	HAS	Hail	HAS
+Hailar	HLD	Dongshan	HLD
+Haines	HNS	Haines	HNS
+Haiphong	HPH	Cat Bi Intl	HPH
+Haivaro	HIT	Haivaro	HIT
+Hakodate	HKD	Hakodate	HKD
+Halali	HAL	Halali	HAL
+Half Moon Bay	HAF	Half Moon Bay	HAF
+Halls Creek	HCQ	Halls Creek	HCQ
+Halmstad	HAD	Halmstad	HAD
+Hamadan	HDM	Hamadan	HDM
+Hamar	HMR	Stafsberg	HMR
+Hambantota	HRI	SPB	HBT
+Hambantota	HRI	Mattala Rajapaksa Intl	HRI
+Hamburg	HAM	Metropolitan Area	HAM
+Hamburg	HAM	Hamburg Airport	HAM
+Hamburg	HAM	Luebeck-Blankensee	LBC
+Hamburg	HAM	Finkenwerder	XFW
+Hami	HMI	Hami	HMI
+Hamilton	HAB	Marion Co. Rankin Fite	HAB
+Hamilton	HAO	Butler County Regional	HAO
+Hamilton	HLT	Hamilton	HLT
+Hamilton	HLZ	International	HLZ
+Hamilton Island	HTI	Great Barrier Reef	HTI
+Hammerfest	HFT	Hammerfest	HFT
+Hampton	HPT	Municipal	HPT
+Hana	HNM	Hana	HNM
+Hanalei	HPV	Princeville	HPV
+Hanamaki	HNA	Hanamaki	HNA
+Handan	HDG	Handan	HDG
+Hangzhou	HGH	Xiaoshan Intl	HGH
+Hanimaadhoo Island	HAQ	Hanimaadhoo Island	HAQ
+Hanksville	HVE	Hanksville	HVE
+Hannover	HAJ	Metropolitan Area	HAJ
+Hannover	HAJ	Airport	HAJ
+Hanoi	HAN	Noi Bai Intl	HAN
+Hanzhong	HZG	Chenggu	HZG
+Hao	HOI	Hao	HOI
+Harare	HRE	International	HRE
+Harbin	HRB	Taiping Intl	HRB
+Hargeisa	HGA	Egal Intl	HGA
+Harlingen	HRL	Valley International	HRL
+Harrisburg	HAR	Metropolitan Area	HAR
+Harrisburg	HAR	Capital City	HAR
+Harrisburg	HAR	International	MDT
+Harrisburg	HSB	Raleigh	HSB
+Harrismith	HRS	Harrismith	HRS
+Harrison	HRO	Boone County	HRO
+Harrogate	HRT	Linton-on-Ouse RAF	HRT
+Hartford	HFD	Bradley International	BDL
+Hartford	HFD	Metropolitan Area	HFD
+Hartford	HFD	Brainard	HFD
+Hartsville	HVS	Regional	HVS
+Haskovo	HKV	Malevo	HKV
+Hassi Messaoud	HME	Oued Irara	HME
+Hassi R'mel	HRM	Tilrempt	HRM
+Hastings	HSI	Municipal	HSI
+Hasvik	HAA	Hasvik	HAA
+Hat Yai	HDY	International	HDY
+Hatay	HTY	Hatay	HTY
+Hateruma	HTR	Hateruma	HTR
+Hato Corozal	HTZ	Hato Corozal	HTZ
+Hatteras	HNC	Billy Mtchell	HNC
+Hattiesburg/Laurel	LUL	Bobby L. Chain Muni	HBG
+Hatzfeldthaven	HAZ	Hatzfeldthaven	HAZ
+Haugesund	HAU	Karmoy	HAU
+Havadarya	HDR	Havadarya	HDR
+Havana	HAV	Jose Marti Intl	HAV
+Havana	HAV	Playa Baracoa	UPB
+Haverfordwest	HAW	Haverfordwest	HAW
+Havre	HVR	City-County	HVR
+Hawabango	HWA	Hawabango	HWA
+Hawk Inlet	HWI	Sea Plane Base	HWI
+Hawker	HWK	Hawker	HWK
+Hawthorne	HHR	Municipal	HHR
+Hawthorne	HTH	Industrial	HTH
+Hay	HXX	Hay	HXX
+Hayden	HDN	Yampa Valley	HDN
+Hayfield	HYF	Hayfield	HYF
+Hays	HYS	Regional	HYS
+Hayward	HWD	Executive	HWD
+Hayward	HYR	Sawyer County	HYR
+Hazebrouck	HZB	Merville-Colonne	HZB
+Hazleton	HZL	Regional	HZL
+Hazyview	HZV	Hazyview	HZV
+Headingly	HIP	Headingly	HIP
+Healy Lake	HKB	Healy Lake	HKB
+Heathlands	HAT	Heathlands	HAT
+Hechi	HCJ	Jin Cheng Jiang	HCJ
+Hefei	HFE	Xinqiao Intl	HFE
+Heho	HEH	Heho	HEH
+Heide/Buesum	HEI	Heide/Buesum	HEI
+Heidelberg	HDB	AAF	HDB
+Heihe	HEK	Heihe	HEK
+Heiweni	HNI	Heiweni	HNI
+Helena	HLN	Regional	HLN
+Helena-West Helena	HEE	Thompson-Robbins	HEE
+Helenvale	HLV	Helenvale	HLV
+Helgoland	HGL	Duene	HGL
+Helsinki	HEL	Metropolitan Area	HEL
+Helsinki	HEL	Helsinki-Vantaa	HEL
+Helsinki	HEL	Helsinki-Malmi	HEM
+Hemavan/Tarnaby	HMV	Hemavan/Tarnaby	HMV
+Hemet	HMT	Ryan	HMT
+Henbury	HRY	Henbury	HRY
+Hengchun	HCN	Hengchun	HCN
+Hengyang	HNY	Bajialing	HNY
+Herat	HEA	Herat	HEA
+Herendeen Bay	HED	Herendeen Bay	HED
+Heringsdorf	HDF	Heringsdorf	HDF
+Hermannsburg	HMG	Hermannsburg	HMG
+Hermiston	HES	Municipal	HES
+Hermosillo	HMO	I.Pesqueira Garcia	HMO
+Hervey Bay	HVB	Hervey Bay	HVB
+Hibbing/Chisholm	HIB	Range Regional	HIB
+Hickory	HKY	Regional	HKY
+High Wycombe	HYC	Air Park/Booker	HYC
+Highbury	HIG	Highbury	HIG
+Higlieg	HGI	Higlieg	HGI
+Higuerote	HGE	Higuerote	HGE
+Hikueru	HHZ	Hikueru	HHZ
+Hill City	HLC	Municipal	HLC
+Hillside	HLL	Hillside	HLL
+Hilton Head Island	HHH	Hilton Head	HHH
+Hingurakgoda	HIM	Minneriya	HIM
+Hinthada	HEB	Hinthada	HEB
+Hiroshima	HIJ	Hiroshima Airport	HIJ
+Hiroshima	HIJ	Hiroshimanishi	HIW
+Hisar	HSS	Hisar	HSS
+Hluhluwe	HLW	Hluhluwe	HLW
+Hobart	HBA	International	HBA
+Hobart	HBR	Regional	HBR
+Hobbs	HOB	Industrial Airpark	HBB
+Hobbs	HOB	Metropolitan Area	HOB
+Hobbs	HOB	Lea County Regional	HOB
+Hodeidah	HOD	International	HOD
+Hoedspruit	HDS	AFB	HDS
+Hof	HOQ	Plauen	HOQ
+Hofuf	HOF	Al-Ahsa	HOF
+Hogatza	HGZ	Hog River	HGZ
+Hohenems/Dornbirn	HOH	Airport	HOH
+Hohhot	HET	Baita Intl	HET
+Hokitika	HKK	Hokitika	HKK
+Hola	HOA	Hola	HOA
+Holbrook	HBK	Municipal	HBK
+Holdrege	HDE	Brewster Field	HDE
+Holguin	HOG	Frank Pais Intl	HOG
+Holland	HLM	Park Township	HLM
+Hollis	HYL	Clark Bay SPB	HYL
+Hollister	HLI	Municipal	HLI
+Hollywood	HWO	North Perry	HWO
+Holmavik	HVK	Holmavik	HVK
+Holy Cross	HCR	Holy Cross	HCR
+Homalin	HOX	Homalin	HOX
+Homer	HOM	Homer	HOM
+Homestead	HST	ARB	HST
+Hon	HUQ	Hon	HUQ
+Hong Kong	HKG	Metropolitan Area	HKG
+Hong Kong	HKG	International	HKG
+Honiara	HIR	International	HIR
+Honinabi	HNN	Honinabi	HNN
+Honningsvag	HVG	Valan	HVG
+Honolulu	HNL	International	HNL
+Hoonah	HNH	Hoonah	HNH
+Hooper Bay	HPB	Hooper Bay	HPB
+Hopetoun	HTU	Hopetoun	HTU
+Hopevale	HPE	Hopevale	HPE
+Hopkinsville	HOP	Campbell AAF	HOP
+Hoquiam/Aberdeen	HQM	Bowerman	HQM
+Horizontina	HRZ	Walter Bundchen	HRZ
+Horn Island	HID	Horn Island	HID
+Hornafjordur	HFN	Hofn	HFN
+Horsham	HSM	Horsham	HSM
+Horta	HOR	Horta	HOR
+Hoskins	HKN	Hoskins	HKN
+Hot Springs	HOT	Memorial Field	HOT
+Hot Springs	HSP	Ingalls Field	HSP
+Hotan	HTN	Hotan	HTN
+Houeisay	HOE	Houeisay	HOE
+Houghton Lake	HTL	Roscommon County	HTL
+Houlton	HUL	International	HUL
+Houma	HUM	Terrebonne	HUM
+Houston	HOU	Lone Star Executive	CXO
+Houston	HOU	David Wayne Hooks Mem.	DWH
+Houston	HOU	Ellington	EFD
+Houston	HOU	Metropolitan Area	HOU
+Houston	HOU	William P. Hobby	HOU
+Houston	HOU	George Bush Intercont.	IAH
+Houston	HOU	West Houston	IWS
+Houston	HOU	Sugar Land Regional	SGR
+Hoy	HOY	Longhope	HOY
+Hsinchu	HSZ	Hsinchu	HSZ
+Hua Hin	HHQ	Hua Hin	HHQ
+Huahine	HUH	Fare	HUH
+Huai'an	HIA	Lianshui	HIA
+Huaihua	HJJ	Zhijiang	HJJ
+Hualien	HUN	Hualien	HUN
+Huanuco	HUU	David F. Fernandini	HUU
+Huatugou	HTT	Huatugou	HTT
+Huatulco	HUX	Bahias de Huatulco Int	HUX
+Hubli	HBX	Hubli	HBX
+Hudiksvall	HUV	Hudiksvall	HUV
+Hudson	HCC	Columbia County	HCC
+Hue	HUI	Phu Bai Intl	HUI
+Huehuetenango	HUG	Huehuetenango	HUG
+Huesca	HSK	Pirineos	HSK
+Hughenden	HGD	Hughenden	HGD
+Hughes	HUS	Hughes	HUS
+Hugo	HUJ	Stan Stamper Municipal	HUJ
+Huizhou	HUZ	Huizhou	HUZ
+Hukuntsi	HUK	Hukuntsi	HUK
+Hultsfred/Vimmerby	HLF	Hultsfred/Vimmerby	HLF
+Humacao	HUC	Humacao	HUC
+Humaita	HUW	F.Correa da Cruz	HUW
+Humberside	HUY	Humberside	HUY
+Humbert River	HUB	Humbert River	HUB
+Humboldt	HUD	Municipal	HUD
+Humera	HUE	Humera	HUE
+Huntingburg	HNB	Huntingburg	HNB
+Huntington/Ashland KY	HTS	Tri-State	HTS
+Huntsville	HSV	Metropolitan Area	HSV
+Huntsville	HSV	Intl-Carl T.Jones Fld	HSV
+Huntsville	HSV	Redstone AAF	HUA
+Huntsville	HTV	Bruce Brothers Rgnl	HTV
+Huolinguole	HUO	Huolinhe	HUO
+Hurghada	HRG	International	HRG
+Huron	HON	Regional	HON
+Husavik	HZK	Husavik	HZK
+Huslia	HSL	Huslia	HSL
+Hutchinson	HUT	Municipal	HUT
+Hwange National Park	HWN	Hwange National Park	HWN
+Hyannis	HYA	Barnstable Municipal	HYA
+Hydaburg	HYG	Sea Plane Base	HYG
+Hyderabad	HDD	Hyderabad	HDD
+Hyderabad	HYD	Begumpet	BPM
+Hyderabad	HYD	Metropolitan Area	HYD
+Hyderabad	HYD	Rajiv Gandhi Int'l	HYD
+Hyvinkaa	HYV	Hyvinkaa	HYV
+Irakleion	HER	Nikos Kazantzakis	HER
+Jackson	JAN	Hawkins Field	HKS
+Jakarta	JKT	Halim Perdanakusuma	HLP
+Jamestown	HLE	Saint Helena	HLE
+Jinju	HIN	Sacheon	HIN
+Johannesburg	JNB	Lanseria International	HLA
+Khajuraho	HJR	Khajuraho	HJR
+Khanty-Mansiysk	HMA	Khanty-Mansiysk	HMA
+Kharkiv	HRK	Osnova Intl	HRK
+Khatanga	HTG	Khatanga	HTG
+Khatgal	HTM	Khatgal	HTM
+Khmelnytskyi	HMJ	International	HMJ
+Khovd	HVD	Khovd	HVD
+Khujirt	HJT	Khujirt	HJT
+Killeen/Fort Hood	ILE	Hood AAF	HLR
+Komako	HOC	Komako	HOC
+Korhogo	HGO	Korhogo	HGO
+La Herrera	HRR	La Herrera	HRR
+Lajamanu	HOK	Hooker Creek	HOK
+Lake Havasu City	HII	Lake Havasu City	HII
+Las Vegas	LAS	Henderson ExecutiveA	HSH
+Liping	HZH	Liping	HZH
+Mae Hong Son	HGN	Mae Hong Son	HGN
+Mokuleia	HDH	Dillingham	HDH
+Moroni	YVA	Prince Said Ibrahim	HAH
+Mount Hagen	HGU	Kagamuga	HGU
+Natchez	HEZ	Adams County	HEZ
+New Haven	HVN	Tweed	HVN
+Ogden	OGD	Hill AFB	HIF
+Orsta/Volda	HOV	Hovden	HOV
+Phuket	HKT	International	HKT
+Portland	PDX	Hillsboro	HIO
+Quang Duc	HOO	Nhon Co	HOO
+Saga	HSG	Saga	HSG
+Seosan	HMY	Seosan	HMY
+Shaoguan	HSC	Guitou	HSC
+Shennongjia	HPG	Hongping	HPG
+Shilabo	HIL	Shilabo	HIL
+Sohag	HMB	International	HMB
+St Helens	HLS	St Helens	HLS
+Taizhou	HYN	Luqiao	HYN
+Terre Haute	HUF	Intl (Hulman Field)	HUF
+Three Rivers	HAI	Municipal Dr. Haines	HAI
+Tokyo	TYO	Tokyo Intl (Haneda)	HND
+Ulanhot	HLH	Ulanhot	HLH
+Wahiawa	HHI	Wheeler AAF	HHI
+Wheeling	HLG	Ohio County	HLG
+White Plains	HPN	Westchester County	HPN
+Whitefield	HIE	Mount Washington Rgnl	HIE
+Zhayrem	HRC	Sary Su	HRC
+Zhengzhou	CGO	Shangjie	HSJ
+Zhoushan	HSN	Putuoshan	HSN
+
+Displaying 321 result(s)

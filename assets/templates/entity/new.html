@@ -1,0 +1,103 @@
+<div>
+  <div flex layout="row" layout-align="space-around start" layout-padding>
+  <md-whiteframe layout="column" class="md-whiteframe-z2 md-padding" layout-margin flex style="max-width:700px; min-width:240px">
+    <div class="formheader">
+      <md-icon class="material-icons">business</md-icon>
+      <span>Create New Entity</span>
+    </div>
+    <form id="newEntityForm" name="newEntityForm" layout-align="start center" layout="row">
+      <span flex="5" show-gt-xs></span>
+      <div layout="column" flex="90">
+        <div layout="row">
+          <md-input-container flex="45" class="no-margin-bottom md-block">
+            <label>Entity ID</label>
+            <input name="entityid" ng-model="entity.entityid" required md-maxlength="50" minlength="5" auto-focus-on>
+            <div ng-messages="newEntityForm.entityid.$error" ng-show="newEntityForm.entityid.$dirty">
+              <div ng-message="required">This field is required!</div>
+              <div ng-message="md-maxlength">That's too long!</div>
+              <div ng-message="minlength">That's too short!</div>
+            </div>
+          </md-input-container>
+          <span flex="5"></span>
+          <md-input-container flex="50" class="md-block">
+            <label>Entity Type</label>
+            <md-select name="type" ng-model="typeid" required md-on-close="selectType()">
+              <md-option ng-repeat="type in types" value="{{type.id}}">
+                {{type.name}}
+              </md-option>
+            </md-select>
+            <div class="errors" ng-messages="newEntityForm.type.$error">
+              <div ng-message="required">This field is required!</div>
+            </div>
+          </md-input-container>
+        </div>
+        <md-input-container class="no-margin-bottom md-block">
+          <label>Entity Name</label>
+          <input name="name" ng-model="entity.name" required md-maxlength="50" minlength="5">
+          <div ng-messages="newEntityForm.name.$error" ng-show="newEntityForm.name.$dirty">
+            <div ng-message="required">This field is required!</div>
+            <div ng-message="md-maxlength">That's too long!</div>
+            <div ng-message="minlength">That's too short!</div>
+          </div>
+        </md-input-container>
+        <md-input-container class="no-margin-bottom md-block">
+          <label>Entity Full Name</label>
+          <input name="fullname" ng-model="entity.fullname" md-maxlength="50">
+          <div ng-messages="newEntityForm.fullname.$error" ng-show="newEntityForm.fullname.$dirty">
+            <div ng-message="md-maxlength">That's too long!</div>
+            <div ng-message="minlength">That's too short!</div>
+          </div>
+        </md-input-container>
+        <div layout="row">
+          <md-input-container flex="45" class="no-margin-bottom md-block">
+            <label>Telephone</label>
+            <input name="telno" ng-model="entity.telno" md-maxlength="50" minlength="5">
+            <div ng-messages="newEntityForm.telno.$error" ng-show="newEntityForm.telno.$dirty">
+              <div ng-message="md-maxlength">That's too long!</div>
+              <div ng-message="minlength">That's too short!</div>
+            </div>
+          </md-input-container>
+          <span flex="5"></span>
+          <md-input-container flex="50" class="no-margin-bottom md-block">
+            <label>Email Address</label>
+            <input name="email" ng-model="entity.email" 
+                 md-maxlength="50" ng-pattern="/^.+@.+\..+$/">
+              <div ng-messages="newEntityForm.email.$error" ng-show="newEntityForm.email.$dirty">
+                <div ng-message="md-maxlength">That's too long!</div>
+                <div ng-message="pattern">You must a valid e-mail address!</div>
+              </div>
+          </md-input-container>
+        </div>
+        <div layout="row">
+          <md-input-container class="md-block" flex="45">
+            <label>Country</label>
+            <md-select name="country" ng-model="countryid" md-on-open="loadCountry()" md-on-close="selectCountry()" md-selected-text="getCountryName()">
+              <md-option ng-repeat="country in countries" value="{{country.id}}">
+                {{country.name}} - {{country.code}}
+              </md-option>
+            </md-select>
+            <md-tooltip md-direction="top">{{countryname}}</md-tooltip>
+          </md-input-container>
+          <span flex="5"></span>
+        </div>
+        <md-input-container class="md-block">
+          <label>Entity Addres</label>
+          <textarea name="address" ng-model="entity.address" md-maxlength="150" rows="3"></textarea>
+        </md-input-container>
+        <div layout="row" layout-align="start center" layout-align-xs="end center">
+          <span flex show-gt-xs></span>
+          <md-button type="sumbit" ng-click="addEntity()" ng-class="{'md-raised md-primary md-hue-2':newEntityForm.$valid}">
+            <md-icon class="material-icons">&#xe145;</md-icon>
+            <label>Create</label>
+          </md-button>
+          <md-button ng-click="clearEntity()" ng-class="{'md-primary md-hue-2':newEntityForm.$dirty}">
+            <md-icon class="material-icons">&#xe14c;</md-icon>
+            <label>Cancel</label>
+          </md-button>
+        </div>
+      </div>
+      <span flex show-gt-xs></span>
+    </form>
+  </md-whiteframe>
+  </div>
+</div>
