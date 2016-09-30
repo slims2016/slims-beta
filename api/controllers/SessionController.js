@@ -21,7 +21,9 @@ module.exports = {
 			return;
 		}
 		
-		User.findOneByUsername(req.param('username'))
+		// User.findOneByUsername(req.param('username'))
+		User.findOne()
+		.where({username:req.param('username')})
 		.exec(function (err, user) {
 			if (err) {
 				res.status(err.status);
