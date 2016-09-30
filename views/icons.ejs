@@ -1,0 +1,23 @@
+<% title = 'Material Icons'; viewname = '/icons' %>
+<table ng-controller="IconList">
+<input ng-model="icontext">
+<input class="material-icons" ng-model="icontext">
+<thead>
+<tr>
+  <th>icon</th>
+  <th>name</th>
+  <th>code</th>
+  <th style="width:150px; "></th>
+  <th>text</th>
+</tr>
+</thead>
+<tbody ng-repeat="icon in icons">
+  <tr>
+    <td><md-icon class="material-icons">{{ icon.name }}</md-icon></td>
+    <td>{{ icon.name }}</td>
+    <td>{{ icon.code }}</td>
+    <td></td>
+    <td>{{ icon.text }}</td>
+  </tr>
+</tbody>
+</table>

@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html data-ng-app="mainApp">
+  <head>
+    <!-- ejs title
+    <title><%= typeof title == 'undefined' ? sails.config.sysfullname : title + ' @ ' + sails.config.sysfullname %></title>
+    -->
+    <title data-ng-bind="page.title"></title>
+
+    <!-- Viewport mobile tag for sensible mobile support -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+
+    <!--
+        Stylesheets and Preprocessors
+        ==============================
+
+        You can always bring in CSS files manually with `<link>` tags, or asynchronously
+        using a solution like AMD (RequireJS).  Or, if you like, you can take advantage
+        of Sails' conventional asset pipeline (boilerplate Gruntfile).
+
+        By default, stylesheets from your `assets/styles` folder are included
+        here automatically (between STYLES and STYLES END). Both CSS (.css) and LESS (.less)
+        are supported. In production, your styles will be minified and concatenated into
+        a single file.
+
+        To customize any part of the built-in behavior, just edit `tasks/pipeline.js`.
+        For example, here are a few things you could do:
+
+            + Change the order of your CSS files
+            + Import stylesheets from other directories
+            + Use a different or additional preprocessor, like SASS, SCSS or Stylus
+    -->
+    <!--
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    -->
+    <!-- Ref: http://www.bootcdn.cn/material-design-icons/ 
+    <link rel="stylesheet" href="//cdn.bootcss.com/material-design-icons/3.0.0/iconfont/material-icons.css">
+    -->
+    <!--STYLES-->
+    <link rel="stylesheet" href="/styles/angular-material-data-table/md-data-table.css">
+    <link rel="stylesheet" href="/styles/angular-material/angular-material.css">
+    <link rel="stylesheet" href="/styles/iconfont/material-icons.css">
+    <link rel="stylesheet" href="/styles/importer.css">
+    <link rel="stylesheet" href="/styles/slims.css">
+    <!--STYLES END-->
+  </head>
+
+  <body data-ng-controller="NaviCtrl" layout="column" class="login-auth-directive waiting-for-angular">
+    <div id="initializing-panel"></div>
+    <div id="content-main" layout="column" flex>
+      <md-toolbar class="md-hue-2" layout="row">
+        <div class="md-toolbar-tools" layout-align="space-around center">
+          <span flex="5"></span>
+          <h2>
+            <a href="/#/">
+              <!--
+              <i class="material-icons">&#xE8AB;</i>
+              -->
+              <md-icon class="material-icons">&#xe8ab;</md-icon>
+              <span> <%= sails.config.sysname %> </span>
+              <md-tooltip><%= sails.config.sysfullname %></md-tooltip>
+            </a>
+          </h2>
+          <span flex="5"></span>
+          <div layout="row" ng-if="rootAuth">
+            <!--
+            Sales Menu
+            -->
+            <md-menu md-offset="0 58">
+              <md-button md-menu-origin ng-click="$mdOpenMenu()">
+                Sales
+                <md-icon class="material-icons">&#xe5c5;</md-icon>
+              </md-button>
+              <md-menu-content class="md-default" width="4">
+                <md-menu-item>
+                  <md-button>
+                    <md-icon class="material-icons">description</md-icon>
+                    <label>Customer P.O.</label>
+                  </md-button>
+                </md-menu-item>
+              </md-menu-content>
+            </md-menu>
+            <!--
+            Purchase Menu
+            -->
+            <md-menu md-offset="0 58">
+              <md-button md-menu-origin ng-click="$mdOpenMenu()">
+                Purchase
+                <md-icon class="material-icons">&#xe5c5;</md-icon>
+              </md-button>
+              <md-menu-content class="md-default" width="4">
+                <md-menu-item>
+                  <md-button>
+                    <md-icon class="material-icons">description</md-icon>
+                    <label>Purchase P.O.</label>
+                  </md-button>
+                </md-menu-item>
+              </md-menu-content>
+            </md-menu>
+            <!--
+            Master Data Menu
+            -->
+            <md-menu md-offset="0 58">
+              <md-button md-menu-origin ng-click="$mdOpenMenu()">
+                Master Data
+                <md-icon class="material-icons">&#xe5c5;</md-icon>
+              </md-button>
+              <md-menu-content class="md-default" width="4">
+                <md-menu-item>
+                  <md-button ng-click="entityList()">
+                    <md-icon class="material-icons">business</md-icon>
+                    <label>Customer Master</label>
+                  </md-button>
+                </md-menu-item>
+                <md-menu-item>
+                  <md-button ng-click="entityList()">
+                    <md-icon class="material-icons">business</md-icon>
+                    <label>Vendor Master</label>
+                  </md-button>
+                </md-menu-item>
+                <md-menu-divider class="md-raised md-warn"></md-menu-divider>
+                <md-menu-item>
+                  <md-button ng-click="itemList()">
+                    <md-icon class="material-icons">&#xe02f;</md-icon>
+                    <label>Item Master</label>
+                  </md-button>
+                </md-menu-item>
+                <md-menu-item>
+                  <md-button ng-click="categoryList()">
+                    <md-icon class="material-icons">folder_open</md-icon>
+                    <label>Category Master</label>
+                  </md-button>
+                </md-menu-item>
+                <md-menu-item>
+                  <md-button ng-click="unitList()">
+                    <md-icon class="material-icons">folder_open</md-icon>
+                    <label>Unit Master</label>
+                  </md-button>
+                </md-menu-item>
+                <md-menu-divider class="md-raised md-warn"></md-menu-divider>
+                <md-menu-item>
+                  <md-button ng-click="countryList()">
+                    <md-icon class="material-icons">public</md-icon>
+                    <label>Country Master</label>
+                  </md-button>
+                </md-menu-item>
+                <md-menu-divider class="md-raised md-warn"></md-menu-divider>
+                <md-menu-item>
+                  <md-button ng-click="userList()">
+                    <md-icon class="material-icons">&#xe7fd;</md-icon>
+                    <label>User Master</label>
+                  </md-button>
+                </md-menu-item>
+                <md-menu-item>
+                  <md-button ng-click="roleList()">
+                    <md-icon class="material-icons">&#xe7ef;</md-icon>
+                    <label>Role Master</label>
+                  </md-button>
+                </md-menu-item>
+              </md-menu-content>
+            </md-menu>
+            <md-button>Option 1</md-button>
+            <md-button>Option 2</md-button>
+            <md-button ng-click="naviLogout('userlist')">Clear Token</md-button>
+          </div>
+          <span flex></span>
+          <!--
+          <md-button id="naviLogin" ng-click="naviLogin()" ng-if="!rootAuth && !$state.is('home')">
+          -->
+          <md-button id="naviLogin" ng-click="naviLogin()" ng-if="!rootAuth">
+            <md-icon class="material-icons">&#xe7ff;</md-icon>
+            <md-tooltip>Login</md-tooltip>
+            <label>Login</label>
+          </md-button>
+          <md-menu ng-if="rootAuth">
+            <md-button md-menu-origin ng-click="$mdOpenMenu()">
+              <md-icon class="material-icons">&#xe7fd;</md-icon>
+              <md-tooltip>User Profile</md-tooltip>
+              <label>{{rootUser.username}}</label>
+              <md-icon class="material-icons">&#xe5c5;</md-icon>
+            </md-button>
+            <md-menu-content class="md-default">
+              <md-menu-item>
+                <md-button ng-click="userShow()"><md-icon class="material-icons">folder_shared</md-icon><label>My Profile ...</label></md-button>
+              </md-menu-item>
+              <md-menu-divider></md-menu-divider>
+              <md-menu-item>
+                <md-button ng-click="naviLogout('home')"><md-icon class="material-icons">exit_to_app</md-icon><label>Logout</label></md-button>
+              </md-menu-item>
+            </md-menu-content>
+          </md-menu>
+          <span flex="5"></span>
+        </div>
+      </md-toolbar>
+      <!--
+       style="min-height:100px; "
+      -->
+      <md-content id="main-view" md-scroll-y layout="column" style="min-height: 100px; ">
+        <%- body %>
+        <!--
+        <ui-view ng-if="rootAuth || $state.is('home')"></ui-view>
+        -->
+        <ui-view ng-if="rootAuth || $state.is('home')"></ui-view>
+      </md-content>
+    </div>
+    <!--
+        Client-side Templates
+        ========================
+
+        HTML templates are important prerequisites of modern, rich client applications.
+        To work their magic, frameworks like Backbone, Angular, Ember, and Knockout require
+        that you load these templates client-side.
+
+        By default, your Gruntfile is configured to automatically load and precompile
+        client-side JST templates in your `assets/templates` folder, then
+        include them here automatically (between TEMPLATES and TEMPLATES END).
+
+        To customize this behavior to fit your needs, just edit `tasks/pipeline.js`.
+        For example, here are a few things you could do:
+
+            + Import templates from other directories
+            + Use a different template engine (handlebars, jade, dust, etc.)
+            + Internationalize your client-side templates using a server-side
+              stringfile before they're served.
+    -->
+
+    <!--TEMPLATES-->
+    <script type="text/javascript" src="/jst.js"></script>
+    <!--TEMPLATES END-->
+
+
+    <!--
+
+      Client-side Javascript
+      ========================
+
+      You can always bring in JS files manually with `script` tags, or asynchronously
+      on the client using a solution like AMD (RequireJS).  Or, if you like, you can
+      take advantage of Sails' conventional asset pipeline (boilerplate Gruntfile).
+
+      By default, files in your `assets/js` folder are included here
+      automatically (between SCRIPTS and SCRIPTS END).  Both JavaScript (.js) and
+      CoffeeScript (.coffee) are supported. In production, your scripts will be minified
+      and concatenated into a single file.
+
+      To customize any part of the built-in behavior, just edit `tasks/pipeline.js`.
+      For example, here are a few things you could do:
+
+          + Change the order of your scripts
+          + Import scripts from other directories
+          + Use a different preprocessor, like TypeScript
+
+    -->
+
+    <!--SCRIPTS-->
+    <script src="/js/dependencies/sails.io.js"></script>
+    <script src="/js/dependencies/jquery.js"></script>
+    <script src="/js/dependencies/angular.js"></script>
+    <script src="/js/dependencies/angular-ui-router.js"></script>
+    <script src="/js/dependencies/angular-permission.js"></script>
+    <script src="/js/dependencies/angular-animate.js"></script>
+    <script src="/js/dependencies/angular-aria.js"></script>
+    <script src="/js/dependencies/angular-material.js"></script>
+    <script src="/js/dependencies/angular-messages.js"></script>
+    <script src="/js/dependencies/angular-permission-ui.js"></script>
+    <script src="/js/dependencies/angular-resource.js"></script>
+    <script src="/js/dependencies/angular-webstorage.js"></script>
+    <script src="/js/dependencies/fixed-table-header.js"></script>
+    <script src="/js/dependencies/http-auth-interceptor.js"></script>
+    <script src="/js/dependencies/md-data-table.js"></script>
+    <script src="/js/modules/main.module.js"></script>
+    <script src="/js/modules/main.routes.js"></script>
+    <script src="/js/controllers/category.controller.js"></script>
+    <script src="/js/controllers/country.controller.js"></script>
+    <script src="/js/controllers/entity.controller.js"></script>
+    <script src="/js/controllers/icon.controller.js"></script>
+    <script src="/js/controllers/item.controller.js"></script>
+    <script src="/js/controllers/navi.controller.js"></script>
+    <script src="/js/controllers/role.controller.js"></script>
+    <script src="/js/controllers/subcategory.controller.js"></script>
+    <script src="/js/controllers/unit.controller.js"></script>
+    <script src="/js/controllers/user.controller.js"></script>
+    <script src="/js/directives/user.directive.js"></script>
+    <script src="/js/factories/focus.factory.js"></script>
+    <script src="/js/factories/toast.factory.js"></script>
+    <script src="/js/factories/user.factory.js"></script>
+    <!--SCRIPTS END-->
+  </body>
+</html>
