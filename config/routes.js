@@ -38,9 +38,6 @@ module.exports.routes = {
   '/icons': {
     view: 'icons'
   },
-  '/demo': {
-    view: 'demo'
-  },
   /***************************************************************************
   *                                                                          *
   * Custom routes here...                                                    *
